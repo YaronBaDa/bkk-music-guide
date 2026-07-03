@@ -17,7 +17,7 @@ export default async function VenuesPage() {
     <>
       <Header />
       <main id="main-content" className="mx-auto max-w-6xl px-4 py-12">
-        <h1 className="mb-12 text-4xl md:text-5xl font-bold text-text-primary">Venues</h1>
+        <h1 className="mb-12 text-4xl md:text-5xl font-bold text-text-primary font-display">Venues</h1>
         <div className="grid grid-cols-1 gap-px sm:grid-cols-2 lg:grid-cols-3 bg-border">
           {list.map((venue) => (
             <Link

@@ -79,8 +79,8 @@ export default async function VenueDetailPage({
 
         {venueConcerts.length > 0 && (
           <section className="mt-12">
-            <h2 className="mb-8 text-2xl font-bold text-text-primary">
-              Upcoming Events
+            <h2 className="mb-8 text-2xl font-bold text-text-primary font-display">
+              Upcoming Concerts
             </h2>
             <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
               {venueConcerts.map((event) => (

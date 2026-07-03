@@ -81,7 +81,7 @@ export default async function HomePage() {
         <section className="py-16 md:py-24 border-b border-border">
           <div className="grid gap-8 md:grid-cols-12">
             <div className="md:col-span-7">
-              <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-text-primary leading-none">
+              <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-text-primary leading-none font-display">
                 Bangkok<br />
                 Concerts
               </h1>
@@ -147,7 +147,7 @@ export default async function HomePage() {
         {/* This week */}
         <section className="py-12 md:py-16">
           <div className="mb-8 flex items-end justify-between border-b border-border pb-4">
-            <h2 className="text-3xl font-bold text-text-primary">This Week</h2>
+            <h2 className="text-3xl font-bold text-text-primary font-display">This Week</h2>
             <Link
               href="/concerts"
               className="flex items-center gap-1 text-sm font-medium text-text-secondary hover:text-text-primary uppercase tracking-wide"
@@ -169,7 +169,7 @@ export default async function HomePage() {
         {/* Top venues */}
         <section className="py-12 md:py-16 border-t border-border">
           <div className="mb-8 flex items-end justify-between border-b border-border pb-4">
-            <h2 className="text-3xl font-bold text-text-primary">Venues</h2>
+            <h2 className="text-3xl font-bold text-text-primary font-display">Venues</h2>
             <Link
               href="/venues"
               className="flex items-center gap-1 text-sm font-medium text-text-secondary hover:text-text-primary uppercase tracking-wide"
@@ -203,7 +203,7 @@ export default async function HomePage() {
         {/* Coming up next */}
         <section className="py-12 md:py-16 border-t border-border">
           <div className="mb-8 border-b border-border pb-4">
-            <h2 className="text-3xl font-bold text-text-primary">Coming Up Next</h2>
+            <h2 className="text-3xl font-bold text-text-primary font-display">Coming Up Next</h2>
           </div>
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
             {comingUp.map((event) => (

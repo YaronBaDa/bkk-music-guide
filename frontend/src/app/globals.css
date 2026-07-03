@@ -19,7 +19,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, .font-display {
+/* Chango only for page titles and section titles, not concert titles */
+.font-display {
   font-family: var(--font-chango), "Plus Jakarta Sans", Helvetica, Arial, system-ui, sans-serif;
 }
 

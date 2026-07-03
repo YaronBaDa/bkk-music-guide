@@ -185,7 +185,7 @@ export default async function ConcertDetailPage({
 
         {related.length > 0 && (
           <section className="mt-16 pt-12 border-t border-border">
-            <h2 className="mb-8 text-2xl font-bold text-text-primary">
+            <h2 className="mb-8 text-2xl font-bold text-text-primary font-display">
               Related Shows
             </h2>
             <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">

@@ -258,7 +258,7 @@ function ConcertsInner({
         <div className="space-y-16">
           {Object.entries(grouped).map(([month, items]) => (
             <section key={month}>
-              <h2 className="mb-6 text-2xl font-bold text-text-primary">
+              <h2 className="mb-6 text-2xl font-bold text-text-primary font-display">
                 {new Date(month + "-01").toLocaleDateString("en-US", {
                   month: "long",
                   year: "numeric",

@@ -14,7 +14,7 @@ export default async function ConcertsPage() {
     <>
       <Header />
       <main id="main-content" className="mx-auto max-w-6xl px-4 py-12">
-        <h1 className="mb-12 text-4xl md:text-5xl font-bold text-text-primary">All Concerts</h1>
+        <h1 className="mb-12 text-4xl md:text-5xl font-bold text-text-primary font-display">All Concerts</h1>
         <ConcertsClient concerts={concerts} venues={venues} />
       </main>
     </>
