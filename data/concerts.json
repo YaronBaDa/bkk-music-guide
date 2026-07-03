@@ -15,7 +15,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -156,7 +158,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -203,7 +207,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -438,7 +444,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -485,7 +493,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -532,7 +543,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -579,7 +592,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -626,7 +642,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -720,7 +738,9 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -814,7 +834,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -861,7 +883,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -908,7 +932,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -955,7 +981,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1002,7 +1032,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1100,7 +1133,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1147,7 +1182,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1194,7 +1231,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1288,7 +1327,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1335,7 +1376,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1382,7 +1425,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1429,7 +1474,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1476,7 +1523,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1523,7 +1572,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1570,7 +1621,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1617,7 +1670,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1664,7 +1719,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1711,7 +1768,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1758,7 +1817,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1805,7 +1866,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1852,7 +1915,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -1899,7 +1964,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2150,7 +2217,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2197,7 +2266,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2401,7 +2472,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2593,7 +2667,9 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2640,7 +2716,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2785,7 +2863,9 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2879,7 +2959,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -2926,7 +3008,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3020,7 +3106,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3114,7 +3203,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3208,7 +3299,10 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3255,7 +3349,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3302,7 +3398,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3396,7 +3494,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3490,7 +3590,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3678,7 +3781,9 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3772,7 +3877,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3866,7 +3973,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3913,7 +4022,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -3960,7 +4071,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4007,7 +4120,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4054,7 +4169,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4101,7 +4218,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4148,7 +4267,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4195,7 +4318,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4242,7 +4368,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4289,7 +4418,9 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4336,7 +4467,9 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4383,7 +4516,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4430,7 +4565,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4477,7 +4614,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4571,7 +4710,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4665,7 +4806,9 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4712,7 +4855,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4759,7 +4905,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4806,7 +4956,10 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4853,7 +5006,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4947,7 +5102,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -4994,7 +5151,10 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5088,7 +5248,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5182,7 +5346,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5229,7 +5395,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5323,7 +5493,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5370,7 +5542,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5417,7 +5592,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5464,7 +5641,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5511,7 +5690,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5605,7 +5787,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5652,7 +5836,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5699,7 +5885,9 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5746,7 +5934,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5934,7 +6124,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -5981,7 +6173,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6122,7 +6316,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6169,7 +6365,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6216,7 +6414,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6310,7 +6510,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6357,7 +6561,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6404,7 +6610,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6451,7 +6660,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6498,7 +6709,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6639,7 +6854,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6686,7 +6903,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6780,7 +7001,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6874,7 +7098,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6921,7 +7147,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -6968,7 +7196,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7015,7 +7245,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7062,7 +7294,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7109,7 +7344,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7156,7 +7395,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7203,7 +7445,10 @@
     "genres": [
       "rock"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7250,7 +7495,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7297,7 +7545,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7344,7 +7594,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7391,7 +7645,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7438,7 +7694,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7485,7 +7744,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7626,7 +7887,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7673,7 +7937,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7720,7 +7986,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7767,7 +8036,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7814,7 +8086,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7861,7 +8135,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -7955,7 +8231,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8002,7 +8282,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8049,7 +8332,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8143,7 +8428,9 @@
     "genres": [
       "rock"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8237,7 +8524,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8284,7 +8575,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8331,7 +8625,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8378,7 +8676,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8425,7 +8725,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8472,7 +8774,9 @@
     "genres": [
       "pop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8519,7 +8823,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8566,7 +8874,9 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8660,7 +8970,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8707,7 +9019,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8754,7 +9070,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8801,7 +9119,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8848,7 +9169,10 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8942,7 +9266,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -8989,7 +9315,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9036,7 +9364,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9083,7 +9413,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9271,7 +9603,10 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9318,7 +9653,9 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9365,7 +9702,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9459,7 +9799,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9506,7 +9850,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9553,7 +9899,9 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9600,7 +9948,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9882,7 +10232,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9929,7 +10282,10 @@
     "genres": [
       "rock"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -9976,7 +10332,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10117,7 +10477,10 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10164,7 +10527,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10211,7 +10577,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10258,7 +10627,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10352,7 +10723,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10399,7 +10774,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10446,7 +10823,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10493,7 +10872,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10540,7 +10922,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10587,7 +10973,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10634,7 +11022,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10728,7 +11118,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10775,7 +11169,9 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10822,7 +11218,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10916,7 +11314,9 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -10963,7 +11363,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11010,7 +11412,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11104,7 +11508,10 @@
     "genres": [
       "rock"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11151,7 +11558,9 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11245,7 +11654,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11292,7 +11703,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11339,7 +11753,10 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11386,7 +11803,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11527,7 +11948,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11574,7 +11997,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11621,7 +12046,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11715,7 +12142,10 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11762,7 +12192,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11809,7 +12243,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -11997,7 +12434,10 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12138,7 +12578,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12185,7 +12627,9 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12232,7 +12676,10 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12279,7 +12726,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12373,7 +12823,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Festival",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12420,7 +12874,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12514,7 +12971,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12608,7 +13068,10 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12655,7 +13118,9 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12702,7 +13167,10 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12749,7 +13217,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12796,7 +13268,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12843,7 +13318,10 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12890,7 +13368,10 @@
     "genres": [
       "classical"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12937,7 +13418,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -12984,7 +13467,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13172,7 +13658,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13219,7 +13708,9 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13266,7 +13757,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13313,7 +13807,9 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13454,7 +13950,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13501,7 +14000,9 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13548,7 +14049,9 @@
     "genres": [
       "pop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13736,7 +14239,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13783,7 +14288,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13830,7 +14338,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13877,7 +14387,9 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13924,7 +14436,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -13971,7 +14485,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14018,7 +14534,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14065,7 +14583,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14112,7 +14632,10 @@
     "genres": [
       "rock"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14159,7 +14682,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14253,7 +14778,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14300,7 +14828,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14347,7 +14878,9 @@
     "genres": [
       "jazz"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14394,7 +14927,10 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14441,7 +14977,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14535,7 +15073,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14582,7 +15123,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14629,7 +15174,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14770,7 +15317,10 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14864,7 +15414,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14911,7 +15463,10 @@
     "genres": [
       "indie"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Indie",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -14958,7 +15513,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15005,7 +15562,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15052,7 +15613,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15099,7 +15664,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15193,7 +15761,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15240,7 +15811,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15334,7 +15907,10 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15428,7 +16004,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15616,7 +16194,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15757,7 +16337,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -15851,7 +16434,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16039,7 +16624,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16227,7 +16814,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16321,7 +16912,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16368,7 +16961,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16462,7 +17059,10 @@
     "genres": [
       "hip-hop"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Hip-Hop",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16556,7 +17156,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16697,7 +17301,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16744,7 +17350,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Jazz & Classical"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16791,7 +17399,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16838,7 +17449,11 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "K-Pop",
+      "Livehouse"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16885,7 +17500,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16932,7 +17549,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -16979,7 +17598,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17073,7 +17694,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17120,7 +17743,9 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17167,7 +17792,9 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17214,7 +17841,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17261,7 +17891,10 @@
     "genres": [
       "metal"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17308,7 +17941,10 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic",
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17355,7 +17991,9 @@
     "genres": [
       "electronic"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Electronic"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17543,7 +18181,10 @@
     "genres": [
       "rock"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop",
+      "Rock & Metal"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17590,7 +18231,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17637,7 +18280,10 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival",
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17684,7 +18330,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "K-Pop"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17731,7 +18379,9 @@
     "genres": [
       "other"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "International"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
@@ -17778,7 +18428,9 @@
     "genres": [
       "festival"
     ],
-    "sceneTags": [],
+    "sceneTags": [
+      "Festival"
+    ],
     "pricing": {
       "currency": "THB",
       "fromPrice": null,
