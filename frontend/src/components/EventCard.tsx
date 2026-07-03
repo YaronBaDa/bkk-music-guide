@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Calendar, MapPin } from "lucide-react";
-import { Concert, Venue, formatPrice, relativeDate } from "@/lib/data";
+import { Concert, Venue, formatPrice, relativeDate } from "@/lib/types";
 
 interface EventCardProps {
   event: Concert;

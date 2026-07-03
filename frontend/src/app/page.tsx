@@ -58,7 +58,7 @@ export default async function HomePage() {
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-3">
             <Link
-              href="/concerts?q="
+              href="/concerts"
               className="inline-flex items-center gap-2 rounded-full bg-accent px-6 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent-hover"
             >
               <Music className="h-4 w-4" />
@@ -69,22 +69,20 @@ export default async function HomePage() {
 
         {/* Quick filters */}
         <section className="mb-12">
-          <div className="grid grid-cols-3 gap-3 sm:gap-4">
-            <QuickFilter
-              label="Tonight"
-              count={tonight.length}
-              href={`/concerts?date=${today}`}
-            />
-            <QuickFilter
-              label="This Weekend"
-              count={thisWeekend.length}
-              href={`/concerts?from=${weekendStart}&to=${weekendEnd}`}
-            />
-            <QuickFilter
-              label="This Month"
-              count={thisMonth.length}
-              href={`/concerts?from=${today}&to=${monthEnd}`}
-            />
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="text-xs font-medium text-text-tertiary mr-1">When:</span>
+            <QuickFilterChip label={`Tonight ${tonight.length}`} href="/concerts?when=tonight" />
+            <QuickFilterChip label={`Weekend ${thisWeekend.length}`} href="/concerts?when=weekend" />
+            <QuickFilterChip label={`Month ${thisMonth.length}`} href="/concerts?when=month" />
+          </div>
+          <div className="mt-3 flex flex-wrap items-center gap-2">
+            <span className="text-xs font-medium text-text-tertiary mr-1">Genre:</span>
+            <QuickFilterChip label="Pop" href="/concerts?genre=pop" />
+            <QuickFilterChip label="Rock" href="/concerts?genre=rock" />
+            <QuickFilterChip label="Electronic" href="/concerts?genre=electronic" />
+            <QuickFilterChip label="Jazz" href="/concerts?genre=jazz" />
+            <QuickFilterChip label="K-Pop / Hip-Hop" href="/concerts?genre=hip-hop" />
+            <QuickFilterChip label="Indie" href="/concerts?genre=indie" />
           </div>
         </section>
 
@@ -173,22 +171,13 @@ export default async function HomePage() {
   );
 }
 
-function QuickFilter({
-  label,
-  count,
-  href,
-}: {
-  label: string;
-  count: number;
-  href: string;
-}) {
+function QuickFilterChip({ label, href }: { label: string; href: string }) {
   return (
     <Link
       href={href}
-      className="flex flex-col items-center rounded-xl border border-border bg-surface p-4 text-center transition-all hover:border-accent/30 hover:bg-elevated"
+      className="rounded-full border border-border bg-surface px-3 py-1 text-xs font-medium text-text-secondary transition-colors hover:border-accent/30 hover:text-accent"
     >
-      <span className="text-lg font-bold text-accent">{count}</span>
-      <span className="mt-1 text-xs font-medium text-text-secondary">{label}</span>
+      {label}
     </Link>
   );
 }
