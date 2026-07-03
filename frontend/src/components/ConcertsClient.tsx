@@ -86,8 +86,8 @@ function ConcertsInner({
   return (
     <div>
       {/* Search */}
-      <div className="mb-4 flex items-center gap-2 rounded-xl border border-border bg-surface px-3 py-2">
-        <Search className="h-4 w-4 shrink-0 text-text-tertiary" />
+      <div className="mb-6 flex items-center gap-2 border border-border bg-surface px-3 py-3">
+        <Search className="h-4 w-4 shrink-0 text-text-tertiary" strokeWidth={1.5} />
         <input
           type="text"
           value={query}
@@ -97,19 +97,19 @@ function ConcertsInner({
         />
         {query && (
           <button onClick={() => setQuery("")} className="shrink-0">
-            <X className="h-4 w-4 text-text-tertiary" />
+            <X className="h-4 w-4 text-text-tertiary" strokeWidth={1.5} />
           </button>
         )}
       </div>
 
       {/* Genre chips */}
-      <div className="mb-6 flex flex-wrap gap-2">
+      <div className="mb-8 flex flex-wrap gap-2">
         <button
           onClick={() => setSelectedGenre("")}
-          className={`rounded-full px-3 py-1 text-xs font-medium transition-colors ${
+          className={`px-3 py-1.5 text-xs font-medium uppercase tracking-wide transition-colors border ${
             selectedGenre === ""
-              ? "bg-accent text-white"
-              : "bg-elevated text-text-secondary hover:bg-border"
+              ? "bg-text-primary text-white border-text-primary"
+              : "bg-background text-text-secondary border-border hover:border-text-primary"
           }`}
         >
           All
@@ -118,10 +118,10 @@ function ConcertsInner({
           <button
             key={g}
             onClick={() => setSelectedGenre(g === selectedGenre ? "" : g)}
-            className={`rounded-full px-3 py-1 text-xs font-medium capitalize transition-colors ${
+            className={`px-3 py-1.5 text-xs font-medium uppercase tracking-wide transition-colors border ${
               selectedGenre === g
-                ? "bg-accent text-white"
-                : "bg-elevated text-text-secondary hover:bg-border"
+                ? "bg-text-primary text-white border-text-primary"
+                : "bg-background text-text-secondary border-border hover:border-text-primary"
             }`}
           >
             {g}
@@ -129,35 +129,35 @@ function ConcertsInner({
         ))}
       </div>
 
-      <p className="mb-4 text-xs text-text-tertiary">
+      <p className="mb-6 text-xs text-text-tertiary uppercase tracking-wide">
         {filtered.length} concert{filtered.length !== 1 ? "s" : ""} found
       </p>
 
       {filtered.length === 0 ? (
         <div className="flex flex-col items-center justify-center py-16 text-text-tertiary">
-          <Calendar className="mb-2 h-8 w-8" />
+          <Calendar className="mb-2 h-8 w-8" strokeWidth={1.5} />
           <p className="text-sm">No concerts match your search.</p>
           <button
             onClick={() => {
               setQuery("");
               setSelectedGenre("");
             }}
-            className="mt-2 text-xs text-accent hover:underline"
+            className="mt-2 text-xs text-text-secondary hover:text-text-primary uppercase tracking-wide underline"
           >
             Clear filters
           </button>
         </div>
       ) : (
-        <div className="space-y-10">
+        <div className="space-y-16">
           {Object.entries(grouped).map(([month, items]) => (
             <section key={month}>
-              <h2 className="mb-4 text-lg font-bold text-text-primary">
+              <h2 className="mb-6 text-2xl font-bold text-text-primary">
                 {new Date(month + "-01").toLocaleDateString("en-US", {
                   month: "long",
                   year: "numeric",
                 })}
               </h2>
-              <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4">
+              <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
                 {items.map((event) => (
                   <EventCard
                     key={event.id}
@@ -184,7 +184,7 @@ export default function ConcertsClient({
   return (
     <Suspense
       fallback={
-        <div className="py-12 text-center text-sm text-text-tertiary">
+        <div className="py-12 text-center text-sm text-text-tertiary uppercase tracking-wide">
           Loading concerts...
         </div>
       }

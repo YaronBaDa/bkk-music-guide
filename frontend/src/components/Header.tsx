@@ -2,35 +2,32 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { Search, Menu, X, Music } from "lucide-react";
+import { Search, Menu, X } from "lucide-react";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-border bg-background/80 backdrop-blur-md">
-      <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
+    <header className="sticky top-0 z-40 border-b border-border bg-background">
+      <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
         <Link
           href="/"
-          className="flex items-center gap-2 text-lg font-bold tracking-tight text-text-primary"
+          className="text-lg font-bold tracking-tight text-text-primary uppercase"
         >
-          <Music className="h-5 w-5 text-accent" />
-          <span>
-            Live <span className="text-accent">/</span> BKK
-          </span>
+          Live / BKK
         </Link>
 
-        <nav className="hidden items-center gap-6 md:flex">
+        <nav className="hidden items-center gap-8 md:flex">
           <Link
             href="/concerts"
-            className="text-sm font-medium text-text-secondary transition-colors hover:text-text-primary"
+            className="text-sm font-medium text-text-secondary transition-colors hover:text-text-primary uppercase tracking-wide"
           >
             Concerts
           </Link>
           <Link
             href="/venues"
-            className="text-sm font-medium text-text-secondary transition-colors hover:text-text-primary"
+            className="text-sm font-medium text-text-secondary transition-colors hover:text-text-primary uppercase tracking-wide"
           >
             Venues
           </Link>
@@ -39,35 +36,35 @@ export default function Header() {
         <div className="flex items-center gap-3">
           <button
             onClick={() => setSearchOpen(!searchOpen)}
-            className="rounded-lg p-2 text-text-secondary transition-colors hover:bg-surface hover:text-text-primary"
+            className="p-2 text-text-secondary transition-colors hover:text-text-primary"
             aria-label="Search"
           >
-            <Search className="h-5 w-5" />
+            <Search className="h-5 w-5" strokeWidth={1.5} />
           </button>
           <button
             onClick={() => setMenuOpen(!menuOpen)}
-            className="rounded-lg p-2 text-text-secondary transition-colors hover:bg-surface hover:text-text-primary md:hidden"
+            className="p-2 text-text-secondary transition-colors hover:text-text-primary md:hidden"
             aria-label="Menu"
           >
-            {menuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+            {menuOpen ? <X className="h-5 w-5" strokeWidth={1.5} /> : <Menu className="h-5 w-5" strokeWidth={1.5} />}
           </button>
         </div>
       </div>
 
       {searchOpen && (
-        <div className="border-t border-border px-4 py-3">
+        <div className="border-t border-border px-4 py-4">
           <form
             action="/concerts"
             method="GET"
             className="mx-auto max-w-2xl"
           >
             <div className="relative">
-              <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-text-tertiary" />
+              <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-text-tertiary" strokeWidth={1.5} />
               <input
                 type="search"
                 name="q"
                 placeholder="Search concerts, venues, artists..."
-                className="w-full rounded-lg border border-border bg-surface py-2.5 pl-10 pr-4 text-sm text-text-primary placeholder:text-text-tertiary focus:border-accent focus:outline-none"
+                className="w-full border border-border bg-surface py-3 pl-10 pr-4 text-sm text-text-primary placeholder:text-text-tertiary focus:border-text-primary focus:outline-none"
                 autoFocus
               />
             </div>
@@ -76,18 +73,18 @@ export default function Header() {
       )}
 
       {menuOpen && (
-        <nav className="border-t border-border px-4 py-3 md:hidden">
-          <div className="flex flex-col gap-3">
+        <nav className="border-t border-border px-4 py-4 md:hidden">
+          <div className="flex flex-col gap-4">
             <Link
               href="/concerts"
-              className="text-sm font-medium text-text-secondary"
+              className="text-sm font-medium text-text-secondary uppercase tracking-wide"
               onClick={() => setMenuOpen(false)}
             >
               Concerts
             </Link>
             <Link
               href="/venues"
-              className="text-sm font-medium text-text-secondary"
+              className="text-sm font-medium text-text-secondary uppercase tracking-wide"
               onClick={() => setMenuOpen(false)}
             >
               Venues

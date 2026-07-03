@@ -16,17 +16,17 @@ export default async function VenuesPage() {
   return (
     <>
       <Header />
-      <main id="main-content" className="mx-auto max-w-6xl px-4 py-8">
-        <h1 className="mb-6 text-2xl font-bold text-text-primary">Venues</h1>
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <main id="main-content" className="mx-auto max-w-6xl px-4 py-12">
+        <h1 className="mb-12 text-4xl md:text-5xl font-bold text-text-primary">Venues</h1>
+        <div className="grid grid-cols-1 gap-px sm:grid-cols-2 lg:grid-cols-3 bg-border">
           {list.map((venue) => (
             <Link
               key={venue.id}
               href={`/venues/${venue.id}`}
-              className="group flex items-start gap-4 rounded-xl border border-border bg-surface p-5 transition-all hover:border-accent/30 hover:bg-elevated"
+              className="group flex items-start gap-4 bg-background p-6 transition-colors hover:bg-surface"
             >
-              <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-lg bg-elevated transition-colors group-hover:bg-accent/10">
-                <MapPin className="h-6 w-6 text-accent" />
+              <div className="flex h-14 w-14 shrink-0 items-center justify-center bg-surface border border-border">
+                <MapPin className="h-6 w-6 text-text-secondary" strokeWidth={1.5} />
               </div>
               <div className="min-w-0 flex-1">
                 <h2 className="truncate text-base font-semibold text-text-primary">
@@ -39,7 +39,7 @@ export default async function VenuesPage() {
                   )}
                 </p>
               </div>
-              <ArrowRight className="mt-1 h-4 w-4 shrink-0 text-text-tertiary transition-colors group-hover:text-accent" />
+              <ArrowRight className="mt-1 h-4 w-4 shrink-0 text-text-tertiary transition-colors group-hover:text-text-primary" strokeWidth={1.5} />
             </Link>
           ))}
         </div>
