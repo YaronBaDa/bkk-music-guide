@@ -2,11 +2,23 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { Search, Menu, X } from "lucide-react";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
+  const router = useRouter();
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      router.push(`/concerts?q=${encodeURIComponent(searchQuery.trim())}`);
+      setSearchOpen(false);
+      setSearchQuery("");
+    }
+  };
 
   return (
     <header className="sticky top-0 z-40 border-b border-border bg-background">
@@ -54,15 +66,15 @@ export default function Header() {
       {searchOpen && (
         <div className="border-t border-border px-4 py-4">
           <form
-            action="/concerts"
-            method="GET"
+            onSubmit={handleSearch}
             className="mx-auto max-w-2xl"
           >
             <div className="relative">
               <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-text-tertiary" strokeWidth={1.5} />
               <input
                 type="search"
-                name="q"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Search concerts, venues, artists..."
                 className="w-full border border-border bg-surface py-3 pl-10 pr-4 text-sm text-text-primary placeholder:text-text-tertiary focus:border-text-primary focus:outline-none"
                 autoFocus

@@ -44,8 +44,9 @@ function ConcertsInner({
   const initialWhen = searchParams.get("when") || "";
   const initialScene = searchParams.get("scene") || "";
   const initialMonth = searchParams.get("month") || "";
+  const initialQuery = searchParams.get("q") || "";
 
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState(initialQuery);
   const [selectedGenre, setSelectedGenre] = useState<string>(initialGenre);
   const [selectedScene, setSelectedScene] = useState<string>(initialScene);
   const [selectedMonth, setSelectedMonth] = useState<string>(initialMonth);
