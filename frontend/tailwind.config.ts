@@ -25,6 +25,7 @@ const config: Config = {
       },
       fontFamily: {
         sans: ['"Plus Jakarta Sans"', "Helvetica", "Arial", "system-ui", "sans-serif"],
+        display: ['var(--font-chango)', '"Plus Jakarta Sans"', "Helvetica", "Arial", "system-ui", "sans-serif"],
         mono: ['"JetBrains Mono"', "monospace"],
       },
       borderRadius: {
