@@ -54,6 +54,25 @@ export default async function HomePage() {
     .filter((c) => c.date.startDate > today)
     .slice(0, 6);
 
+  // Month quick filters — next 6 months with concerts
+  const monthCounts: Record<string, number> = {};
+  concerts.forEach((c) => {
+    const ym = c.date.startDate.slice(0, 7);
+    monthCounts[ym] = (monthCounts[ym] || 0) + 1;
+  });
+  const topMonths = Object.entries(monthCounts)
+    .sort((a, b) => a[0].localeCompare(b[0]))
+    .slice(0, 6)
+    .map(([ym]) => ym);
+
+  const monthLabel = (ym: string) => {
+    const [y, m] = ym.split("-");
+    return new Date(Number(y), Number(m) - 1, 1).toLocaleDateString("en-US", {
+      month: "short",
+      year: "numeric",
+    });
+  };
+
   return (
     <>
       <Header />
@@ -91,6 +110,16 @@ export default async function HomePage() {
             <QuickFilterChip label={`Tonight (${tonight.length})`} href="/concerts?when=tonight" />
             <QuickFilterChip label={`Weekend (${thisWeekend.length})`} href="/concerts?when=weekend" />
             <QuickFilterChip label={`Month (${thisMonth.length})`} href="/concerts?when=month" />
+          </div>
+          <div className="mt-3 flex flex-wrap items-center gap-3">
+            <span className="text-xs font-medium text-text-tertiary uppercase tracking-wide">Month:</span>
+            {topMonths.map((ym) => (
+              <QuickFilterChip
+                key={ym}
+                label={`${monthLabel(ym)} (${monthCounts[ym]})`}
+                href={`/concerts?month=${ym}`}
+              />
+            ))}
           </div>
           <div className="mt-3 flex flex-wrap items-center gap-3">
             <span className="text-xs font-medium text-text-tertiary uppercase tracking-wide">Genre:</span>

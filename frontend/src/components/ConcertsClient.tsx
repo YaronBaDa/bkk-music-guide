@@ -43,10 +43,29 @@ function ConcertsInner({
   const initialGenre = searchParams.get("genre") || "";
   const initialWhen = searchParams.get("when") || "";
   const initialScene = searchParams.get("scene") || "";
+  const initialMonth = searchParams.get("month") || "";
 
   const [query, setQuery] = useState("");
   const [selectedGenre, setSelectedGenre] = useState<string>(initialGenre);
   const [selectedScene, setSelectedScene] = useState<string>(initialScene);
+  const [selectedMonth, setSelectedMonth] = useState<string>(initialMonth);
+
+  // Available months from data, sorted
+  const availableMonths = useMemo(() => {
+    const months = new Set<string>();
+    concerts.forEach((c) => {
+      months.add(c.date.startDate.slice(0, 7));
+    });
+    return Array.from(months).sort();
+  }, [concerts]);
+
+  const monthLabel = (ym: string) => {
+    const [y, m] = ym.split("-");
+    return new Date(Number(y), Number(m) - 1, 1).toLocaleDateString("en-US", {
+      month: "short",
+      year: "numeric",
+    });
+  };
 
   const filtered = useMemo(() => {
     let list = concerts;
@@ -69,6 +88,10 @@ function ConcertsInner({
         .toISOString()
         .slice(0, 10);
       list = list.filter((c) => c.date.startDate >= today && c.date.startDate <= monthEnd);
+    }
+
+    if (selectedMonth) {
+      list = list.filter((c) => c.date.startDate.startsWith(selectedMonth));
     }
 
     if (selectedGenre) {
@@ -96,7 +119,7 @@ function ConcertsInner({
     }
 
     return list;
-  }, [concerts, venues, query, selectedGenre, selectedScene, initialWhen]);
+  }, [concerts, venues, query, selectedGenre, selectedScene, selectedMonth, initialWhen]);
 
   const grouped = useMemo(() => {
     const g: Record<string, Concert[]> = {};
@@ -126,6 +149,35 @@ function ConcertsInner({
           </button>
         )}
       </div>
+
+      {/* Month chips */}
+      {availableMonths.length > 0 && (
+        <div className="mb-4 flex flex-wrap gap-2">
+          <button
+            onClick={() => setSelectedMonth("")}
+            className={`px-3 py-1.5 text-xs font-medium uppercase tracking-wide transition-colors border ${
+              selectedMonth === ""
+                ? "bg-text-primary text-white border-text-primary"
+                : "bg-background text-text-secondary border-border hover:border-text-primary"
+            }`}
+          >
+            All months
+          </button>
+          {availableMonths.map((m) => (
+            <button
+              key={m}
+              onClick={() => setSelectedMonth(m === selectedMonth ? "" : m)}
+              className={`px-3 py-1.5 text-xs font-medium uppercase tracking-wide transition-colors border ${
+                selectedMonth === m
+                  ? "bg-text-primary text-white border-text-primary"
+                  : "bg-background text-text-secondary border-border hover:border-text-primary"
+              }`}
+            >
+              {monthLabel(m)}
+            </button>
+          ))}
+        </div>
+      )}
 
       {/* Genre chips */}
       <div className="mb-4 flex flex-wrap gap-2">
@@ -194,6 +246,7 @@ function ConcertsInner({
               setQuery("");
               setSelectedGenre("");
               setSelectedScene("");
+              setSelectedMonth("");
             }}
             className="mt-2 text-xs text-text-secondary hover:text-text-primary uppercase tracking-wide underline"
           >
