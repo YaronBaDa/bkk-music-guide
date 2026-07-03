@@ -24,7 +24,7 @@ const config: Config = {
         danger: "#FF0000",
       },
       fontFamily: {
-        sans: ['"Inter"', "Helvetica", "Arial", "system-ui", "sans-serif"],
+        sans: ['"Plus Jakarta Sans"', "Helvetica", "Arial", "system-ui", "sans-serif"],
         mono: ['"JetBrains Mono"', "monospace"],
       },
       borderRadius: {
