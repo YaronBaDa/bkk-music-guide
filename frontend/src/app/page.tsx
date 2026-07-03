@@ -35,6 +35,17 @@ export default async function HomePage() {
     }
   ).slice(0, 8);
 
+  const sceneCounts: Record<string, number> = {};
+  concerts.forEach((c) => {
+    c.sceneTags.forEach((s) => {
+      sceneCounts[s] = (sceneCounts[s] || 0) + 1;
+    });
+  });
+  const topScenes = Object.entries(sceneCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8)
+    .map(([name]) => name);
+
   const topVenues = Object.values(venues)
     .sort((a, b) => b.upcomingEventsCount - a.upcomingEventsCount)
     .slice(0, 6);
@@ -90,6 +101,18 @@ export default async function HomePage() {
             <QuickFilterChip label="Hip-Hop" href="/concerts?genre=hip-hop" />
             <QuickFilterChip label="Indie" href="/concerts?genre=indie" />
           </div>
+          {topScenes.length > 0 && (
+            <div className="mt-3 flex flex-wrap items-center gap-3">
+              <span className="text-xs font-medium text-text-tertiary uppercase tracking-wide">Scene:</span>
+              {topScenes.map((scene) => (
+                <QuickFilterChip
+                  key={scene}
+                  label={`${scene} (${sceneCounts[scene]})`}
+                  href={`/concerts?scene=${encodeURIComponent(scene.toLowerCase())}`}
+                />
+              ))}
+            </div>
+          )}
         </section>
 
         {/* This week */}

@@ -19,6 +19,19 @@ const ALL_GENRES = [
   "other",
 ];
 
+const ALL_SCENES = [
+  "K-Pop",
+  "Electronic",
+  "Livehouse",
+  "Jazz & Classical",
+  "International",
+  "Festival",
+  "Rock & Metal",
+  "Hip-Hop",
+  "Indie",
+  "Thai Pop",
+];
+
 function ConcertsInner({
   concerts,
   venues,
@@ -29,9 +42,11 @@ function ConcertsInner({
   const searchParams = useSearchParams();
   const initialGenre = searchParams.get("genre") || "";
   const initialWhen = searchParams.get("when") || "";
+  const initialScene = searchParams.get("scene") || "";
 
   const [query, setQuery] = useState("");
   const [selectedGenre, setSelectedGenre] = useState<string>(initialGenre);
+  const [selectedScene, setSelectedScene] = useState<string>(initialScene);
 
   const filtered = useMemo(() => {
     let list = concerts;
@@ -60,6 +75,16 @@ function ConcertsInner({
       list = list.filter((c) => c.genres.includes(selectedGenre));
     }
 
+    if (selectedScene) {
+      const sceneLabel = selectedScene
+        .split(" ")
+        .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+        .join(" ");
+      list = list.filter((c) =>
+        c.sceneTags.some((s) => s.toLowerCase() === selectedScene.toLowerCase() || s === sceneLabel)
+      );
+    }
+
     if (query.trim()) {
       const q = query.toLowerCase();
       list = list.filter(
@@ -71,7 +96,7 @@ function ConcertsInner({
     }
 
     return list;
-  }, [concerts, venues, query, selectedGenre, initialWhen]);
+  }, [concerts, venues, query, selectedGenre, selectedScene, initialWhen]);
 
   const grouped = useMemo(() => {
     const g: Record<string, Concert[]> = {};
@@ -103,7 +128,7 @@ function ConcertsInner({
       </div>
 
       {/* Genre chips */}
-      <div className="mb-8 flex flex-wrap gap-2">
+      <div className="mb-4 flex flex-wrap gap-2">
         <button
           onClick={() => setSelectedGenre("")}
           className={`px-3 py-1.5 text-xs font-medium uppercase tracking-wide transition-colors border ${
@@ -129,6 +154,33 @@ function ConcertsInner({
         ))}
       </div>
 
+      {/* Scene chips */}
+      <div className="mb-8 flex flex-wrap gap-2">
+        <button
+          onClick={() => setSelectedScene("")}
+          className={`px-3 py-1.5 text-xs font-medium uppercase tracking-wide transition-colors border ${
+            selectedScene === ""
+              ? "bg-text-primary text-white border-text-primary"
+              : "bg-background text-text-secondary border-border hover:border-text-primary"
+          }`}
+        >
+          All scenes
+        </button>
+        {ALL_SCENES.map((s) => (
+          <button
+            key={s}
+            onClick={() => setSelectedScene(s === selectedScene ? "" : s)}
+            className={`px-3 py-1.5 text-xs font-medium uppercase tracking-wide transition-colors border ${
+              selectedScene === s
+                ? "bg-text-primary text-white border-text-primary"
+                : "bg-background text-text-secondary border-border hover:border-text-primary"
+            }`}
+          >
+            {s}
+          </button>
+        ))}
+      </div>
+
       <p className="mb-6 text-xs text-text-tertiary uppercase tracking-wide">
         {filtered.length} concert{filtered.length !== 1 ? "s" : ""} found
       </p>
@@ -141,6 +193,7 @@ function ConcertsInner({
             onClick={() => {
               setQuery("");
               setSelectedGenre("");
+              setSelectedScene("");
             }}
             className="mt-2 text-xs text-text-secondary hover:text-text-primary uppercase tracking-wide underline"
           >
