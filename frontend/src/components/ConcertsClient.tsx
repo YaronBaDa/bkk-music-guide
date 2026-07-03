@@ -3,7 +3,7 @@
 import { useState, useMemo, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { Search, X, Calendar } from "lucide-react";
-import { Concert, Venue, relativeDate } from "@/lib/types";
+import { Concert, Venue } from "@/lib/types";
 import EventCard from "./EventCard";
 
 const ALL_GENRES = [
