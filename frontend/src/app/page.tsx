@@ -54,6 +54,13 @@ export default async function HomePage() {
     .filter((c) => c.date.startDate > today)
     .slice(0, 6);
 
+  // Just added — discovered in the last 7 days
+  const sevenDaysAgo = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
+  const justAdded = concerts
+    .filter((c) => c.metadata.createdAt >= sevenDaysAgo)
+    .toSorted((a, b) => b.metadata.createdAt.localeCompare(a.metadata.createdAt))
+    .slice(0, 6);
+
   // Month quick filters — next 6 months with concerts
   const monthCounts: Record<string, number> = {};
   concerts.forEach((c) => {
@@ -165,6 +172,36 @@ export default async function HomePage() {
             ))}
           </div>
         </section>
+
+        {/* Just Added */}
+        {justAdded.length > 0 && (
+          <section className="py-12 md:py-16 border-t border-border">
+            <div className="mb-8 flex items-end justify-between border-b border-border pb-4">
+              <div>
+                <h2 className="text-3xl font-bold text-text-primary font-display">Just Added</h2>
+                <p className="mt-1 text-sm text-text-secondary">
+                  Shows discovered in the last 7 days
+                </p>
+              </div>
+              <Link
+                href="/concerts"
+                className="flex items-center gap-1 text-sm font-medium text-text-secondary hover:text-text-primary uppercase tracking-wide"
+              >
+                See all <ArrowRight className="h-4 w-4" strokeWidth={1.5} />
+              </Link>
+            </div>
+            <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
+              {justAdded.map((event) => (
+                <EventCard
+                  key={event.id}
+                  event={event}
+                  venue={venues[event.venueId]}
+                  showNewBadge
+                />
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Top venues */}
         <section className="py-12 md:py-16 border-t border-border">

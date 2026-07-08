@@ -7,9 +7,10 @@ interface EventCardProps {
   event: Concert;
   venue?: Venue;
   size?: "sm" | "md";
+  showNewBadge?: boolean;
 }
 
-export default function EventCard({ event, venue, size = "md" }: EventCardProps) {
+export default function EventCard({ event, venue, size = "md", showNewBadge = false }: EventCardProps) {
   const isSm = size === "sm";
 
   return (
@@ -18,6 +19,11 @@ export default function EventCard({ event, venue, size = "md" }: EventCardProps)
       className="group block overflow-hidden border border-border bg-background transition-colors hover:border-text-primary"
     >
       <div className={`relative overflow-hidden ${isSm ? "aspect-[3/4]" : "aspect-[2/3]"}`}>
+        {showNewBadge && (
+          <div className="absolute left-2 top-2 z-10 bg-accent px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-white">
+            New
+          </div>
+        )}
         {event.images.poster ? (
           <Image
             src={event.images.poster}
