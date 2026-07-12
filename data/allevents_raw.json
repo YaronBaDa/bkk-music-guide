@@ -1,9 +1,57 @@
 [
   {
+    "id": "eb63b5709931",
+    "title": "BTS WORLD TOUR 'ARIRANG' IN BANGKOK",
+    "date": {
+      "startDate": "2026-07-12",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "tbc",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "Rajamangala National Stadium Bangkok - ราชมังคลากีฬาสถาน",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://allevents.in/bangkok/bts-world-tour-arirang-in-bangkok/200030347644428",
+    "ticketSource": "allevents",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "allevents",
+        "id": "https://allevents.in/bangkok/bts-world-tour-arirang-in-bangkok/200030347644428"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.531755",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "11870aa30ade",
     "title": "The Weeknd After Hours Til Dawn Tour",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -40,29 +88,29 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.944357",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.532473",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "d3852cc9434d",
-    "title": "Piano&i The Legends Party 2026",
+    "id": "bdbff265a033",
+    "title": "Monster Music Festival 2026",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
       "recurrence": null
     },
     "venueId": null,
-    "venueName": "Bitech  Bangna",
+    "venueName": "ศูนย์การประชุมแห่งชาติสิริกิติ์, Bangkok, Thailand, Bangkok 10110",
     "artists": [],
     "lineup": [],
     "genres": [
-      "other"
+      "festival"
     ],
     "sceneTags": [],
     "pricing": {
@@ -72,10 +120,10 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://allevents.in/bangkok/pianoandi-the-legends-party-2026/200029949748231",
+    "ticketUrl": "https://allevents.in/bangkok/monster-music-festival-2026/200029823817352",
     "ticketSource": "allevents",
     "images": {
-      "poster": "",
+      "poster": "https://lh3.googleusercontent.com/a/ACg8ocLKRGU81YMWfK7ZzOrpDNFLIpAaFlNQmn9ek9AoH0KIcUQBAtM=s96-c?sz=200",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -84,13 +132,13 @@
     "sourceIds": [
       {
         "source": "allevents",
-        "id": "https://allevents.in/bangkok/pianoandi-the-legends-party-2026/200029949748231"
+        "id": "https://allevents.in/bangkok/monster-music-festival-2026/200029823817352"
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.945058",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.533211",
       "isInternational": false
     },
     "description": ""
@@ -99,7 +147,7 @@
     "id": "d175936ae2c5",
     "title": "คอนเสิร์ต 40 ปีอัสนีวสันต์",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -136,9 +184,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.945685",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.533899",
       "isInternational": false
     },
     "description": ""
@@ -147,7 +195,7 @@
     "id": "42d8c1185f7b",
     "title": "Tilly Birds in กรุงเทพมหานคร",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -184,9 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.946270",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.534540",
       "isInternational": false
     },
     "description": ""
@@ -195,7 +243,7 @@
     "id": "405a3ada69a8",
     "title": "natori ONE-MAN LIVE TOUR “Koshin (March)” in Bangkok",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -232,9 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.946859",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.535141",
       "isInternational": false
     },
     "description": ""
@@ -243,7 +291,7 @@
     "id": "4280d120d85b",
     "title": "BADBADNOTGOOD 2026 LIVE IN BANGKOK",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -280,57 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.947433",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "7714c2ec2e9a",
-    "title": "Slot Machine in กรุงเทพมหานคร",
-    "date": {
-      "startDate": "2026-07-03",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "Long Aoei",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/slot-machine-in-กรุงเทพมหานคร/3300030334049904",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/slot-machine-in-กรุงเทพมหานคร/3300030334049904"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.948020",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.535749",
       "isInternational": false
     },
     "description": ""
@@ -339,7 +339,7 @@
     "id": "e9b4640213f2",
     "title": "2026 P1Harmony ASIA STAGE [BE UNIQUE] IN BANGKOK",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.948610",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.536355",
       "isInternational": false
     },
     "description": ""
@@ -387,7 +387,7 @@
     "id": "5087606ee94e",
     "title": "Caribou in กรุงเทพมหานคร",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -424,73 +424,25 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.949195",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.536940",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "e301c668b28b",
-    "title": "G2G House'n'Techno Music Collective presents; Giantsiam & VIM",
+    "id": "1abc5a0f40a8",
+    "title": "TK Chat Walk 🚶🏻‍♂️‍➡️ บางลำพู Hidden Stories Walk",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
       "recurrence": null
     },
     "venueId": null,
-    "venueName": "Culture Cafe, Bangkok",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/g2g-housentechno-music-collective-presents;-giantsiam-and-vim/200030325257517",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/g2g-housentechno-music-collective-presents;-giantsiam-and-vim/200030325257517"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.949841",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "56d287b151ed",
-    "title": "Melody for the Queen",
-    "date": {
-      "startDate": "2026-07-03",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "Main Hall, Thailand Cultural Center",
+    "venueName": "ย่านบางลำพู เขตพระนคร กรุงเทพฯ",
     "artists": [],
     "lineup": [],
     "genres": [
@@ -504,7 +456,7 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://allevents.in/bangkok/melody-for-the-queen/200030143290131",
+    "ticketUrl": "https://allevents.in/bangkok/tk-chat-walk-‍-บางลำพู-hidden-stories-walk/200030333322005",
     "ticketSource": "allevents",
     "images": {
       "poster": "",
@@ -516,29 +468,29 @@
     "sourceIds": [
       {
         "source": "allevents",
-        "id": "https://allevents.in/bangkok/melody-for-the-queen/200030143290131"
+        "id": "https://allevents.in/bangkok/tk-chat-walk-‍-บางลำพู-hidden-stories-walk/200030333322005"
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.950408",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.537733",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "3381ecbedaa3",
-    "title": "The Kangkao brothers presents; Full Vinyl Set Of Payu & JAKRIN",
+    "id": "b374abce606c",
+    "title": "🎶✨ คอนเสิร์ตการกุศล สานฝันศิลปินไทย อิน คอนเสิร์ต✨🎶",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
       "recurrence": null
     },
     "venueId": null,
-    "venueName": "Culture Cafe, Bangkok",
+    "venueName": "ศูนย์วัฒนธรมแห่งประเทศไทย",
     "artists": [],
     "lineup": [],
     "genres": [
@@ -552,7 +504,7 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://allevents.in/bangkok/the-kangkao-brothers-presents;-full-vinyl-set-of-payu-and-jakrin/200030320314155",
+    "ticketUrl": "https://allevents.in/bangkok/คอนเสิร์ตการกุศล-สานฝันศิลปินไทย-อิน-คอนเสิร์ต/200030332169909",
     "ticketSource": "allevents",
     "images": {
       "poster": "",
@@ -564,77 +516,29 @@
     "sourceIds": [
       {
         "source": "allevents",
-        "id": "https://allevents.in/bangkok/the-kangkao-brothers-presents;-full-vinyl-set-of-payu-and-jakrin/200030320314155"
+        "id": "https://allevents.in/bangkok/คอนเสิร์ตการกุศล-สานฝันศิลปินไทย-อิน-คอนเสิร์ต/200030332169909"
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.950984",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.538379",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "72813d6b0edd",
-    "title": "Fatty's 4th of July Party",
+    "id": "7bf5e5a0c242",
+    "title": "PoA Jazz Night | awai",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
       "recurrence": null
     },
     "venueId": null,
-    "venueName": "Fatty's Bar & Diner",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/fattys-4th-of-july-party/200030325255858",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/fattys-4th-of-july-party/200030325255858"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.951550",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "fa93ada90bd1",
-    "title": "KRIT TANG FEAT. THE ZING SING JAZZ TRIO | CHARLIE MCSKALLYWAG",
-    "date": {
-      "startDate": "2026-07-03",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "831 Charoen krung 31, Bangkok, Thailand, Bangkok 10100",
+    "venueName": "Yellow Lane",
     "artists": [],
     "lineup": [],
     "genres": [
@@ -648,7 +552,7 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://allevents.in/bangkok/krit-tang-feat-the-zing-sing-jazz-trio-|-charlie-mcskallywag/200030320342734",
+    "ticketUrl": "https://allevents.in/bangkok/poa-jazz-night-|-awai/200030301142729",
     "ticketSource": "allevents",
     "images": {
       "poster": "",
@@ -660,13 +564,61 @@
     "sourceIds": [
       {
         "source": "allevents",
-        "id": "https://allevents.in/bangkok/krit-tang-feat-the-zing-sing-jazz-trio-|-charlie-mcskallywag/200030320342734"
+        "id": "https://allevents.in/bangkok/poa-jazz-night-|-awai/200030301142729"
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.952128",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.539002",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "521dff290b05",
+    "title": "MAGNITUDE Live in Bangkok 2026",
+    "date": {
+      "startDate": "2026-07-12",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "tbc",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "Blueprint Livehouse",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://allevents.in/bangkok/magnitude-live-in-bangkok-2026/200030352023218",
+    "ticketSource": "allevents",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "allevents",
+        "id": "https://allevents.in/bangkok/magnitude-live-in-bangkok-2026/200030352023218"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.539623",
       "isInternational": false
     },
     "description": ""
@@ -675,7 +627,7 @@
     "id": "43e198357ce0",
     "title": "Albert Posis in กรุงเทพมหานคร",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -712,9 +664,105 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:18.952829",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.540236",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "e3e06a5a2dad",
+    "title": "Bafros Presents DJ Amanda 23 July 2026",
+    "date": {
+      "startDate": "2026-07-12",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "tbc",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "Bafros",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "electronic"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://allevents.in/bangkok/bafros-presents-dj-amanda-23-july-2026/200030143309531",
+    "ticketSource": "allevents",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "allevents",
+        "id": "https://allevents.in/bangkok/bafros-presents-dj-amanda-23-july-2026/200030143309531"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:21.540833",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "eb63b5709931",
+    "title": "BTS WORLD TOUR 'ARIRANG' IN BANGKOK",
+    "date": {
+      "startDate": "2026-07-12",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "tbc",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "Rajamangala National Stadium Bangkok - ราชมังคลากีฬาสถาน",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://allevents.in/bangkok/bts-world-tour-arirang-in-bangkok/200030347644428",
+    "ticketSource": "allevents",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "allevents",
+        "id": "https://allevents.in/bangkok/bts-world-tour-arirang-in-bangkok/200030347644428"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.788217",
       "isInternational": false
     },
     "description": ""
@@ -723,7 +771,7 @@
     "id": "11870aa30ade",
     "title": "The Weeknd After Hours Til Dawn Tour",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -760,57 +808,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.036825",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "d3852cc9434d",
-    "title": "Piano&i The Legends Party 2026",
-    "date": {
-      "startDate": "2026-07-03",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "Bitech  Bangna",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/pianoandi-the-legends-party-2026/200029949748231",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/pianoandi-the-legends-party-2026/200029949748231"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.037571",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.788903",
       "isInternational": false
     },
     "description": ""
@@ -819,7 +819,7 @@
     "id": "d175936ae2c5",
     "title": "คอนเสิร์ต 40 ปีอัสนีวสันต์",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -856,9 +856,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.038296",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.789561",
       "isInternational": false
     },
     "description": ""
@@ -867,7 +867,7 @@
     "id": "42d8c1185f7b",
     "title": "Tilly Birds in กรุงเทพมหานคร",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -904,9 +904,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.038899",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.790193",
       "isInternational": false
     },
     "description": ""
@@ -915,7 +915,7 @@
     "id": "4280d120d85b",
     "title": "BADBADNOTGOOD 2026 LIVE IN BANGKOK",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -952,57 +952,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.039492",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "7714c2ec2e9a",
-    "title": "Slot Machine in กรุงเทพมหานคร",
-    "date": {
-      "startDate": "2026-07-03",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "Long Aoei",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/slot-machine-in-กรุงเทพมหานคร/3300030334049904",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/slot-machine-in-กรุงเทพมหานคร/3300030334049904"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.040124",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.790822",
       "isInternational": false
     },
     "description": ""
@@ -1011,7 +963,7 @@
     "id": "e9b4640213f2",
     "title": "2026 P1Harmony ASIA STAGE [BE UNIQUE] IN BANGKOK",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -1048,9 +1000,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.040802",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.791463",
       "isInternational": false
     },
     "description": ""
@@ -1059,7 +1011,7 @@
     "id": "5087606ee94e",
     "title": "Caribou in กรุงเทพมหานคร",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -1096,29 +1048,29 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.041539",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.792083",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "e301c668b28b",
-    "title": "G2G House'n'Techno Music Collective presents; Giantsiam & VIM",
+    "id": "b374abce606c",
+    "title": "🎶✨ คอนเสิร์ตการกุศล สานฝันศิลปินไทย อิน คอนเสิร์ต✨🎶",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
       "recurrence": null
     },
     "venueId": null,
-    "venueName": "Culture Cafe, Bangkok",
+    "venueName": "ศูนย์วัฒนธรมแห่งประเทศไทย",
     "artists": [],
     "lineup": [],
     "genres": [
-      "electronic"
+      "other"
     ],
     "sceneTags": [],
     "pricing": {
@@ -1128,7 +1080,7 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://allevents.in/bangkok/g2g-housentechno-music-collective-presents;-giantsiam-and-vim/200030325257517",
+    "ticketUrl": "https://allevents.in/bangkok/คอนเสิร์ตการกุศล-สานฝันศิลปินไทย-อิน-คอนเสิร์ต/200030332169909",
     "ticketSource": "allevents",
     "images": {
       "poster": "",
@@ -1140,13 +1092,13 @@
     "sourceIds": [
       {
         "source": "allevents",
-        "id": "https://allevents.in/bangkok/g2g-housentechno-music-collective-presents;-giantsiam-and-vim/200030325257517"
+        "id": "https://allevents.in/bangkok/คอนเสิร์ตการกุศล-สานฝันศิลปินไทย-อิน-คอนเสิร์ต/200030332169909"
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.042250",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.792730",
       "isInternational": false
     },
     "description": ""
@@ -1155,7 +1107,7 @@
     "id": "43e198357ce0",
     "title": "Albert Posis in กรุงเทพมหานคร",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -1192,9 +1144,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.042972",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.793370",
       "isInternational": false
     },
     "description": ""
@@ -1203,7 +1155,7 @@
     "id": "875cc906f52f",
     "title": "Thailand Suzuki String Camp 2026",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -1240,9 +1192,57 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.043708",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.794004",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "e103f50839f2",
+    "title": "CMNN KHWAI",
+    "date": {
+      "startDate": "2026-07-12",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "tbc",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "JAM",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://allevents.in/bangkok/cmnn-khwai/200030363870459",
+    "ticketSource": "allevents",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "allevents",
+        "id": "https://allevents.in/bangkok/cmnn-khwai/200030363870459"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.794638",
       "isInternational": false
     },
     "description": ""
@@ -1251,7 +1251,7 @@
     "id": "a90e07b7d777",
     "title": "RFU TOUR CNX 2026",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -1288,9 +1288,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.044334",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.795260",
       "isInternational": false
     },
     "description": ""
@@ -1299,7 +1299,7 @@
     "id": "09a5c5de5e2a",
     "title": "JAZZ NIGHT: KAKTUN JULKANAK TRIO",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -1336,57 +1336,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.044971",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "df3bbc3819c1",
-    "title": "ถ่ายรูปส่งงาน ครั้งใหญ่! ในรอบ 9 ปี!",
-    "date": {
-      "startDate": "2026-07-03",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "Studio in Town",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/ถ่ายรูปส่งงาน-ครั้งใหญ่-ในรอบ-9-ปี/200030257490506",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/ถ่ายรูปส่งงาน-ครั้งใหญ่-ในรอบ-9-ปี/200030257490506"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.045637",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.795886",
       "isInternational": false
     },
     "description": ""
@@ -1395,7 +1347,7 @@
     "id": "cf26ff8774ed",
     "title": "30th Anniversaries FORD Concert",
     "date": {
-      "startDate": "2026-07-03",
+      "startDate": "2026-07-12",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -1432,9 +1384,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-03",
-      "updatedAt": "2026-07-03",
-      "scrapedAt": "2026-07-03T06:51:20.046375",
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T03:45:22.796517",
       "isInternational": false
     },
     "description": ""
