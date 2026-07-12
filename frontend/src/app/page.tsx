@@ -8,14 +8,21 @@ export default async function HomePage() {
   const concerts = await getConcerts();
   const venues = await getVenues();
 
-  const today = new Date().toISOString().slice(0, 10);
-  const weekendStart = new Date(Date.now() + ((6 - new Date().getDay() + 7) % 7) * 86400000)
+  const now = new Date();
+  const today = now.toISOString().slice(0, 10);
+  const dow = now.getDay(); // 0=Sun, 6=Sat
+
+  // Weekend: if Sun, include today (Sun). If Mon-Wed, next Sat-Sun. If Thu-Sat, this Sat-Sun.
+  const daysToSat = dow === 0 ? 0 : dow <= 3 ? 6 - dow : 6 - dow;
+  const daysToSun = daysToSat + 1;
+  const weekendStart = new Date(Date.now() + daysToSat * 86400000)
     .toISOString()
     .slice(0, 10);
-  const weekendEnd = new Date(Date.now() + ((8 - new Date().getDay() + 7) % 7) * 86400000)
+  const weekendEnd = new Date(Date.now() + daysToSun * 86400000)
     .toISOString()
     .slice(0, 10);
-  const monthEnd = new Date(new Date().getFullYear(), new Date().getMonth() + 1, 0)
+
+  const monthEnd = new Date(now.getFullYear(), now.getMonth() + 1, 0)
     .toISOString()
     .slice(0, 10);
 
@@ -26,25 +33,24 @@ export default async function HomePage() {
   const thisMonth = concerts.filter(
     (c) => c.date.startDate >= today && c.date.startDate <= monthEnd
   );
-  const thisWeek = concerts.filter(
-    (c) => {
+  const thisWeek = concerts
+    .filter((c) => {
       const d = new Date(c.date.startDate);
-      const now = new Date();
       const diff = Math.round((d.getTime() - now.getTime()) / 86400000);
       return diff >= 0 && diff < 7;
-    }
-  ).slice(0, 8);
+    })
+    .slice(0, 8);
 
-  const sceneCounts: Record<string, number> = {};
+  // Dynamic genre counts from real data
+  const genreCounts: Record<string, number> = {};
   concerts.forEach((c) => {
-    c.sceneTags.forEach((s) => {
-      sceneCounts[s] = (sceneCounts[s] || 0) + 1;
+    (c.genres || []).forEach((g: string) => {
+      if (g !== "other") genreCounts[g] = (genreCounts[g] || 0) + 1;
     });
   });
-  const topScenes = Object.entries(sceneCounts)
+  const topGenres = Object.entries(genreCounts)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 8)
-    .map(([name]) => name);
+    .slice(0, 6);
 
   const topVenues = Object.values(venues)
     .sort((a, b) => b.upcomingEventsCount - a.upcomingEventsCount)
@@ -61,30 +67,11 @@ export default async function HomePage() {
     .toSorted((a, b) => b.metadata.createdAt.localeCompare(a.metadata.createdAt))
     .slice(0, 6);
 
-  // Month quick filters — next 6 months with concerts
-  const monthCounts: Record<string, number> = {};
-  concerts.forEach((c) => {
-    const ym = c.date.startDate.slice(0, 7);
-    monthCounts[ym] = (monthCounts[ym] || 0) + 1;
-  });
-  const topMonths = Object.entries(monthCounts)
-    .sort((a, b) => a[0].localeCompare(b[0]))
-    .slice(0, 6)
-    .map(([ym]) => ym);
-
-  const monthLabel = (ym: string) => {
-    const [y, m] = ym.split("-");
-    return new Date(Number(y), Number(m) - 1, 1).toLocaleDateString("en-US", {
-      month: "short",
-      year: "numeric",
-    });
-  };
-
   return (
     <>
       <Header />
       <main id="main-content" className="mx-auto max-w-6xl px-4">
-        {/* Hero - asymmetric, strong typography */}
+        {/* Hero */}
         <section className="py-16 md:py-24 border-b border-border">
           <div className="grid gap-8 md:grid-cols-12">
             <div className="md:col-span-7">
@@ -110,42 +97,22 @@ export default async function HomePage() {
           </div>
         </section>
 
-        {/* Quick filters - horizontal, minimal */}
-        <section className="py-6 border-b border-border">
-          <div className="flex flex-wrap items-center gap-3">
-            <span className="text-xs font-medium text-text-tertiary uppercase tracking-wide">When:</span>
-            <QuickFilterChip label={`Tonight (${tonight.length})`} href="/concerts?when=tonight" />
-            <QuickFilterChip label={`Weekend (${thisWeekend.length})`} href="/concerts?when=weekend" />
-            <QuickFilterChip label={`Month (${thisMonth.length})`} href="/concerts?when=month" />
+        {/* Quick filters — compact, data-driven, horizontal scroll */}
+        <section className="py-5 border-b border-border overflow-x-auto">
+          {/* Time filters */}
+          <div className="flex items-center gap-2.5">
+            <FilterChip label="Tonight" count={tonight.length} href="/concerts?when=tonight" />
+            {thisWeekend.length > 0 && (
+              <FilterChip label="This Weekend" count={thisWeekend.length} href="/concerts?when=weekend" />
+            )}
+            <FilterChip label="This Month" count={thisMonth.length} href="/concerts?when=month" />
           </div>
-          <div className="mt-3 flex flex-wrap items-center gap-3">
-            <span className="text-xs font-medium text-text-tertiary uppercase tracking-wide">Month:</span>
-            {topMonths.map((ym) => (
-              <QuickFilterChip
-                key={ym}
-                label={`${monthLabel(ym)} (${monthCounts[ym]})`}
-                href={`/concerts?month=${ym}`}
-              />
-            ))}
-          </div>
-          <div className="mt-3 flex flex-wrap items-center gap-3">
-            <span className="text-xs font-medium text-text-tertiary uppercase tracking-wide">Genre:</span>
-            <QuickFilterChip label="Pop" href="/concerts?genre=pop" />
-            <QuickFilterChip label="Rock" href="/concerts?genre=rock" />
-            <QuickFilterChip label="Electronic" href="/concerts?genre=electronic" />
-            <QuickFilterChip label="Jazz" href="/concerts?genre=jazz" />
-            <QuickFilterChip label="Hip-Hop" href="/concerts?genre=hip-hop" />
-            <QuickFilterChip label="Indie" href="/concerts?genre=indie" />
-          </div>
-          {topScenes.length > 0 && (
-            <div className="mt-3 flex flex-wrap items-center gap-3">
-              <span className="text-xs font-medium text-text-tertiary uppercase tracking-wide">Scene:</span>
-              {topScenes.map((scene) => (
-                <QuickFilterChip
-                  key={scene}
-                  label={`${scene} (${sceneCounts[scene]})`}
-                  href={`/concerts?scene=${encodeURIComponent(scene.toLowerCase())}`}
-                />
+
+          {/* Genre filters — only if we have data */}
+          {topGenres.length > 0 && (
+            <div className="mt-3 flex items-center gap-2.5">
+              {topGenres.map(([genre, count]) => (
+                <FilterChip key={genre} label={genre} count={count} href={`/concerts?genre=${genre.toLowerCase()}`} />
               ))}
             </div>
           )}
@@ -275,13 +242,16 @@ export default async function HomePage() {
   );
 }
 
-function QuickFilterChip({ label, href }: { label: string; href: string }) {
+function FilterChip({ label, count, href }: { label: string; count: number; href: string }) {
   return (
     <Link
       href={href}
-      className="border border-border px-3 py-1.5 text-xs font-medium text-text-secondary uppercase tracking-wide transition-colors hover:border-text-primary hover:text-text-primary"
+      className="inline-flex items-center gap-1.5 border border-border px-3 py-1.5 text-xs font-medium text-text-secondary transition-colors hover:border-text-primary hover:text-text-primary shrink-0"
     >
       {label}
+      <span className="tabular-nums text-text-tertiary font-semibold">
+        {count}
+      </span>
     </Link>
   );
 }
