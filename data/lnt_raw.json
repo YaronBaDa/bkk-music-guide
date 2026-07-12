@@ -1,12 +1,12 @@
 [
   {
-    "id": "f8f32c693118",
+    "id": "f60fe2a59658",
     "title": "FKJ – Tyber TourMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -42,19 +42,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:00.514993",
+      "scrapedAt": "2026-07-12T04:28:10.132017",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "bd4ec4daf7ff",
+    "id": "18214e38265c",
     "title": "Khalid: It's Always Summer Somewhere TourMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -90,19 +90,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:00.861825",
+      "scrapedAt": "2026-07-12T04:28:10.205958",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "98436282e9e9",
+    "id": "af07a6375e46",
     "title": "REIRIE 1ST SOLO LIVE IN BANGKOKMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -138,19 +138,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:01.122913",
+      "scrapedAt": "2026-07-12T04:28:10.277904",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "45a5a2121b00",
+    "id": "bbfd4e6280ed",
     "title": "ASH DA HERO 1ST SOLO LIVE IN BANGKOKMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -186,19 +186,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:01.819111",
+      "scrapedAt": "2026-07-12T04:28:10.349571",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "c8020c4ef1de",
+    "id": "cf0e8b7d4779",
     "title": "Zara Larsson Midnight Sun TourMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -234,19 +234,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:02.262539",
+      "scrapedAt": "2026-07-12T04:28:10.426309",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "c7d27d4e9727",
+    "id": "a0d130ecdf50",
     "title": "SANDARA PARK ‘REPRISM’ 2026 FAN-CON ASIA TOUR IN BANGKOKMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-15",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -282,19 +282,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:02.785592",
+      "scrapedAt": "2026-07-12T04:28:10.499802",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "bb9ecb540c5e",
+    "id": "21ce673eb3e1",
     "title": "Fujii Kaze Prema World Tour26 ธ.ค. 2569More Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-26",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -330,19 +330,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:03.072894",
+      "scrapedAt": "2026-07-12T04:28:10.573094",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "8cea36df4e16",
+    "id": "0ca51ae210b8",
     "title": "F✦FOREVER 1st World TourMore InfoMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-01",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -378,19 +378,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:03.441104",
+      "scrapedAt": "2026-07-12T04:28:10.631511",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "f31e61241211",
+    "id": "ae6656b4627b",
     "title": "David Byrne: Who Is The Sky? TourMore InfoMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-08-10",
+      "endDate": "2026-08-10",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -426,19 +426,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:03.670834",
+      "scrapedAt": "2026-07-12T04:28:10.700992",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "973efff8d86d",
+    "id": "fabe51e41d0c",
     "title": "Kodaline - Farewell Tour28 ส.ค. 2569More Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-08-28",
+      "endDate": "2026-08-28",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -474,19 +474,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:04.071144",
+      "scrapedAt": "2026-07-12T04:28:10.773112",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "20ee6f32f8a9",
+    "id": "943c25f5f368",
     "title": "Post Malone Presents The BIG ASS Stadium World Tour22 ก.ย. 2569More Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-22",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -522,19 +522,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:04.471886",
+      "scrapedAt": "2026-07-12T04:28:10.845559",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "1d43a9a92e7e",
+    "id": "8da739104397",
     "title": "2026–27 BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN BANGKOK7 พ.ย. 2569More Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -570,19 +570,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:04.899870",
+      "scrapedAt": "2026-07-12T04:28:10.905583",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "720e0d24d6fa",
+    "id": "5beac036fbbe",
     "title": "5 SECONDS OF SUMMER: EVERYONE’S A STAR! WORLD TOURMore InfoMore Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -618,19 +618,19 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:05.299423",
+      "scrapedAt": "2026-07-12T04:28:10.963102",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "5617a200d73e",
+    "id": "3f758fa689f6",
     "title": "LANY: soft world tour10 พ.ย. 2569More Info",
     "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
       "doorTime": null,
-      "dateStatus": "tbc",
+      "dateStatus": "confirmed",
       "recurrence": null
     },
     "venueId": null,
@@ -666,7 +666,7 @@
     "metadata": {
       "createdAt": "2026-07-12",
       "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:05.580056",
+      "scrapedAt": "2026-07-12T04:28:11.026320",
       "isInternational": false
     },
     "description": ""

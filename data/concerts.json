@@ -4892,664 +4892,6 @@
     "description": ""
   },
   {
-    "id": "f8f32c693118",
-    "title": "FKJ – Tyber TourMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/fkj-tyber-tour-bangkok-tickets-edp1685439",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/fkj-tyber-tour-bangkok-tickets-edp1685439"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:00.514993",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "bd4ec4daf7ff",
-    "title": "Khalid: It's Always Summer Somewhere TourMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/khalid-it-s-always-summer-somewhere-tour-bangkok-tickets-edp1685524",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/khalid-it-s-always-summer-somewhere-tour-bangkok-tickets-edp1685524"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:00.861825",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "98436282e9e9",
-    "title": "REIRIE 1ST SOLO LIVE IN BANGKOKMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/reirie-1st-solo-live-in-bangkok-bangkok-tickets-edp1685452",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/reirie-1st-solo-live-in-bangkok-bangkok-tickets-edp1685452"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:01.122913",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "45a5a2121b00",
-    "title": "ASH DA HERO 1ST SOLO LIVE IN BANGKOKMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:01.819111",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "c8020c4ef1de",
-    "title": "Zara Larsson Midnight Sun TourMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:02.262539",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "c7d27d4e9727",
-    "title": "SANDARA PARK ‘REPRISM’ 2026 FAN-CON ASIA TOUR IN BANGKOKMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/sandara-park-reprism-2026-fan-con-asia-tour-in-bangkok-bangkok-tickets-edp1682761",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/sandara-park-reprism-2026-fan-con-asia-tour-in-bangkok-bangkok-tickets-edp1682761"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:02.785592",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "bb9ecb540c5e",
-    "title": "Fujii Kaze Prema World Tour26 ธ.ค. 2569More Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/fujii-kaze-prema-world-tour-bangkok-tickets-edp1680041",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/fujii-kaze-prema-world-tour-bangkok-tickets-edp1680041"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:03.072894",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "8cea36df4e16",
-    "title": "F✦FOREVER 1st World TourMore InfoMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/f-forever-1st-world-tour-bangkok-tickets-edp1678757",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/f-forever-1st-world-tour-bangkok-tickets-edp1678757"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:03.441104",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "f31e61241211",
-    "title": "David Byrne: Who Is The Sky? TourMore InfoMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/david-byrne-who-is-the-sky-tour-bangkok-tickets-edp1668228",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/david-byrne-who-is-the-sky-tour-bangkok-tickets-edp1668228"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:03.670834",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "973efff8d86d",
-    "title": "Kodaline - Farewell Tour28 ส.ค. 2569More Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/kodaline-farewell-tour-bangkok-tickets-edp1661899",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/kodaline-farewell-tour-bangkok-tickets-edp1661899"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:04.071144",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "20ee6f32f8a9",
-    "title": "Post Malone Presents The BIG ASS Stadium World Tour22 ก.ย. 2569More Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/post-malone-presents-the-big-ass-stadium-world-tour-bangkok-tickets-edp1664183",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/post-malone-presents-the-big-ass-stadium-world-tour-bangkok-tickets-edp1664183"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:04.471886",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "1d43a9a92e7e",
-    "title": "2026–27 BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN BANGKOK7 พ.ย. 2569More Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/2026-27-babymonster-world-tour-춤-choom-in-bangkok-bangkok-tickets-edp1673276",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/2026-27-babymonster-world-tour-춤-choom-in-bangkok-bangkok-tickets-edp1673276"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:04.899870",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "720e0d24d6fa",
-    "title": "5 SECONDS OF SUMMER: EVERYONE’S A STAR! WORLD TOURMore InfoMore Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/5-seconds-of-summer-everyone-s-a-star-world-tour-bangkok-tickets-edp1669966",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/5-seconds-of-summer-everyone-s-a-star-world-tour-bangkok-tickets-edp1669966"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:05.299423",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "5617a200d73e",
-    "title": "LANY: soft world tour10 พ.ย. 2569More Info",
-    "date": {
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": null,
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/lany-soft-world-tour-bangkok-tickets-edp1660038",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/lany-soft-world-tour-bangkok-tickets-edp1660038"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-12",
-      "updatedAt": "2026-07-12",
-      "scrapedAt": "2026-07-12T04:01:05.580056",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
     "id": "eb63b5709931",
     "title": "BTS WORLD TOUR 'ARIRANG' IN BANGKOK",
     "date": {
@@ -11038,6 +10380,53 @@
     "description": ""
   },
   {
+    "id": "0ca51ae210b8",
+    "title": "F✦FOREVER 1st World TourMore InfoMore Info",
+    "date": {
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-01",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/f-forever-1st-world-tour-bangkok-tickets-edp1678757",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/f-forever-1st-world-tour-bangkok-tickets-edp1678757"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.631511",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "f08680f79f04",
     "title": "MARCH CHUTAVUTH 1st Exclusive Fan Meeting “The First Memory in Tokyo”",
     "date": {
@@ -12025,6 +11414,53 @@
     "description": ""
   },
   {
+    "id": "ae6656b4627b",
+    "title": "David Byrne: Who Is The Sky? TourMore InfoMore Info",
+    "date": {
+      "startDate": "2026-08-10",
+      "endDate": "2026-08-10",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/david-byrne-who-is-the-sky-tour-bangkok-tickets-edp1668228",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/david-byrne-who-is-the-sky-tour-bangkok-tickets-edp1668228"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.700992",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "67ffc70d5727",
     "title": "Deftones And Linkin Park Live Tribute Night at SMELT.BKK",
     "date": {
@@ -12396,6 +11832,53 @@
       "createdAt": "2026-08-15",
       "updatedAt": "2026-08-15",
       "scrapedAt": "2026-07-03T05:04:36.468608",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "a0d130ecdf50",
+    "title": "SANDARA PARK ‘REPRISM’ 2026 FAN-CON ASIA TOUR IN BANGKOKMore Info",
+    "date": {
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-15",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/sandara-park-reprism-2026-fan-con-asia-tour-in-bangkok-bangkok-tickets-edp1682761",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/sandara-park-reprism-2026-fan-con-asia-tour-in-bangkok-bangkok-tickets-edp1682761"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.499802",
       "isInternational": false
     },
     "description": ""
@@ -13712,6 +13195,53 @@
       "createdAt": "2026-08-28",
       "updatedAt": "2026-08-28",
       "scrapedAt": "2026-07-03T05:02:11.147249",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "fabe51e41d0c",
+    "title": "Kodaline - Farewell Tour28 ส.ค. 2569More Info",
+    "date": {
+      "startDate": "2026-08-28",
+      "endDate": "2026-08-28",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/kodaline-farewell-tour-bangkok-tickets-edp1661899",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/kodaline-farewell-tour-bangkok-tickets-edp1661899"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.773112",
       "isInternational": false
     },
     "description": ""
@@ -15315,6 +14845,100 @@
     "description": "<p data-end=\"251\" data-start=\"169\" style=\"text-align: left;\"><strong data-end=\"215\" data-start=\"169\"><span style=\"font-size: 18px;\">THE LARGEST POOL PARTY EXPERIENCE in BANGKOK 💦</span></strong></p><p data-end=\"251\" data-start=\"169\" style=\"text-align: justify;\">Get ready, Bangkok&hellip; we&rsquo;re back <span class=\"fr-emoticon fr-deletable fr-emoticon-img\" style=\"background: url(https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f60e.svg);\">&nbsp;</span>&nbsp;</p><p data-end=\"457\" data-start=\"253\" style=\"text-align: justify;\">After the massive success of our previous Pool Parties, <a href=\"https://www.instagram.com/bangkok.rooftops/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><span style=\"font-family: Tahoma, Geneva, sans-serif;\">Bangkok Rooftops</span></strong></a> is returning to <strong data-end=\"373\" data-start=\"356\">Centara Grand</strong> for a brand new edition on 19 September &mdash; and this 5th Edition is set to be another big one.</p><p data-end=\"809\" data-start=\"695\" style=\"text-align: justify;\">Your feedback after each event has been truly incredible. So many of you are loving this new location, and honestly, we get why.</p><p data-end=\"1063\" data-start=\"811\" style=\"text-align: justify;\">🏙️ The <strong data-end=\"883\" data-start=\"819\">Pool Deck on the 26th floor of&nbsp;</strong><a href=\"https://maps.app.goo.gl/FxpXR86k18Gy5Laq5\" rel=\"noopener noreferrer\" target=\"_blank\"><strong data-end=\"883\" data-start=\"819\">Centara Grand at CentralWorld</strong></a> is simply one of the best venues in the city for a proper pool party. Huge open space, amazing pool vibes, sunset energy, and an unforgettable skyline backdrop high above Bangkok.</p><p data-end=\"1329\" data-start=\"1065\" style=\"text-align: justify;\">🌆 As the afternoon turns to golden hour and the city lights begin to glow, the atmosphere takes on a whole new level. Whether you want to swim, dance, chill with friends, enjoy drinks by the pool, or just soak in the rooftop sunset vibes, this is the place to be.</p><p data-end=\"1655\" data-start=\"1331\" style=\"text-align: justify;\">🍹 Expect <strong data-end=\"1397\" data-start=\"1348\">Bangkok&rsquo;s largest rooftop pool party settings</strong>, with <strong data-end=\"1456\" data-start=\"1404\">VIP areas, tables, sunbeds, open-air party zones</strong>, and the kind of crowd and energy that make this event truly special. If you came to the last one, you already know. If you missed it, now is your chance to see what everyone has been talking about.</p><p data-end=\"1805\" data-start=\"1657\" style=\"text-align: justify;\">🎶 On the music side, expect a high-energy soundtrack from start to finish, with DJs taking you from daytime pool vibes into full sunset party mode.</p><p data-end=\"1887\" data-start=\"1807\" style=\"text-align: justify;\">💃 And yes &mdash; after the success of the last one, the <strong>A</strong><strong data-end=\"1886\" data-start=\"1859\">fter Party is back too (More details coming soon)</strong></p><p data-end=\"2262\" data-start=\"2104\" style=\"text-align: justify;\">🎟️ Want to experience both?<br data-start=\"2132\" data-end=\"2135\">Book the <strong data-end=\"2160\" data-start=\"2144\">Combo Ticket</strong> and enjoy both the <strong data-end=\"2212\" data-start=\"2180\">Pool Party on the 26th floor</strong> and the <strong data-end=\"2261\" data-start=\"2221\">After Party</strong></p><p data-end=\"2400\" data-start=\"2264\" style=\"text-align: justify;\">🍾 If you&rsquo;re interested in booking a <strong data-end=\"2351\" data-start=\"2301\">table for the After Party</strong>, contact us directly via <a href=\"https://line.me/ti/p/07wyJCxsHe\"><strong data-end=\"2399\" data-start=\"2377\">LINE</strong></a><strong data-end=\"2399\" data-start=\"2377\">,&nbsp;</strong><a href=\"mailto:booking@bangkok-rooftops.com\"><strong data-end=\"2399\" data-start=\"2377\">email</strong></a><strong data-end=\"2399\" data-start=\"2377\">,&nbsp;</strong><a href=\"https://wa.me/message/DD7SGXFAY6J5P1\"><strong data-end=\"2399\" data-start=\"2377\">Whatsapp</strong></a><strong data-end=\"2399\" data-start=\"2377\">&nbsp;or&nbsp;</strong><a href=\"https://www.instagram.com/bangkok.rooftops/\"><strong data-end=\"2399\" data-start=\"2377\">DM</strong></a>.</p><p data-end=\"2583\" data-start=\"2402\" style=\"text-align: justify;\">💦 Pool vibes. Sunset energy. Skyline views. Big crowd. Big atmosphere.<br data-start=\"2473\" data-end=\"2476\">This is not just another party &mdash; this is<strong data-end=\"2582\" data-start=\"2517\">&nbsp;the biggest and best pool party experience in Bangkok</strong>.</p><p style=\"text-align: justify;\">_____________________________________</p><p>🎟️ <strong>Ticket sales phases</strong></p><p>💎 <strong>Super Early Bird (<u>Single Ticket</u>s / <u>2 Girls</u> / <u>Combo</u> Tickets Only):</strong> 16 June &rarr; 1 August 00:00<br>🐣 <strong>Early Bird:</strong>&nbsp;1 August 00:01 &rarr; 16 September 00:00<br>🔥 <strong>Presale:</strong> 16 September &rarr; 19 September 15:00<br>🚪 <strong>Door Price:</strong> 19 September 15:01 &rarr; 19 September 21:00</p><hr><p>📅 <strong>Saturday, 19 September</strong><br data-start=\"403\" data-end=\"406\">⏰ <strong data-end=\"424\" data-start=\"408\">3 PM &ndash; 10 PM</strong><br data-start=\"424\" data-end=\"427\">📍 <a href=\"https://maps.app.goo.gl/FxpXR86k18Gy5Laq5\"><strong data-end=\"504\" data-start=\"430\">Centara Grand &amp; Bangkok Convention Centre at CentralWorld</strong></a></p><p data-end=\"526\" data-start=\"380\"><strong data-end=\"504\" data-start=\"430\">&mdash; 26th Floor (Pool Party):&nbsp;</strong><strong data-end=\"424\" data-start=\"408\">3 PM &ndash; 10 PM</strong></p><p data-end=\"526\" data-start=\"380\"><strong data-end=\"504\" data-start=\"430\">&mdash; 59th Floor (After Party): 5</strong><strong data-end=\"424\" data-start=\"408\">&nbsp;PM &ndash; 1 AM</strong></p><p data-end=\"526\" data-start=\"380\">🚇 <strong data-end=\"526\" data-start=\"510\">BTS: Chidlom</strong></p><address style=\"text-align: justify;\">_____________________________________</address><address><p style=\"text-align: justify;\"><strong>Bottle Selection:</strong></p></address><ul><li style=\"text-align: justify;\">Whisky (Scotch): The Famous Grouse Sherry Cask</li><li style=\"text-align: justify;\">Gin: Lady Trieu Contemporary Vietnam</li><li style=\"text-align: justify;\">Tequila: Jose Cuervo Especial Silver</li><li style=\"text-align: justify;\">Vodka: Skyy</li><li style=\"text-align: justify;\">Rum: Matusalem Platino</li><li style=\"text-align: justify;\">Rum: Matusalem Solera 7</li></ul><p style=\"text-align: justify;\"><strong>Premium:</strong></p><ul><li style=\"text-align: justify;\">Tequila: Clase Azul Reposado</li><li style=\"text-align: justify;\">Whisky (Scotch): The Macallan Sherry Cask 12 Years</li><li style=\"text-align: justify;\">Whisky (Bourbon): Wild Turkey Exclusive Private Barrel Selection</li><li style=\"text-align: justify;\">Gin: The Botanist</li><li style=\"text-align: justify;\">Cognac: Remy Martin XO</li><li style=\"text-align: justify;\">Vodka: Belvedere B10</li><li style=\"text-align: justify;\">Rum: Matusalem Gran Reserva 23</li></ul>"
   },
   {
+    "id": "af07a6375e46",
+    "title": "REIRIE 1ST SOLO LIVE IN BANGKOKMore Info",
+    "date": {
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/reirie-1st-solo-live-in-bangkok-bangkok-tickets-edp1685452",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/reirie-1st-solo-live-in-bangkok-bangkok-tickets-edp1685452"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.277904",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "bbfd4e6280ed",
+    "title": "ASH DA HERO 1ST SOLO LIVE IN BANGKOKMore Info",
+    "date": {
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.349571",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "94917ce44c05",
     "title": "Lonely Loud Fest 2",
     "date": {
@@ -15498,6 +15122,53 @@
       "createdAt": "2026-09-22",
       "updatedAt": "2026-09-22",
       "scrapedAt": "2026-07-03T05:02:14.527868",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "943c25f5f368",
+    "title": "Post Malone Presents The BIG ASS Stadium World Tour22 ก.ย. 2569More Info",
+    "date": {
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-22",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/post-malone-presents-the-big-ass-stadium-world-tour-bangkok-tickets-edp1664183",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/post-malone-presents-the-big-ass-stadium-world-tour-bangkok-tickets-edp1664183"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.845559",
       "isInternational": false
     },
     "description": ""
@@ -16819,6 +16490,53 @@
     "description": "<p><strong>FLOOR 88: DASAWARSA</strong></p><p>Sing-A-Floor! 🇸🇬</p><p>🎉 It&#39;s Official!</p><p>Boomz Entertainment proudly presents Floor 88 DASAWARSA &mdash; the band&#39;s first-ever solo concert in Singapore, celebrating an incredible 10-year journey of music, laughter and unforgettable memories.</p><p>For one night only, experience Floor 88 live as they bring their biggest hits, signature humour and electrifying stage presence to The Theatre at Mediacorp.</p><p>Whether you&#39;ve been singing along since Zalikha, Hutang, Ku Ingin or Sahabat, this is your chance to celebrate a decade of music with one of Malaysia&#39;s most beloved bands.</p><p>---</p><p>📅 <strong>Event Details</strong></p><p>Date: Saturday, 31 October 2026</p><p>Time: 8.00 PM</p><p>Venue: The Theatre at Mediacorp, Singapore</p><p>---</p><p>🎟 <strong>Ticket Categories</strong></p><p>🔥 $129 HUTANG &ndash; Lower Stalls</p><p>💙 $99 ZALIKHA &ndash; Upper Stalls</p><p>💛 $79 KU INGIN &ndash; Circle 1</p><p>🤝 $69 SAHABAT &ndash; Circle 2</p><p>**There are no restricted view for any selected seats.</p><p>---</p><p>⭐ 48HRS EARLY BIRD PRE-SALE!</p><p>29 June 2026 (12:00 AM) &ndash; 30 June 2026 (11:59 PM)</p><p>Enjoy 10% OFF all standard concert ticket prices during the Early Bird Pre-Sale.</p><p><br>Optional Meet &amp; Greet Upgrade (+SGD49)</p><p>Available exclusively with:</p><p>&bull; $129 HUTANG (Lower Stalls)</p><p>&bull; $99 ZALIKHA (Upper Stalls)</p><p><br></p><p>✔ Limited to the first 200 patrons only</p><p>✔ First come, first served</p><p><br></p><p>Please Note:</p><p>- The 10% Early Bird discount applies to the base ticket price only.</p><p>- The SGD49 Optional Meet &amp; Greet Upgrade is a fixed add-on and is not eligible for the 10% discount.</p><p>---</p><p>🎫 General Sales</p><p>1 July 2026 | 12:00 AM (SGT)</p><p>---</p><p>Get Ready To Sing-A-Floor! 🇸🇬</p><p>Expect an unforgettable evening filled with live music, laughter and nostalgic moments as Floor 88 celebrates a decade of bringing fans together through their songs.</p><p>Gather your family and friends, secure your seats early, and be part of this milestone celebration.</p><p>One Night. One Stage. One Decade.</p><p>See you on 31 October 2026!</p>"
   },
   {
+    "id": "cf0e8b7d4779",
+    "title": "Zara Larsson Midnight Sun TourMore Info",
+    "date": {
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.426309",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "04ff9295b2fc",
     "title": "Harakiri for The Sky Live in Bangkok 2026",
     "date": {
@@ -16960,6 +16678,53 @@
     "description": ""
   },
   {
+    "id": "8da739104397",
+    "title": "2026–27 BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN BANGKOK7 พ.ย. 2569More Info",
+    "date": {
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/2026-27-babymonster-world-tour-춤-choom-in-bangkok-bangkok-tickets-edp1673276",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/2026-27-babymonster-world-tour-춤-choom-in-bangkok-bangkok-tickets-edp1673276"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.905583",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "cc28a46d1653",
     "title": "5 SECONDS OF SUMMER: EVERYONE’S A STAR! WORLD TOUR",
     "date": {
@@ -17007,6 +16772,53 @@
     "description": ""
   },
   {
+    "id": "5beac036fbbe",
+    "title": "5 SECONDS OF SUMMER: EVERYONE’S A STAR! WORLD TOURMore InfoMore Info",
+    "date": {
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/5-seconds-of-summer-everyone-s-a-star-world-tour-bangkok-tickets-edp1669966",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/5-seconds-of-summer-everyone-s-a-star-world-tour-bangkok-tickets-edp1669966"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.963102",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "b2ee8656a228",
     "title": "LANY : soft world tour Bangkok",
     "date": {
@@ -17049,6 +16861,53 @@
       "createdAt": "2026-11-10",
       "updatedAt": "2026-11-10",
       "scrapedAt": "2026-07-03T05:02:07.430063",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "3f758fa689f6",
+    "title": "LANY: soft world tour10 พ.ย. 2569More Info",
+    "date": {
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/lany-soft-world-tour-bangkok-tickets-edp1660038",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/lany-soft-world-tour-bangkok-tickets-edp1660038"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:11.026320",
       "isInternational": false
     },
     "description": ""
@@ -17618,6 +17477,100 @@
     "description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 30px;\">BODYSLAM LIVE IN SINGAPORE 🇸🇬</span></strong></p><p style=\"text-align: center;\">Thailand&#39;s biggest rock band. Their first-ever headline show in Singapore.</p><p style=\"text-align: center;\">27 November 2026 (Fri) &nbsp;<br>Resorts World Convention Centre Ballroom &middot; Singapore</p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/219087db540611f1922201117567899b/description/4ac773f16a6c11f1915501117567899b.jpeg\" style=\"width: 738px;\" class=\"fr-fic fr-dib\"></p><p><br></p><hr><p><strong>TICKETS</strong></p><p><strong>VIP (STANDING)</strong>&mdash; SGD 248 (80% SOLD)<br>Front row standing with T-stage access + Dedicated entrance + Complimentary drink coupon</p><p><strong>CAT A</strong> <strong>(STANDING)</strong>&mdash; SGD 188<br>Front row standing zone</p><p><strong>CAT A</strong> <strong>(</strong><strong>STANDING)&nbsp;</strong><strong>BUNDLE OF 4&nbsp;</strong>&mdash; SGD 180/tix<br>Front row standing zone</p><p><strong>CAT B (STANDING)</strong>&mdash; SGD 148&nbsp;</p><p><strong>CAT 1 (SEATED)</strong> &mdash; SGD 228 (SOLD OUT)</p><p><strong>CAT 2 (SEATED)&nbsp;</strong>&mdash; SGD 188 (90% SOLD)</p><p><strong>CAT 3 (SEATED)&nbsp;</strong>&mdash; SGD 148 (90% SOLD)</p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/219087db540611f1922201117567899b/description/dd420f196a6d11f1911101117567899b.jpeg\" style=\"width: 667px;\" class=\"fr-fic fr-dib\"></p><p style=\"text-align: center;\"><strong><span style=\"font-size: 18px;\">THE THAI ROCK LEGENDS ARE FINALLY HERE.</span><br></strong></p><p>For over two decades, Bodyslam has been the heartbeat of Thai rock &mdash; anthems that filled stadiums from Bangkok to Tokyo, songs that defined a generation of fans across Southeast Asia.</p><p>On 27 November 2026, they bring the full headline show to Singapore for the first time.&nbsp;</p><p>If you grew up on ความเชื่อ, คนที่ถูกรัก, and ปล่อย &mdash; this is your night. If you&#39;ve never seen them live, this is where you create the memory that will last <em>forever.</em></p><p><em><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/219087db540611f1922201117567899b/description/f748cf6f6a6c11f1967801117567899b.png\" style=\"width: 735px;\" class=\"fr-fic fr-dib\"></em></p><p style=\"text-align: center;\"><em><strong><span style=\"font-size: 24px;\">DON&#39;T MISS OUT ON THE SHOW OF A LIFETIME.&nbsp;</span></strong></em><br><em><strong><span style=\"font-size: 24px;\">GET YOUR TICKETS NOW!</span></strong></em></p>"
   },
   {
+    "id": "f60fe2a59658",
+    "title": "FKJ – Tyber TourMore Info",
+    "date": {
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/fkj-tyber-tour-bangkok-tickets-edp1685439",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/fkj-tyber-tour-bangkok-tickets-edp1685439"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.132017",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "18214e38265c",
+    "title": "Khalid: It's Always Summer Somewhere TourMore Info",
+    "date": {
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/khalid-it-s-always-summer-somewhere-tour-bangkok-tickets-edp1685524",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/khalid-it-s-always-summer-somewhere-tour-bangkok-tickets-edp1685524"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.205958",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "7621951addc0",
     "title": "BTS WORLD TOUR &#39;ARIRANG&#39; IN BANGKOK",
     "date": {
@@ -17801,6 +17754,53 @@
       "createdAt": "2026-12-26",
       "updatedAt": "2026-12-26",
       "scrapedAt": "2026-07-03T05:03:55.214045",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "21ce673eb3e1",
+    "title": "Fujii Kaze Prema World Tour26 ธ.ค. 2569More Info",
+    "date": {
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-26",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/fujii-kaze-prema-world-tour-bangkok-tickets-edp1680041",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/fujii-kaze-prema-world-tour-bangkok-tickets-edp1680041"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-12T04:28:10.573094",
       "isInternational": false
     },
     "description": ""
