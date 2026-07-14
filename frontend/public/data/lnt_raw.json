@@ -1,5 +1,53 @@
 [
   {
+    "id": "7f1ef48d653e",
+    "title": "WESTLIFE 25: THE ANNIVERSARY WORLD TOURMore Info",
+    "date": {
+      "startDate": "2027-01-25",
+      "endDate": "2027-01-25",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/westlife-25-the-anniversary-world-tour-bangkok-tickets-edp1686411",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/westlife-25-the-anniversary-world-tour-bangkok-tickets-edp1686411"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:05.745651",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "f60fe2a59658",
     "title": "FKJ – Tyber TourMore Info",
     "date": {
@@ -40,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:09.285214",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:06.346130",
       "isInternational": false
     },
     "description": ""
@@ -88,9 +136,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:09.551077",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:06.708774",
       "isInternational": false
     },
     "description": ""
@@ -136,9 +184,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:09.944947",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:07.020595",
       "isInternational": false
     },
     "description": ""
@@ -184,9 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:10.307014",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:07.648701",
       "isInternational": false
     },
     "description": ""
@@ -232,57 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:10.590027",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "a0d130ecdf50",
-    "title": "SANDARA PARK ‘REPRISM’ 2026 FAN-CON ASIA TOUR IN BANGKOKMore Info",
-    "date": {
-      "startDate": "2026-08-15",
-      "endDate": "2026-08-15",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/sandara-park-reprism-2026-fan-con-asia-tour-in-bangkok-bangkok-tickets-edp1682761",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/sandara-park-reprism-2026-fan-con-asia-tour-in-bangkok-bangkok-tickets-edp1682761"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:10.919492",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:07.979812",
       "isInternational": false
     },
     "description": ""
@@ -328,9 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:11.284766",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:08.267443",
       "isInternational": false
     },
     "description": ""
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:11.434914",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:08.652133",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +424,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:11.778184",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:08.891526",
       "isInternational": false
     },
     "description": ""
@@ -472,9 +472,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:12.176852",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:09.207104",
       "isInternational": false
     },
     "description": ""
@@ -520,9 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:12.591508",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:09.519659",
       "isInternational": false
     },
     "description": ""
@@ -568,9 +568,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:12.892960",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:09.851487",
       "isInternational": false
     },
     "description": ""
@@ -616,9 +616,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:13.258631",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:10.215702",
       "isInternational": false
     },
     "description": ""
@@ -664,9 +664,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-13",
-      "updatedAt": "2026-07-13",
-      "scrapedAt": "2026-07-13T04:07:20.918689",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "scrapedAt": "2026-07-14T04:05:10.568111",
       "isInternational": false
     },
     "description": ""
