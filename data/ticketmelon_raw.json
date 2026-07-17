@@ -1,827 +1,11 @@
 [
   {
-    "id": "4be64974a72c",
-    "title": "DRIP KL Present: 19:26",
+    "id": "6cd219517d74",
+    "title": "Dual",
     "date": {
       "startDate": "2026-07-17",
       "endDate": "2026-07-17",
       "doorTime": "2026-07-17T14:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "drip-kuala-lumpur",
-    "venueName": "Drip Kuala Lumpur",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "classical"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/drip-kuala-lumpur/dripkl-horizon-1926-sunsetbyneon",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/44f14e2d631311f1922201117567899b/poster/6f9828e2665311f1943101117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/drip-kuala-lumpur/dripkl-horizon-1926-sunsetbyneon"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-16T04:17:31.119711",
-      "isInternational": false
-    },
-    "description": "<p>DRIP KL and Horizon proudly welcome <strong>19:26</strong> for an exclusive Kuala Lumpur performance on <strong>17 July 2026</strong>.</p><p>A defining force in the new wave of melodic electronic music, 19:26 has built a reputation for blending cinematic emotion, neoclassical influences, and forward-thinking electronic sound design. His music exists in the space between memory and the future, where powerful melodies, hypnotic rhythms, and emotional storytelling converge to create unforgettable dancefloor moments.</p><p>Following acclaimed releases on <strong>Afterlife</strong> and <strong>Siamese</strong>, 19:26 unveiled his most ambitious body of work to date with <em>The Passage EP</em> on Afterlife, a deeply personal exploration of transformation and inner transition. His breakout release <strong>XX</strong> became a defining milestone, reaching top positions on the Beatport charts and earning support across major international radio stations. His collaboration with <strong>Anyma</strong>, <em>Giza</em>, further cemented his place among the most exciting artists in melodic electronic music today.</p><p>Supported by industry heavyweights including Tale Of Us, Anyma, MRAK, Adriatique, Mathame, Argy, Miss Monique, David Guetta, and Ti&euml;sto, 19:26 has captivated audiences worldwide through a sound that balances emotional depth with club-focused precision.</p><p>His performances have taken him to some of the world&#39;s most iconic stages, including Afterlife Festival, Zamna, H&iuml; Ibiza, Space Miami, Kappa Futur Festival, and the legendary Pyramids of Giza, where his set became a viral phenomenon celebrated for its cinematic intensity and emotional impact.</p><p data-end=\"980\" data-start=\"732\">Supporting him on the night are <strong data-end=\"776\" data-start=\"764\">Victor G</strong>, <strong>WESUFO</strong>, and <strong data-end=\"803\" data-start=\"794\">Boriz</strong>, who will set the tone with a carefully curated selection of melodic house, progressive sounds, and peak-time energy, creating the perfect build-up to the headline performance.</p><p data-end=\"529\" data-start=\"177\">For this special showcase, we&#39;re bringing the <strong data-end=\"665\" data-start=\"636\">Sunset by Neon&nbsp;</strong>energy indoors. Transforming DRIP KL into an immersive journey of music, visuals, and atmosphere inspired by the festival&#39;s signature sound and energy.</p><p>Now, for one night only, experience 19:26&#39;s immersive sound in the intimate setting of DRIP KL.</p><p><br></p><p>For VIP table reservations contact +6018 788 0858.</p><p data-end=\"980\" data-start=\"732\"><br></p>"
-  },
-  {
-    "id": "67a56a6481d3",
-    "title": "LOUDLY PREFER Presents Tigers Jaw live in Bangkok 2026",
-    "date": {
-      "startDate": "2026-11-05",
-      "endDate": "2026-11-05",
-      "doorTime": "2026-11-05T10:30:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "volume-livehouse-bfloor",
-    "venueName": "Volume Livehouse B.Floor",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/loudlypreferth/TJBKK2026",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/96e6bd3c6f9411f1943101117567899b/poster/9e5cef07801f11f1990801117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/loudlypreferth/TJBKK2026"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-11-05",
-      "updatedAt": "2026-11-05",
-      "scrapedAt": "2026-07-16T04:17:31.721451",
-      "isInternational": false
-    },
-    "description": "<p><span style=\"font-size: 24px;\">For The First Time Ever!!&nbsp;</span></p><p><span style=\"font-size: 24px;\">Iconic Emo Punk Finest</span></p><p><span style=\"font-size: 24px;\">&quot;TIGERS JAW&quot; live in Bangkok 2026</span></p><p><span style=\"font-size: 18px;\">Date: Thursday NOV. 5th 2026</span></p><p><span style=\"font-size: 18px;\">Venue : Volume Livehouse B.Floor&nbsp;</span></p><p><span style=\"font-size: 24px;\">Plus + Special Guests - SINGDVNCEFIST / MURRPH.</span></p><p><br></p><p><span style=\"font-size: 18px;\">Ticket - <em><strong>EARLY 1800 THB</strong></em> / <u>REGULAR 2200 THB</u></span> / <strong>Showday 2800 THB</strong></p><p>More details Stay tuned</p>"
-  },
-  {
-    "id": "c9637a2cb923",
-    "title": "NEW COMPOSITION 004: CLUB MASCOT & JAY V.",
-    "date": {
-      "startDate": "2026-07-25",
-      "endDate": "2026-07-25",
-      "doorTime": "2026-07-25T09:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "bangkok-citycity-gallery",
-    "venueName": "BANGKOK CITYCITY GALLERY",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/bangkokcitycitygallery/nc004",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/6b6afd2f7ffb11f1990801117567899b/poster/451ef0417ffd11f1967801117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/bangkokcitycitygallery/nc004"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-25",
-      "updatedAt": "2026-07-25",
-      "scrapedAt": "2026-07-16T04:17:33.568658",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "7f086e4b2ed6",
-    "title": "Special Event for MARCH CHUTAVUTH 1st Exclusive Fan Meeting “The First Memory in Tokyo”",
-    "date": {
-      "startDate": "2026-08-02",
-      "endDate": "2026-08-02",
-      "doorTime": "2026-08-02T05:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "shibuya-scramble-square",
-    "venueName": "Shibuya Scramble Square",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/g-yucreative/MarchFansigninTokyo",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/8ff7a731752b11f1943101117567899b/poster/25451b8a75c911f1911101117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/g-yucreative/MarchFansigninTokyo"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-02",
-      "updatedAt": "2026-08-02",
-      "scrapedAt": "2026-07-16T04:17:34.392948",
-      "isInternational": false
-    },
-    "description": "<p><strong>✨スペシャルイベントチケット販売決定！✨</strong></p><p><br></p><p>「MARCH CHUTAVUTH 1st Exclusive Fan Meeting &ldquo;The First Summer Memory in Tokyo&rdquo;」ご参加者限定！</p><p><br></p><p>💖 スペシャルイベントでは、マーチとの1分間ファンサイン会をお楽しみいただけます！</p><p>🎫 各公演20枚限定！</p><p>📅 開催日：2026年8月2日（日）</p><p><br></p><p>スペシャルイベントチケットは、2026年7月5日（日）12:00（日本時間）より、下記サイトにて販売開始いたします！</p><p>🔴 https://www.ticketmelon.com/g-yucreative/MarchFansigninTokyo</p><p><br></p><p>注意事項・参加条件</p><p>1. 本イベントにご参加いただくには、「MARCH CHUTAVUTH 1st Exclusive Fan Meeting &ldquo;The First Summer Memory in Tokyo&rdquo;」のチケット（全席種対象）が必要です。</p><p>2. イベント当日の受付にて、スペシャルイベントチケットおよびファンミーティングチケットの両方をご提示ください。</p><p>3. ファンミーティングチケット1枚につき、スペシャルイベントチケットは1枚までご購入いただけます。</p><p>4. 1分間ファンサイン会は、ファンミーティング終演後、すべての特典会終了後に実施いたします。</p><p>5. ご参加のお客様は、March Chutavuth本人との1分間のファンサインおよび交流をお楽しみいただけます。</p><p>6. サインは、スペシャルイベントチケット1枚につき1点までとさせていただきます。</p><p>7. ご購入後のチケットは、いかなる理由があってもキャンセル・払い戻しはできません。</p><p>8. 本イベントに関する最終的な判断は主催者が行います。なお、主催者は予告なく本注意事項・参加条件を変更する場合がございますので、あらかじめご了承ください。</p><p><br></p><p><strong>✨ SPECIAL EVENT TICKETS ANNOUNCEMENT! ✨</strong></p><p><br></p><p>Exclusively for ticket holders of the &quot;MARCH CHUTAVUTH 1st Exclusive Fan Meeting &#39;The First Summer Memory in Tokyo&#39;&quot; Only!!</p><p><br></p><p>💖 Join this exclusive special event and enjoy a 1-minute fan sign session with March!</p><p>🎫 Limited to 20 tickets per show</p><p>📅 Event Date: Sunday, August 2, 2026</p><p><br></p><p>Special Event tickets will go on sale from 12:00 PM (JST) on Sunday, July 5, 2026, via link below.</p><p>🔴 https://www.ticketmelon.com/g-yucreative/MarchFansigninTokyo</p><p><br></p><p>Rules &amp; Conditions</p><p>1. Participants must hold a valid ticket for the &quot;MARCH CHUTAVUTH 1st Exclusive Fan Meeting &#39;The First Summer Memory in Tokyo&#39;&quot; (any seating zone).</p><p>2. Staff will verify both your Special Event ticket and Fan Meeting ticket at the registration point on the event day.</p><p>3. Each March Fan Meeting ticket holder may purchase one Special Event ticket only.</p><p>4. The 1-minute Fan Sign session will begin after all general fan benefits have concluded.</p><p>5. Each participant will have 1 minute with March Chutavuth for a fan sign and a brief interaction.</p><p>6. Only one item may be signed per Special Event ticket.</p><p>7. All ticket purchases are non-refundable under any circumstances.</p><p>8. The company&#39;s decision is final. The company reserves the right to amend these terms and conditions without prior notice.</p><p><br></p><p>#MARCH1stFMinTokyo #marchutavuth #ThaiActor #TokyoEvent #gyucreative</p>"
-  },
-  {
-    "id": "94917ce44c05",
-    "title": "Lonely Loud Fest 2",
-    "date": {
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "doorTime": "2026-09-20T07:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "union-hall-union-mall",
-    "venueName": "Union Hall, Union Mall",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/rsshowbizth/LonelyLoudFest2",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/4f5c149e4aac11f1943101117567899b/poster/10790c4b5aff11f1990801117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/rsshowbizth/LonelyLoudFest2"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-20",
-      "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-16T04:17:36.175083",
-      "isInternational": false
-    },
-    "description": "<p dir=\"ltr\" style=\"text-align: center;\">เปิดตี้คนขี้เหงาตะโกนบอกเค้าเราอยู่ได้</p><p style=\"text-align: center;\">เจอกันที่ Lonely Loud Fest 2&nbsp;</p><p style=\"text-align: center;\">20 &nbsp;ก.ย. นี้! UNION HALL ,UNION MALL&nbsp;</p><p style=\"text-align: center;\">ขายบัตร 1 มิถุนายนนี้ ราคาดีมีที่นี่ที่เดียว</p><p style=\"text-align: center;\">Early Bird 799 บาท จากราคาเต็ม 1299 บาท ถึง 30 มิถุนายน เท่านั้น!!!</p><p style=\"text-align: center;\">ที่ TICKETMELON&nbsp;</p><p style=\"text-align: center;\">บรรเทาความเหงาโดย&nbsp;</p><p style=\"text-align: center;\">NONT TANONT ,INK WARUNTOTN ,BOWKYLION ,PUN ,4EVE ,POLYCAT</p><p style=\"text-align: center;\"><em>*ราคาบัตรยังไม่รวมค่าธรรมเนียมและค่าบริการ</em></p>"
-  },
-  {
-    "id": "e9f806f8b88d",
-    "title": "Sanctuary Afterparty ft. David Forbes",
-    "date": {
-      "startDate": "2026-07-18",
-      "endDate": "2026-07-18",
-      "doorTime": "2026-07-18T14:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "over-above",
-    "venueName": "Over & Above",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/evoasia-overandabove/sanctuary-afterparty",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/c8c603926a0111f1967801117567899b/poster/f36d00396c8e11f1915501117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/evoasia-overandabove/sanctuary-afterparty"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-18",
-      "updatedAt": "2026-07-18",
-      "scrapedAt": "2026-07-16T04:17:36.778707",
-      "isInternational": false
-    },
-    "description": "<p>The party continues with the official Sanctuary Afterparty featuring none other than <strong>David Forbes&nbsp;</strong>🔥</p><p>Tickets are live now. Don&rsquo;t wait on this one.</p><p><br></p><p><strong><u>TICKETING TERMS &amp; CONDITIONS:</u></strong></p><ul><li>Please refer to the minimum age requirement for the event, no refunds will be provided for underage attendees.&nbsp;</li><li>The right of admission is reserved by the event management and venue management parties</li><li>The right is reserved to vary, substitute or withdraw advertised programs, artists, venue and seating arrangements as necessary</li><li>This ticket is only valid only when purchased through an authorised agent</li><li>Patrons who disrupt a performance, who are in use or possession of a prohibited object or fail to produce valid identification may be asked to leave the venue without refund of ticket purchase</li><li>All tickets sold are final - no refunds will be provided for change in mind or inability to attend due to personal reasons or duplicate orders by the customer. Refunds may be provided through the refund ticket protection add on through the check out process.&nbsp;</li><li>Please be aware that we have no obligation to honour tickets purchased via unauthorised re-sellers. If you attend one of our events with a ticket purchased via an unauthorised re-seller such or otherwise , you may be refused entry to the event.&nbsp;</li><li>The ticket holder bears the risk of dangers incidental to the event, whether occurring prior to, during or after the event including (but not exclusively) - the dangers of being struck by projected objects, atmospheric effects, strobe light usage or loud noises. If impacted - immediately contact event staff for assistance.&nbsp;</li><li>Policies and procedures adopted are subject to change at any time without notice</li></ul>"
-  },
-  {
-    "id": "b71928090e0b",
-    "title": "Lomosonic and Bedroom Audio Live at Bangkok Soundscape",
-    "date": {
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "doorTime": "2026-09-20T12:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "515-event-hall",
-    "venueName": "515 Event Hall",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/soundscape/lomosonic_bedroomaudio",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/522cca61721211f1915501117567899b/poster/498496d7739c11f1911101117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/soundscape/lomosonic_bedroomaudio"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-20",
-      "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-16T04:17:37.376395",
-      "isInternational": false
-    },
-    "description": "<div data-v-7a63213b=\"\"><div data-v-7a63213b=\"\" data-v-ad23e09c=\"\" dir=\"ltr\"><strong>Lomosonic &amp; Bedroom Audio &ndash; Live at Soundscape&nbsp;</strong></div><div data-v-7a63213b=\"\"><p data-end=\"224\" data-start=\"184\">ค่ำคืนที่คุณจะได้ใกล้ศิลปินมากกว่าที่เคย!</p><p data-end=\"402\" data-start=\"226\">Bangkok Soundscape คือ Curated Intimate Concert Series ที่ออกแบบประสบการณ์การชมคอนเสิร์ตให้ใกล้ชิดทั้งศิลปินและเสียงดนตรี ในบรรยากาศที่อบอุ่น พร้อมผู้ชมที่รักดนตรีเหมือนกัน</p><p data-end=\"535\" data-start=\"404\">ภายในงานพบกับ Guest Artists ก่อนเข้าสู่โชว์ของ Headliner: Lomosonic &amp; Bedroom Audio พร้อมกิจกรรมและเซอร์ไพรส์ตลอดทั้งค่ำคืน<br><br></p><p data-end=\"305\" data-start=\"255\"><strong>ไฮไลต์ภายในงาน</strong><br>🎤 <strong>โชว์เต็มรูปแบบ&nbsp;</strong>จาก Lomosonic &amp; Bedroom Audio <br><strong>✨&nbsp;</strong><strong>Guest Artists</strong> ร่วมเปิดค่ำคืน<br>💜 <strong>คอนเสิร์ตบรรยากาศใกล้ชิด</strong> จำนวนผู้เข้าชมจำกัด ให้คุณได้อยู่ใกล้ศิลปินมากกว่าคอนเสิร์ตทั่วไป<br>🎁 <strong>กิจกรรมและของรางวัล</strong> จากผู้สนับสนุนภายในงาน<br>🥤 <strong>VIP ticket holders</strong>&nbsp; รับฟรี! เครื่องดื่ม (มีแอลกอฮอล์และไม่มีแอลกอฮอล์) พร้อมของว่างตลอดงาน</p></div><p data-end=\"2301\" data-start=\"2115\"><br><strong data-end=\"2128\" data-start=\"2118\">Venue:</strong> 515 Victory Hall, ติด BTS อนุสาวรีย์ทางออก 4 ใจกลางกรุงเทพ เดินทางสะดวก<br data-start=\"2154\" data-end=\"2157\"><strong data-end=\"2169\" data-start=\"2160\">Date:</strong>&nbsp;20 September 2026<br data-start=\"2183\" data-end=\"2186\"><strong data-end=\"2197\" data-start=\"2188\">Time:</strong> 18:00 - 22:00<br data-start=\"2203\" data-end=\"2206\"><strong data-end=\"2226\" data-start=\"2209\">Ticket Types:</strong> Gold / Premium / VIP<br data-start=\"2247\" data-end=\"2250\"><strong data-end=\"2273\" data-start=\"2253\">Standing concert</strong><br data-start=\"2273\" data-end=\"2276\"><strong data-end=\"2301\" data-start=\"2279\">No age restriction</strong></p><p data-end=\"2733\" data-start=\"2658\"><em>🎫 Tickets are limited. Secure yours now before they are gone</em></p></div>"
-  },
-  {
-    "id": "213b6b2afb66",
-    "title": "Catch Your Next Wave at Phuket Surf House",
-    "date": {
-      "startDate": "2026-01-24",
-      "endDate": "2026-12-31",
-      "doorTime": "2026-01-24T02:30:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "phuket-surf-house---patong-beach",
-    "venueName": "Phuket Surf House - Patong Beach",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/phuket-surf-house/catchyournextwave",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/cce41852dbf411f0915501117567899b/poster/65c8a2a3f83911f0967801117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/phuket-surf-house/catchyournextwave"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-01-24",
-      "updatedAt": "2026-01-24",
-      "scrapedAt": "2026-07-16T04:17:37.973839",
-      "isInternational": false
-    },
-    "description": "<p><strong>Patong&#39;s Pulse Meets the Ocean&#39;s Power</strong></p><p>Surrounded by all the action yet connected to the calm of the ocean&mdash;Phuket Surf House gives you the best of both worlds. Located prime on Beach Road, 200 meters from Bangla&#39;s legendary nightlife and just steps from the sand, we&#39;re where the energy of Patong meets the thrill of world-class surfing. This isn&#39;t just location. It&#39;s destination.</p><p>Join us for epic waves, delicious food and drinks, and unforgettable memories.</p>"
-  },
-  {
-    "id": "4ab8d6ca3474",
-    "title": "Northeast Heatwave \"The Greatest Heat\" Bleach (ID) and Keep it Real (ID) + More",
-    "date": {
-      "startDate": "2026-08-23",
-      "endDate": "2026-08-23",
-      "doorTime": "2026-08-23T11:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "harmonickkc",
-    "venueName": "Harmonic.kkc",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "metal"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/northeastheatwave/thegreatestheat",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/b9d8a7dd43be11f1943101117567899b/poster/392c69d247a311f1967801117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/northeastheatwave/thegreatestheat"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-23",
-      "updatedAt": "2026-08-23",
-      "scrapedAt": "2026-07-16T04:17:41.561231",
-      "isInternational": false
-    },
-    "description": "<p>Northeast Heatwave presents<br><strong>THE GREATEST HEAT</strong> 🔥</p><p>หนึ่งในโชว์ที่เดือดที่สุดของปีที่ขอนแก่น<br>เมื่อพลังของ Hardcore/Punk จาก Indonesia<br>ปะทะกับความร้อนแรงของซีนไทยแบบเต็มรูปแบบ</p><p>ครั้งแรกที่ Bleach และ Keep It Real จาก Indonesia<br>จะมาเล่นที่ขอนแก่น พร้อมกับเพื่อนๆ จากหลายเมือง<br>ทั้ง Bangkok, Korat และเจ้าบ้าน Khon Kaen </p><p>พบกับ</p><p>⚡ Bleach (ID)<br>⚡ Keep It Real (ID)<br>⚡ Move Along &ndash; Khon Kaen<br>⚡ Crusher &ndash; Khon Kaen<br>⚡ Soul of Sin &ndash; Bangkok<br>⚡ Boardloose &ndash; Korat<br>⚡ Scutt &ndash; Bangkok</p><p>📍 Harmonic KKC, Khon Kaen, Thailand<br>📅 23 August 2026</p><p>Early Tickets: 490 thb&nbsp;</p><p>Regular: 590 thb</p><p>At Door: 690 thb</p><p>This is not just a hardcore show.<br>This is The Greatest Heat.</p><p>มาร่วมเป็นส่วนหนึ่งของอีกหนึ่งคืนประวัติศาสตร์<br>ของ Northeast Heatwave และชาวขอนแก่น<br>100% Thai Punk &amp; Hardcore 🇹🇭</p><p>See you in the pit.</p><p>#NortheastHeatwave #TheGreatestHeat #BleachHC #KeepItRealHC #MoveAlongTH #KhonKaenHardcore #ThaiHardcore #ThaiPunk #IndonesiaHardcore #DIYShow #HardcoreShow #HarmonicKKC</p>"
-  },
-  {
-    "id": "78b3bbf587dc",
-    "title": "LIDO LITEHOUSE JULY 2026",
-    "date": {
-      "startDate": "2026-07-15",
-      "endDate": "2026-07-22",
-      "doorTime": "2026-07-15T12:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "lido-connect",
-    "venueName": "Lido Connect",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/LIDOLITEHOUSE/LTHJULY26",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/9fdfcf59648f11f1990801117567899b/poster/5eeb8f356a3411f1923401117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/LIDOLITEHOUSE/LTHJULY26"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-15",
-      "updatedAt": "2026-07-15",
-      "scrapedAt": "2026-07-16T04:17:42.740512",
-      "isInternational": false
-    },
-    "description": "<p><strong>ประกาศไลน์อัป Lido Litehouse รอบเดือนกรกฎาคม</strong> รวมตัวตึงสายอินดี้ที่ทุกคนต้องห้ามพลาดด&hellip;กดบัตรได้แล้วตอนนี้! 💥🎵</p><p><strong>EP.20 : 15.07.2026 : คณะสุเทพ &amp; something sweet &nbsp;[360 THB]</strong></p><p><strong>EP.21 &nbsp;: 22.07.2026 : &nbsp;Slapkiss &amp; Soundsleep &nbsp; [360 THB]</strong></p><p>.</p><p>กดบัตรได้ทาง : https://www.ticketmelon.com/th/LIDOLITEHOUSE/LTHJULY26</p><p>ถ้าไม่อยากพลาดความมันส์ ต้องกดบัตรแล้วนะ 👊🏻</p><p>📍 Lido Connect Hall 3</p><p>⚠️ หากบัตรหมดแล้ว ไม่มีขายหน้างานนะ</p><p>.</p><p>#LIDOLITEHOUSE</p><p>#LIDOCONNECT</p><p>#LIDOCONCERT</p><p>#LIVEHOUSE</p>"
-  },
-  {
-    "id": "6ac3303971f2",
-    "title": "Afrokkulture x Hilton",
-    "date": {
-      "startDate": "2026-07-25",
-      "endDate": "2026-07-25",
-      "doorTime": "2026-07-25T13:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "the-club-hilton-kota-kinabalu",
-    "venueName": "The Club, Hilton Kota Kinabalu",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/afrokkulture/AfrokkulturexHilton",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/071e8340793b11f1915501117567899b/poster/e950564a7ba711f1915501117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/afrokkulture/AfrokkulturexHilton"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-25",
-      "updatedAt": "2026-07-25",
-      "scrapedAt": "2026-07-16T04:17:43.490337",
-      "isInternational": false
-    },
-    "description": "<p>🔥 <strong>AFROKKULTURE x Hilton Kota Kinabalu</strong> 🔥</p><p>Get ready for a night where the energy never stops! We&#39;re bringing <strong>Anuar</strong> all the way from <strong>Illum Kuala Lumpur</strong> for <strong>one night only</strong>, delivering the very best of <strong>Afrobeats</strong> and <strong>Amapiano</strong>.</p><p>📅 <strong>Saturday, 25 July 2026</strong><br>🕘 <strong>Doors Open: 9:00 PM</strong><br>📍 <strong>The Club, Hilton Kota Kinabalu</strong></p><p>Expect nothing but infectious rhythms, incredible vibes, and a dance floor that stays alive all night. We&#39;re bringing the heat to Kota Kinabalu, and this is one party you don&#39;t want to hear about the next day. You&#39;ll want to be there.</p><p>🎟️ <strong>Ticket Prices</strong><br>✨ Early Bird RM49<br>🔥 General Sale RM79<br>🚪 Door Price RM99</p><p>All tickets include <strong>1 complimentary drink</strong>.</p><p>🎫 <strong>Limited tickets available</strong>, so lock in your ticket early and save your future self (and your wallet) will thank you when you&#39;re not paying RM99 at the door. 😉</p><p>Come ready to dance, celebrate, and experience an unforgettable night of Afro vibes. See you on the dance floor! 🌍🔥</p>"
-  },
-  {
-    "id": "6b16c6d24432",
-    "title": "VALA Hua Hin - ไทยเที่ยวไทย ครั้งที่ 77",
-    "date": {
-      "startDate": "2026-03-01",
-      "endDate": "2026-11-30",
-      "doorTime": "2026-03-01T17:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "vala-hua-hin---nu-chapter-hotels",
-    "venueName": "VALA Hua Hin - Nu Chapter Hotels",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/valahuahin/TTT77",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/66628b86114f11f1943101117567899b/poster/cf9a8d73117211f1967801117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/valahuahin/TTT77"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-03-01",
-      "updatedAt": "2026-03-01",
-      "scrapedAt": "2026-07-16T04:17:44.663933",
-      "isInternational": false
-    },
-    "description": "<p><span style=\"color: rgb(255, 255, 255);\">🔥โปรโมชั่นที่ดีที่สุดแห่งปีเริ่มขึ้นแล้ว! &quot;ไทยเที่ยวไทย ครั้งที่ 77&quot; เริ่มต้นเพียง 3,899 บาท รวมอาหารเช้าต่อห้อง/คืน</span></p><p><span style=\"color: rgb(255, 255, 255);\">พบกับพวกเราได้เลย! ที่ศูนย์ประชุมแห่งชาติสิริกิติ์ ฮอลล์ 5 บูธ B55 วันที่ 5-8 มี.ค.นี้!</span></p><p><span style=\"color: rgb(255, 255, 255);\">.</span></p><p><span style=\"color: rgb(255, 255, 255);\">🛏️ เข้าพักได้วันนี้ - 30 พฤศจิกายน 2569 (ไม่สามารถเข้าพักได้ในวันที่ 11 - 15 เมษายน 2569)</span></p><p><span style=\"color: rgb(255, 255, 255);\">.</span></p><p><span style=\"color: rgb(255, 255, 255);\">💆&zwj;♀️ Spa Voucher ราคาพิเศษเริ่มต้นเพียง 1,950 บาท/ใบ</span></p><p><span style=\"color: rgb(255, 255, 255);\">🍽️ Food &amp; Beverage Voucher ลด 25% จ่ายเพียง 1,500 บาท ทานได้ 2,000 บาท!</span></p><p><span style=\"color: rgb(255, 255, 255);\">🐶 Pawcation Voucher เวาเชอร์ค่าบริการน้องสุนัขเพียง 1,000 บาท/ใบ จากปกติ 1,500 บาท</span></p><p><span style=\"color: rgb(255, 255, 255);\">.</span></p><p data-ccp-props='{\"335551550\":1,\"335551620\":1,\"335559683\":0,\"335559685\":180,\"335559731\":0,\"335559737\":0,\"335562764\":2,\"335562765\":1.14999,\"335562766\":4,\"335562767\":0,\"335562768\":4,\"335562769\":0}' lang=\"EN-US\" style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255);\">ค่าบริการเพิ่มเติม &nbsp;<br><span data-contrast=\"none\" data-usefontface=\"false\" lang=\"TH-TH\">&bull; เข้าพักได้เฉพาะวันอาทิตย์ - พฤหัส เท่านั้น</span></span></p><p data-ccp-props='{\"335551550\":1,\"335551620\":1,\"335559683\":0,\"335559685\":180,\"335559731\":0,\"335559737\":0,\"335562764\":2,\"335562765\":1.14999,\"335562766\":4,\"335562767\":0,\"335562768\":4,\"335562769\":0}' lang=\"EN-US\" style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255);\"><span data-contrast=\"none\" data-usefontface=\"false\" lang=\"TH-TH\">&bull; วันศุกร์ ชำระเพิ่ม 500 บาท/ห้อง/คืน และวันเสาร์ ชำระเพิ่ม 1,000 บาท/ห้อง/คืน &nbsp;</span></span></p><p data-ccp-props='{\"335551550\":1,\"335551620\":1,\"335559683\":0,\"335559685\":180,\"335559731\":0,\"335559737\":0,\"335562764\":2,\"335562765\":1.14999,\"335562766\":4,\"335562767\":0,\"335562768\":4,\"335562769\":0}' lang=\"EN-US\" style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255);\"><span data-contrast=\"none\" data-usefontface=\"false\" lang=\"TH-TH\">&bull; วันหยุดยาว (ได้แก่ วันที่ 06 เม.ย., 01, 04 พ.ค., 28-29 ก.ค., 13, 23 ต.ค. 2569 ) ชำระเพิ่ม 2,000 บาท/ห้อง/คืน&nbsp;</span><br><span data-contrast=\"none\" data-usefontface=\"false\" lang=\"TH-TH\">&bull; ค่าบริการสำหรับสุนัข ราคา 1,500 บาทต่อตัวต่อคืน และไม่เกิน 2 ตัวต่อห้อง (เฉพาะห้อง&nbsp;</span><span data-contrast=\"none\" data-usefontface=\"false\" lang=\"EN-US\">Deluxe Room, Mini Suite Beachfront, Pool Villa Garden &amp; Pool Villa Beachfront)&nbsp;</span></span></p><p><span style=\"color: rgb(255, 255, 255);\">.</span></p><p><span style=\"color: rgb(255, 255, 255);\">สอบถามข้อมูลเพิ่มเติมได้ที่แผนกสำรองห้องพัก 032 706 777 หรือ LINE Official @valahuahin (https://lin.ee/f2AQu6z)</span></p><p><span style=\"color: rgb(255, 255, 255);\">.</span></p><p><span style=\"color: rgb(255, 255, 255);\">📌 วาลา หัวหิน ขอสงวนสิทธิในการเปลี่ยนแปลงเงื่อนไขและสิทธิประโยชน์ต่างๆ โดยมิต้องแจ้งให้ทราบล่วงหน้า</span></p><p><span style=\"color: rgb(255, 255, 255);\">.</span></p><p><span style=\"color: rgb(255, 255, 255);\">#VALAHuahin #Huahin #Chaam #Thailand #Smallluxuryhotels #ไทยเที่ยวไทย #ไทยเที่ยวไทยครั้งที่77</span></p>"
-  },
-  {
-    "id": "b1f268e62667",
-    "title": "SONIC! Sunrise Beach Sessions",
-    "date": {
-      "startDate": "2026-08-01",
-      "endDate": "2026-08-01",
-      "doorTime": "2026-08-01T11:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "saranai-beach-house---art-coffee-recycle-bar",
-    "venueName": "Saranai Beach House - Art Coffee & Recycle Bar",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/sonic/sunrise-beach-010826",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/e97976447e5d11f1990801117567899b/poster/e4903fa57e6111f1967801117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/sonic/sunrise-beach-010826"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-07-16T04:17:46.460863",
-      "isInternational": false
-    },
-    "description": "<p>One night on a secluded beach, minutes from Hoi An. Together with <a href=\"https://www.facebook.com/DreamscapeTents\">Dreamscape Tents</a> we&#39;re setting a bedouin tent right by the sea, mixing sea and sound waves from sunset to sunrise, all of it carried on our own L Acoustics system.</p><p><strong>George Haruld</strong>, fresh from Bristol with a decade in the UK underground, Motion, Warehouse Project, support from Mixmag, and a catalogue running from garage to jungle.</p><p><strong>Devin</strong> brings thirty years behind the decks and a residency at Tunnel, Seoul, blending house, funk and electro into hypnotic territory. He closes the night with a sunrise set over the water.</p><p><strong>Red</strong>, from Hanoi, digs wide, jazz fusion and disco on vinyl, breaks and heavy bass on digital.</p><p><strong>Jazz Cat Luong</strong>, of the local Bamboogie crew, opens the night on vinyl, funky grooves while the light goes down.</p><p>Alongside them, our residents <strong>Just Ngoc</strong> and <strong>Patrick S</strong>, the sound this coast already knows.</p><p>Sat 1 August, 6pm till 6am. Saranai, Hoi An.<br>Advance 150k, door 250k.</p><p>Open air, on sand, all night.</p>"
-  },
-  {
-    "id": "6aec491a3301",
-    "title": "Melt Livehouse Cloud 11: YELLOW FANG vs SUPERGOODS",
-    "date": {
-      "startDate": "2026-07-26",
-      "endDate": "2026-07-26",
-      "doorTime": "2026-07-26T12:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "melt-livehouse-cloud-11",
-    "venueName": "Melt Livehouse Cloud 11",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/meltlivehouse/YELLOWFANGvsSUPERGOODS",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/0876cf61714711f1967801117567899b/poster/84485741714811f1911101117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/meltlivehouse/YELLOWFANGvsSUPERGOODS"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-26",
-      "updatedAt": "2026-07-26",
-      "scrapedAt": "2026-07-16T04:17:47.054290",
-      "isInternational": false
-    },
-    "description": "<p data-pm-slice=\"0 0 []\"><strong>26 July 2026 (วันอาทิตย์)</strong><br><strong>Waiting Room Presents: @ Melt Livehouse Cloud 11</strong></p><hr><p><strong>Tickets:</strong><br><strong>&bull; Early Bird:</strong> 400 THB<br>&bull; <strong>General Admission:&nbsp;</strong>700 THB<br>&bull; <strong>Melt Deluxe</strong><strong>:&nbsp;</strong>1200 THB</p><p><strong>Melt Deluxe Ticket Perks:</strong><br>&bull; Early Entrance<br>&bull; Event Poster (YELLOW FANG vs SUPERGOODS)<br><br><br>ประตูเปิด: 19:30<br>ไม่จำกัดอายุ</p><hr><p data-pm-slice=\"0 0 []\"><strong>วิธีเดินทางมา Melt Livehouse Cloud 11</strong><br><strong>Google Maps:&nbsp;</strong></p><p data-pm-slice=\"0 0 []\">https://maps.app.goo.gl/chH5mE43hD4Vkc326?g_st=ic</p><p><strong>BTS ปุณณวิถี</strong> &rarr; ทางออก 6 เดิน Skywalk ประมาณ 5 นาที</p><p><strong>BTS อุดมสุข</strong> &rarr; ทางออก 2 เดินประมาณ 6 นาที</p><p>สามารถจอดรถได้ที่ตึก Cloud 11</p><hr><p data-end=\"1189\" data-start=\"1127\"><strong data-end=\"1144\" data-start=\"1127\">กดบัตรได้ที่:</strong><br data-start=\"1144\" data-end=\"1147\"><a data-end=\"1189\" data-start=\"1147\" href=\"http://www.ticketmelon.com/meltlivehouse/apartmentwickedlights\"></a><a href=\"http://www.ticketmelon.com/meltlivehouse/YELLOWFANGvsSUPERGOODS\">http://www.ticketmelon.com/meltlivehouse/YELLOWFANGvsSUPERGOODS</a><br>#MeltLivehouse #MeltLivehouseCloud11 #YELLOWFANG #SUPERGOODS<strong>&nbsp;</strong>#WaitingRoomPresents</p>"
-  },
-  {
-    "id": "3afed9e8c68d",
-    "title": "lullaboy: Hotels & Heartbreaks Tour - Live in Bangkok",
-    "date": {
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
-      "doorTime": "2026-07-28T13:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "artspacebantadthong",
-    "venueName": "Artspace@Bantadthong",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "festival"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/bbe/lullaboybkk",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2968add72f3211f1911101117567899b/poster/d36b5f6c324811f1911101117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/bbe/lullaboybkk"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-16T04:17:48.231109",
-      "isInternational": false
-    },
-    "description": "<p data-end=\"191\" data-start=\"90\"><strong data-end=\"130\" data-start=\"90\">lullaboy &ndash; Hotels &amp; Heartbreaks Tour</strong><br data-start=\"130\" data-end=\"133\">📍 Artspace Bantadthong, Bangkok 🇹🇭<br data-start=\"158\" data-end=\"161\">📅 28 July 2026<br data-start=\"176\" data-end=\"179\">🕗 8:00 PM</p><p>lullaboy brings his HOTELS &amp; HEARTBREAKS TOUR to Bangkok for one unforgettable night.</p><p>With over 200 million streams and a global fanbase of like-minded souls, lullaboy has built a world where vulnerability becomes a personal soundtrack - for sunny days, lonely nights, and everything in between.</p><p>Known for his raw honesty and emotionally driven songwriting, he blends indie pop, R&amp;B, emo-rock, folk, and gospel into deeply personal stories that feel intimate, relatable, and quietly powerful. His songs don&rsquo;t just play once - they stay with you.</p><p>This tour marks a new chapter.</p><p>For the first time, lullaboy brings fans into the world of hotels &amp; heartbreaks - a live experience that moves through love, loss, and healing. From stripped-back moments that feel like a late-night heart to heart, to full band highs that bring every emotion to life, the show takes you on a journey through the &ldquo;12 floors&rdquo; of heartbreak&hellip; and what comes after.</p><p>Expect fan-favorite classics and new music from his latest album, performed the way they were meant to be felt: live.</p><p>From studying under YG Entertainment to graduating from Berklee College of Music and songwriting at SM Entertainment, lullaboy&rsquo;s rise has been anything but ordinary. As one of the first Spotify Asia RADAR artists, he has taken storytelling to major festival stages worldwide and his previous six-country tour.</p><p>Now, after gaining global recognition, he returns to Bangkok on his nine-country tour.&nbsp;</p><p>✨ Don&rsquo;t miss lullaboy live - an evening of music, emotion, and core memories that stay with you long after the night ends.</p><p data-end=\"1022\" data-start=\"877\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2968add72f3211f1911101117567899b/description/011db64036e311f1915501117567899b.png\" style=\"width: 1047px;\" class=\"fr-fic fr-dib\"></p><p data-end=\"1022\" data-start=\"877\"><br></p>"
-  },
-  {
-    "id": "bec4179ecbcd",
-    "title": "Lost & Flower",
-    "date": {
-      "startDate": "2026-03-20",
-      "endDate": "2026-09-30",
-      "doorTime": "2026-03-20T03:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "the-present-haus",
-    "venueName": "The Present Haus",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/thepresenthaus/lostandf1ower-main",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2f9dcea81c3a11f1967801117567899b/poster/a5e33c131e2811f1943101117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/thepresenthaus/lostandf1ower-main"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-03-20",
-      "updatedAt": "2026-03-20",
-      "scrapedAt": "2026-07-16T04:17:48.830191",
-      "isInternational": false
-    },
-    "description": "<p dir=\"ltr\"><em><strong>คุณมองเห็นดอกไม้ครั้งสุดท้าย..เมื่อไร?</strong></em></p><p dir=\"ltr\"><br></p><p dir=\"ltr\">Lost &amp; F1ower</p><p dir=\"ltr\">นิทรรศการที่จะพาคุณกลับมาพบดอกไม้ที่หายไปจากใจคุณ&nbsp;</p><p dir=\"ltr\"><br></p><p dir=\"ltr\">ในวันที่โลกทำให้คุณรู้สึกว่าใครๆ ต่างมีชีวิตที่ดี&hellip;กว่าคุณ จนหลายครั้ง ก็เผลอตั้งคำถามกับตัวเองว่า &ldquo;ฉันดีพอหรือยัง&rdquo;, &ldquo;คุณค่าของฉันอยู่ที่ไหน?&rdquo;, &ldquo;ฉันคือใครบนโลกใบนี้?&rdquo;&nbsp;</p><p dir=\"ltr\"><br></p><p dir=\"ltr\">ครั้งแรกของนิทรรศการเปิดบ้าน The Present Haus ที่จะพาคุณไปพบกับดอกไม้ดอกหนึ่ง ดอกไม้ที่ทำให้คุณได้กลับไปมองเห็นสิ่งสำคัญที่อยู่ภายใน ให้หัวใจคุณได้เบ่งบานขึ้นอีกครั้ง&nbsp;</p><p><br></p><p dir=\"ltr\">รายละเอียด:</p><p dir=\"ltr\">🌸 &nbsp;นิทรรศการนี้เหมาะสำหรับผู้ที่ต้องการใช้เวลากับตัวเอง ทบทวนความรู้สึก และเปิดพื้นที่ให้ใจได้พัก</p><p dir=\"ltr\">🌸 &nbsp;นิทรรศการเปิดให้เข้าชมได้ตั้งแต่วันที่ 20 มีนาคม 2569 เป็นต้นไป</p><p dir=\"ltr\">🌸 &nbsp;กิจกรรมและประสบการณ์ภายในนิทรรศการจัดเป็นภาษาไทย</p><p dir=\"ltr\">🌸 &nbsp;เปิดทำการวันอังคาร&ndash;อาทิตย์ (ปิดวันจันทร์) เวลา 10:00&ndash;18:00 น.</p><p dir=\"ltr\">🌸 &nbsp;ประสบการณ์จัดเป็นรอบ จำกัดผู้เข้าชมรอบละ 8 ท่าน เพื่อให้ทุกคนได้มีพื้นที่ของตนเองอย่างแท้จริง</p><p dir=\"ltr\">🌸 &nbsp;บัตรเข้าชมราคา 150 บาทต่อท่าน รายได้หลังหักค่าใช้จ่ายสนับสนุนกิจกรรมของมูลนิธิไทยคม</p><p dir=\"ltr\">🌸 &nbsp;บัตรเข้าชมสามารถนำไปแลกรับเครื่องดื่มที่ The Present Haus Cafe ได้ 1 แก้ว ตามเงื่อนไขที่กำหนด ภายในวันเดียวกัน</p><p dir=\"ltr\">🌸 &nbsp;รับสิทธิ์จอดรถ 2 ชั่วโมง เมื่อแสดงบัตรเข้าชมนิทรรศการ ทั้งนี้ พื้นที่จอดรถมีจำนวนจำกัด กรุณาเผื่อเวลาในการเดินทาง </p><p dir=\"ltr\">&nbsp;</p><hr><p dir=\"ltr\"><strong><span style=\"font-family: Verdana,Geneva,sans-serif;\"><br></span></strong></p><p dir=\"ltr\">ร่วมสัมผัสการ &ldquo;ตื่นรู้อยู่กับปัจจุบัน&rdquo; ด้วย &ldquo;CORE Model&rdquo; แนวทางฝึกใจของ เดอะเพรเซนต์ เฮ้าส์ ผ่านนิทรรศการ &ldquo;Lost and Flower&rdquo; สร้างสรรค์โดย ชูใจ กะ กัลยาณมิตร และ เดอะเพรเซนต์ เฮ้าส์ โดย มูลนิธิไทยคม</p><p dir=\"ltr\">Experience &ldquo;Mindfulness&rdquo; through The Present Haus&rsquo;s &ldquo;CORE Model&rdquo; in the exhibition &ldquo;Lost and Flower,&rdquo; created by Choojai &amp; Friends and The Present Haus by Thaicom Foundation</p>"
-  },
-  {
-    "id": "031c089917b1",
-    "title": "THE CALL OF PACHAMAMA: ECSTATIC DANCE & CACAO RITUAL",
-    "date": {
-      "startDate": "2026-07-18",
-      "endDate": "2026-07-18",
-      "doorTime": "2026-07-18T09:30:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "salt-hoian---restaurant-bar",
-    "venueName": "Salt Hoian - Restaurant & Bar",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/extaticaa/the-call-of-pachamama",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/b40d526376b811f1967801117567899b/poster/d8a7ad0276b911f1922201117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/extaticaa/the-call-of-pachamama"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-18",
-      "updatedAt": "2026-07-18",
-      "scrapedAt": "2026-07-16T04:17:49.435148",
-      "isInternational": false
-    },
-    "description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 18px;\">THE CALL OF PACHAMAMA🌿</span></strong></p><p style=\"text-align: center;\"><strong><span style=\"font-size: 18px;\">Ecstatic tribal gathering🔥</span></strong></p><p><br></p><p>Ecstatic Dance &amp; Cacao Ritual.</p><p>Come Back to Your Roots. Awaken Your Primal State. Move Your Soul. Find Your Tribe.</p><p>-------------------------------------</p><p><br></p><p>Dear tribe! We are ready to welcome you for our next ecstatic tribal gathering!</p><p><strong>THE CALL OF PACHAMAMA, July 18th!</strong></p><p>Another month passed which means we are ready to welcome our tribe again🔥</p><p>Life changes fast, but some things stay permanent, such as our events. Together we will dive into cacao ceremony, movement, lots of dance &amp; music, fire &amp; drums performance, sound healing &amp; soft grounding.&nbsp;</p><p>We promise you an unforgettable journey, community of like-minded people, place to be your most honest version. But you know that already, don&rsquo;t you ?😜</p><p>🌿no alcohol, substances or phones</p><p>🌿Boundaries &amp; consent&nbsp;</p><p>Through ecstatic dance, cacao ritual, embodied exploration, music and dance, we show our gratitude and respect towards Mother Earth🌿</p><p>About ecstatic dance:</p><p>Ecstatic dance is free-form movement that combines dance, music, and mindfulness into a liberating, expressive experience. It is a practice where we relax into the truth of our hearts and bodies, and allow ecstasy to naturally arise within.</p><p>This is a space of radical freedom: movement without judgment, connection without words.</p><p>-------------------------------------</p><p>THE JOURNEY OF CONNECTION</p><ul><li>4:30 doors open. Welcome to the space</li><li>5:00 cacao ceremony by Natasha &amp; Steven</li><li>5:30 ecstatic opening &amp; movement initiation by Natasha</li><li>6:00 ecstatic journey by dj Mjay</li><li>8:15 sound healing &amp; grounding &nbsp;</li><li>8:45 singing circle by Steven</li><li>9:15 closing &amp;sharing</li><li>9:40 transfer to Danang (if transportation tickets were purchased)</li></ul><p>-------------------------------------</p><p><strong>THE KEEPERS OF THE MAGIC</strong></p><p>🌿 Host, &ldquo;Move through it&rdquo; practice : Natasha</p><p>🎧 DJ Mjay</p><p>☕️ Cacao ceremony by &ldquo;The Erosa&rdquo;, Natasha &amp; Steven</p><p>🎵 Steven, Dana, Lua, Nirmal</p><p>🧚 Our fairies &amp; space holders: Natasha, Iuliana, Mafer, Saebyuk</p><p>🔥 Fire show : Dana &amp; Lua</p><p>🍵 Tea zone : Uiliana &amp; Roman</p><p>-------------------------------------</p><p>ABOUT YOUR GUIDES</p><p><strong>Natasha (The Alchemist)</strong></p><p>A plant medicine guide and Dance Movement Therapy facilitator, Natasha holds space with deep care. Her &quot;Move Through It&quot; method creates a safe, loving container for you to explore your inner world through movement. Her guidance will help you to relax and feel comfortable to move.&nbsp;</p><p><strong>M Jay (The Sonic Saxophone)</strong></p><p>The founder of Extaticaa, M Jay doesn&#39;t just play music. He channels grooves that awaken the spirit. With experience curating dance floors across Europe and the U.S., he brings a ritual-first approach to every set.</p><p><strong>Steven (The Wise Musician)</strong></p><p>An experienced yogi and kirtan facilitator, Steven holds space for music to flow and hearts to open. This night he will guide our voices into heart-opening song.</p><p><strong>Dana (The Fire Magician)</strong></p><p>A musician and fire performer, Dana brings a force of energy that is both grounding and electrifying. He will show us the raw magic of fire.</p><p><b>Lua (The Fire Witch)</b></p><p>A musician and fire performer, Lua brings a force of feminine fire &nbsp;energy that is both grounding and electrifying. She will show us the raw magic of fire, dance and love</p><p>--------------------------------</p><p>Our ceremonial cacao by Erosa Chocolate @the.erosa</p><p>Rich, organic cacao from Erosa sets the mood for the night. Its deep, natural taste opens the heart. (Vegan, no added sugar)</p><p>--------------------------------</p><p><b>PRICES, LOCATION AND TRANSPORTATION&nbsp;</b></p><p>🎟️ Early birds (available until afternoon July 17) 333k</p><p>Online purchase EXTATICAA.com/en/events</p><p>Offline in Danang (WhatsApp +79186502014)</p><p>🎟️ At the gate 400k</p><p>🎟️ +🚌 450k</p><ul><li>To get the transportation ticket, please book it 2 days before the event so we can organise the number. Round trip. Leave Danang at 3:40, leave Hoian at 9:40pm</li></ul><p>📍 Salt, Hoian</p><p>--------------------------------</p><p><strong>THE TRIBE RULES</strong></p><p>To preserve the high vibration of our space, we honor these boundaries:</p><ul><li>Pure Presence: A sober, drug and alcohol-free environment.</li><li>Digital Detox: No phones on the dance floor. Connect with the moment, not the screen.</li><li>Sacred Silence: This is a non-verbal journey. Let your body speak.</li><li>Consensual Space: Respect personal boundaries. Move with love and mindfulness.</li><li>Radical Acceptance: Suspend all judgment of yourself and others.</li></ul><p>--------------------------------</p>"
-  },
-  {
-    "id": "234c4f19af8e",
-    "title": "SACRISTY BANGKOK - 24 JULY - DUAL - FUNKTION-ONE",
-    "date": {
-      "startDate": "2026-07-24",
-      "endDate": "2026-07-24",
-      "doorTime": "2026-07-24T14:00:00",
       "dateStatus": "confirmed",
       "recurrence": null
     },
@@ -830,54 +14,6 @@
     "artists": [],
     "lineup": [],
     "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/sacristy/sacristyxdual24july",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/c4537e247ca011f1967801117567899b/poster/0c0eb9a37e9c11f1922201117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/sacristy/sacristyxdual24july"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-24",
-      "updatedAt": "2026-07-24",
-      "scrapedAt": "2026-07-16T04:17:50.020968",
-      "isInternational": false
-    },
-    "description": "<p data-end=\"131\" data-start=\"0\"><strong>SACRISTY BANGKOK</strong> presents a special night for our <strong>community</strong> &mdash; our first event at <strong>DUAL</strong>, powered by a full <strong>Funktion-One</strong> sound system.</p><p data-end=\"211\" data-start=\"133\">A new location, huge sound and a lineup built by our crew, especially <strong>for you</strong>.</p><p data-end=\"281\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"213\"><strong>REIKS ✦ ELILA.B<strong>&nbsp;✦&nbsp;</strong> SAVEMEKILLY<strong>&nbsp;✦&nbsp;</strong> INREMISSION<strong>&nbsp;✦&nbsp;</strong> POKOLENIE MIKROZAYMOV</strong></p><p data-end=\"281\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"213\"><strong><br data-start=\"250\" data-end=\"253\">24 JULY 2026 &mdash; DUAL, BANGKOK</strong></p>"
-  },
-  {
-    "id": "0f05489ffa2d",
-    "title": "All Night Long - Mumsfilijayja",
-    "date": {
-      "startDate": "2026-07-24",
-      "endDate": "2026-07-24",
-      "doorTime": "2026-07-24T15:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "siwilai-radical-club",
-    "venueName": "SIWILAI RADICAL CLUB",
-    "artists": [],
-    "lineup": [],
-    "genres": [
       "electronic"
     ],
     "sceneTags": [],
@@ -888,10 +24,10 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://www.ticketmelon.com/siwilairadicalclub/SRC24072026",
+    "ticketUrl": "https://www.ticketmelon.com/DUAL/Dual17",
     "ticketSource": "ticketmelon",
     "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/294fe5ef7f3611f1990801117567899b/poster/6113de477f3611f1990801117567899b.jpeg",
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/8e51c2a27f6911f1911101117567899b/poster/e5d604587f6911f1990801117567899b.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -900,77 +36,29 @@
     "sourceIds": [
       {
         "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/siwilairadicalclub/SRC24072026"
+        "id": "https://www.ticketmelon.com/DUAL/Dual17"
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-24",
-      "updatedAt": "2026-07-24",
-      "scrapedAt": "2026-07-16T04:17:51.774909",
+      "createdAt": "2026-07-17",
+      "updatedAt": "2026-07-17",
+      "scrapedAt": "2026-07-17T04:04:09.116810",
       "isInternational": false
     },
-    "description": "<p>S.R-C Presents MUMSFILIJAYJA @mumsfilibaba.music @jayjaja ALL NIGHT LONG ⚡️</p><p><br></p><p>For the first time, MUMSFILIBABA and JAYJA come together for a special all-night session at DISCOTHEQUE. A new collaborative project where instinctive selections meet joyful dancefloor energy, moving effortlessly through House, Soul, Funk, Disco, Breaks and beyond. 🔊</p><p><br></p><p>With over a decade of connecting dancefloors across Europe and Asia, MUMSFILIBABA is known for genre-fluid journeys guided by feeling rather than genre. Alongside, Bangkok selector JAYJA brings soulful grooves, deep cuts and an instinctive flow that keeps the dancefloor moving from start to finish.🔥</p>"
+    "description": "<p>Join us on Friday, 17 July<br><br>Dual welcomes Kyuchan for a night across both rooms. In the main room, Kyuchan is joined by Melle and Payu, with a selection of electro, techno, and club music from open to close.<br><br>In Creature, Payu, Pattwaste, and Jirus take over with deeper and more eclectic selections in a more intimate setting.<br><br>Tickets: Early Bird: 300 THB/Door: 600 THB<br><br>Join us on the dance floor.</p>"
   },
   {
-    "id": "2aa9630a4947",
-    "title": "Oceanfromtheblue — Way To Blue in Bangkok",
+    "id": "98a7408e24b8",
+    "title": "Lil jay crazy and friends @ติดลมลาดกระบัง11",
     "date": {
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-05",
-      "doorTime": "2026-09-05T12:00:00",
+      "startDate": "2026-08-09",
+      "endDate": "2026-08-09",
+      "doorTime": "2026-08-09T10:00:00",
       "dateStatus": "confirmed",
       "recurrence": null
     },
-    "venueId": "volume-livehouse",
-    "venueName": "Volume Livehouse",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "electronic"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/nfevents/oceanfromtheblue-waytoblueinbangkok-2026",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/poster/e766f32479b511f1923401117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/nfevents/oceanfromtheblue-waytoblueinbangkok-2026"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-05",
-      "updatedAt": "2026-09-05",
-      "scrapedAt": "2026-07-16T04:17:52.458722",
-      "isInternational": false
-    },
-    "description": "<p style=\"margin-left: 20px; text-align: center;\"><strong><span style=\"font-size: 24px;\">Oceanfromtheblue &mdash; Way To Blue in Bangkok&nbsp;</span></strong></p><p style=\"margin-left: 20px; text-align: center;\"><strong><span style=\"font-size: 24px;\">05.09.2026 | Volume Livehouse</span></strong></p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/be711ea279b511f1915501117567899b.png\" style=\"width: 524px;\" class=\"fr-fic fr-dib\">&nbsp;</p><p>เสียงที่คุณฟังในค่ำคืนอันเงียบสงบ ตอนขับรถยามดึก หรือตอนเดินกลับบ้าน ในที่สุดก็จะได้ฟังใกล้ ๆ แล้ว 🎧💙</p><p>นักร้อง-นักแต่งเพลงชาวโซล oceanfromtheblue จะมาพบกับทุกคนในโชว์ Way to Blue ที่ Volume Live House, Ratchada ในวันที่ 5 กันยายน 2026 นี้</p><p>ตั้งแต่ความขื่นขมใน mistaken ไปจนถึงความเศร้าใน sherlock เพลงของเขาสามารถถ่ายทอดหลากหลายความรู้สึกที่แฟนเพลงทั่วโลกต่างหลงรัก</p><p>Fishes! การรอคอยสิ้นสุดลงแล้ว และ oceanfromtheblue ก็ตื่นเต้นไม่แพ้กัน 🐟</p><p>มาร่วมค่ำคืนแห่งความทรงจำด้วยกันนะคะ 💙</p><p>&nbsp;</p><p>งาน: oceanfromtheblue - Way To Blue in Bangkok&nbsp;</p><p>วันที่ : 5 กันยายน 2569&nbsp;</p><p>สถานที่: Volume Livehouse, The Street Ratchada</p><p>รูปแบบการชม: บัตรยืน (Standing)&nbsp;</p><p>เปิดจำหน่ายบัตร: 18 กรกฎาคม 2569 (10:00 น.) เป็นต้นไป&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/acad2e667a7911f1915501117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/ba7dd0d07a7911f1943101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/c8f9c6377a7911f1911101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/84467f927c2611f1922201117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p>หมายเหตุสำคัญ (IMPORTANT NOTICE) :</p><p>&bull;⁠ &nbsp;⁠ทุกคนที่เข้าร่วมงานต้องมีบัตรคนละใบ รวมถึงผู้ที่มากับเด็กหรือผู้พิการ</p><p>&bull;⁠ &nbsp;⁠บัตร Add-on ไม่ใช่บัตรเข้าชมงาน เป็นแพ็คเกจสิทธิพิเศษเพิ่มเติม ต้องมีบัตรคอนเสิร์ตเพื่อรับสิทธิ์</p><p>&bull;⁠ &nbsp;⁠รายละเอียดงานอาจมีการเปลี่ยนแปลงตามข้อกำหนด</p><p>&bull;⁠ &nbsp;⁠เวลาจัดงานอาจมีการปรับเปลี่ยนตามประกาศของผู้จัด</p><p><br></p><p style=\"text-align: center;\"><strong><span style=\"font-size: 24px;\">Oceanfromtheblue &mdash; Way To Blue in Bangkok&nbsp;</span></strong></p><p style=\"text-align: center;\"><strong><span style=\"font-size: 24px;\">05.09.2026 | Volume Livehouse</span></strong></p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/cc85567379b511f1915501117567899b.jpeg\" class=\"fr-fic fr-dii\" alt=\"Uploaded image\" style=\"width: 524px;\"><br><br class=\"Apple-interchange-newline\"></p><p>The voice that&rsquo;s been with you through late nights, quite drive and long walks home is finally coming to Bangkok. 🎧💙</p><p>Korean R&amp;B singer-songwriter <strong>oceanfromtheblue</strong> is bringing his <strong>Way to Blue</strong> show to Bangkok on September 5, 2026 at <strong>Volume Livehouse, The Street Ratchada</strong>. &nbsp;</p><p>From &lsquo;mistaken&rsquo; to &lsquo;sherlock&rsquo;, his songs capture the bittersweet feelings and blue emotions that fans around the world love.&nbsp;</p><p>Fishes, the wait is almost over &amp; he&rsquo;s just as excited as you are. 🐟</p><p>Join us for an intimate night you won&rsquo;t forget.</p><p>&nbsp;</p><p>Events: oceanfromtheblue - Way To Blue in Bangkok&nbsp;</p><p>Date: September 5, 2026</p><p>Venue: Volume Livehouse, The Street Ratchada</p><p>Format: Standing &nbsp;</p><p>Tickets on Sale: 18 July 2026 at 10:00 AM (ICT) via TicketMelon</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/de04d3047a7911f1990801117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/e69397a37a7911f1943101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/f02c7d247a7911f1922201117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/8fe8f4ed7c2611f1943101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><strong>IMPORTANT NOTICE&nbsp;</strong></p><p>&bull; &nbsp; &nbsp;Everyone entering the venue mush have their own ticket including companions of minors or persons with disabilities.&nbsp;</p><p>&bull; &nbsp; &nbsp;Add-on tickets are <strong>NOT</strong> entry tickets. They are addition benefit packages and required a valid concert ticket to redeem.</p><p>&bull; &nbsp; &nbsp;Event details are subject to change based on regulations.&nbsp;</p><p>&bull; &nbsp; &nbsp;Event timing is estimated and may be updated by the organizer.</p>"
-  },
-  {
-    "id": "f4fb17ea908b",
-    "title": "HINGA: A Midweek Choral Break (July 2026)",
-    "date": {
-      "startDate": "2026-07-15",
-      "endDate": "2026-07-29",
-      "doorTime": "2026-07-15T11:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "yspace-at-the-yuchengco-museum",
-    "venueName": "YSpace at the Yuchengco Museum",
+    "venueId": "ตดลมลาดกระบง",
+    "venueName": "ติดลมลาดกระบัง",
     "artists": [],
     "lineup": [],
     "genres": [
@@ -984,10 +72,10 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://www.ticketmelon.com/sanghimig/hinga-july2026",
+    "ticketUrl": "https://www.ticketmelon.com/Hdgreenworldbkk/Liljaycrazyandfriendsmeeting",
     "ticketSource": "ticketmelon",
     "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/fc8bcf99724c11f1911101117567899b/poster/c5597f26729c11f1923401117567899b.png",
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/c0f3a33a7c9211f1990801117567899b/poster/07cd10ed7ca111f1923401117567899b.jpeg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -996,16 +84,64 @@
     "sourceIds": [
       {
         "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/sanghimig/hinga-july2026"
+        "id": "https://www.ticketmelon.com/Hdgreenworldbkk/Liljaycrazyandfriendsmeeting"
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-15",
-      "updatedAt": "2026-07-15",
-      "scrapedAt": "2026-07-16T04:17:53.047638",
+      "createdAt": "2026-08-09",
+      "updatedAt": "2026-08-09",
+      "scrapedAt": "2026-07-17T04:04:10.920477",
       "isInternational": false
     },
-    "description": "<p style=\"text-align: center;\"><strong><span style=\"font-family: Georgia, serif; font-size: 24px; color: rgb(41, 105, 176);\">HINGA: A Midweek Choral Break</span></strong></p><p style=\"text-align: justify;\">An hour between work and home doesn&#39;t have to be spent in traffic.</p><p style=\"text-align: justify;\"><strong>HINGA</strong> is a new bi-weekly choral listening series by <em>SANGHIMIG Performing Arts Events</em>, created for those who want to pause, slow down, and recharge in the middle of the week. Each evening will feature a different choir presenting a one-hour program.</p><p style=\"text-align: justify;\">Whether you&#39;re a longtime choral enthusiast or simply looking for a meaningful way to spend your Wednesday evening, <strong>HINGA</strong> offers a refreshing alternative to the usual after-work routine.</p><p>Join us as we launch the series this July with two evenings of live choral music:</p><p><strong>Wednesday, July 15</strong> &bull; 7:00 PM - 8:00 PM: <strong><em>The Philippine Meistersingers</em></strong> (Ramon Lijauco, Jr., <em>conductor</em>)<br><strong>Wednesday, July 29</strong> &bull; 7:00 PM - 8:00 PM: <strong><em>Coro Regina Coeli - Philippines&nbsp;</em></strong>(Renalie Dela Cruz Aquino, <em>choirmaster</em>)</p><p>Doors open at <strong>6:30 PM</strong> at the <strong>Ground Floor, YSpace at the Yuchengco Museum, RCBC Plaza, Makati City</strong>.</p><p>Additional <strong>HINGA</strong> performances will continue on select Wednesday evenings through November 2026.</p><hr><p style=\"text-align: center;\">Come after work. Take a seat. Put your phone away.</p><p style=\"text-align: center;\">Stay for an hour. Let the traffic pass. Let the music stay.</p><p style=\"text-align: center;\"><strong><em><span style=\"font-size: 18px; font-family: Verdana, Geneva, sans-serif;\">Pause. Listen. Breathe.</span></em></strong></p>"
+    "description": "<p>Lil jay crazy and friends @ติดลมแซ่บนัวลาดกระบัง</p><p>เป็นอีกหนึ่งงานที่รวบรวมศิลปินมากมายมารวมกัน</p><p>เพื่อสร้างสรรค์ผลงาน สร้างสีสันให้แก่คนมาร่วมงาน</p><p>ได้ชมผลงานใหม่ๆหลากหลายสไตล์ที่ไม่เคยเกิดขึ้นที่ไหน&nbsp;</p><p>รวมถึงเป็นงานที่รวม Connection มากมายภายในงาน</p><p>กดบัตรไว้ แล้วรอมาสนุกไปด้วยกันครับทุกคน #เวทีนี้เป็นของทุกคน!</p><p>Early Bird &nbsp;200-. ( จำนวนจำกัด หมดแล้วหมดเลย )</p><p>Regular / Atdoor 250.-&nbsp;</p><p><br></p>"
+  },
+  {
+    "id": "a50753d7a7ef",
+    "title": "Loud enough to feel alive.",
+    "date": {
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-15",
+      "doorTime": "2026-08-15T11:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "cloudy-live-house",
+    "venueName": "Cloudy live house",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "electronic"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/cloudylivehouse/Loudenoughtofeelalive",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/5c1a0eca7c4d11f1911101117567899b/poster/b924d3127c4d11f1915501117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/cloudylivehouse/Loudenoughtofeelalive"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-15",
+      "updatedAt": "2026-08-15",
+      "scrapedAt": "2026-07-17T04:04:11.534393",
+      "isInternational": false
+    },
+    "description": "<p>Loud enough to feel alive.</p><p><br></p><p>ทิ้งเรื่องวุ่นวายไว้ข้างหลัง แล้วมาร่วมแบ่งปันค่ำคืนแห่งเสียงดนตรีกับ 3 ศิลปินที่จะพาคุณดำดิ่งไปกับทุกบทเพลง ที่ Cloudy Live House พื้นที่เล็ก ๆ ที่เราคุ้นเคย</p><p><br></p><p>CLOUDY LIVE HOUSE&nbsp;</p><p>Present&nbsp;</p><p>🎸 HT</p><p>🎸 One Analog</p><p>Open Act : Mader</p><p><br></p><p>📍 Location: Muangaek Rangsit</p><p>📅 Date: Saturday, 15 August 2026</p><p>🚪 Door open : 18.00</p><p><br></p><p>🎫 Ticket Details</p><p>&bull; Pre-sale: 350 THB</p><p>&bull; At Door: 450 THB</p><p><br></p><p>🎟️ Available on Ticketmelon</p><p><br></p><p>Some nights are meant to be lived loud.</p><p>See you at the cloud. ☁️</p><p><br></p><p>#CloudyLiveHouse #MuangaekRangsit #LiveMusic #HT #OneAnalog #Mader #ThaiIndie #Ticketmelon</p>"
   },
   {
     "id": "394c1c83115f",
@@ -1050,23 +186,71 @@
     "metadata": {
       "createdAt": "2026-09-05",
       "updatedAt": "2026-09-05",
-      "scrapedAt": "2026-07-16T04:17:54.216585",
+      "scrapedAt": "2026-07-17T04:04:12.760170",
       "isInternational": false
     },
     "description": "<div data-v-7a63213b=\"\"><div data-v-7a63213b=\"\" data-v-ad23e09c=\"\" dir=\"ltr\"><strong>Paradox &amp; Slur &ndash; Live at Soundscape</strong></div><div data-v-7a63213b=\"\"><p data-end=\"224\" data-start=\"184\">ค่ำคืนที่คุณจะได้ใกล้ศิลปินมากกว่าที่เคย!</p><p data-end=\"402\" data-start=\"226\">Bangkok Soundscape คือ Curated Intimate Concert Series ที่ออกแบบประสบการณ์การชมคอนเสิร์ตให้ใกล้ชิดทั้งศิลปินและเสียงดนตรี ในบรรยากาศที่อบอุ่น พร้อมผู้ชมที่รักดนตรีเหมือนกัน</p><p data-end=\"535\" data-start=\"404\">ภายในงานพบกับ Guest Artists ก่อนเข้าสู่โชว์ของ Headliner: Paradox &amp; Slur พร้อมกิจกรรมและเซอร์ไพรส์ตลอดทั้งค่ำคืน<br><br></p><p data-end=\"305\" data-start=\"255\"><strong>ไฮไลต์ภายในงาน</strong><br>🎤 <strong>โชว์เต็มรูปแบบ&nbsp;</strong>จาก <strong></strong>Paradox &amp; Slur <br><strong>✨&nbsp;</strong><strong>Guest Artists</strong> ร่วมเปิดค่ำคืน<br>💜 <strong>คอนเสิร์ตบรรยากาศใกล้ชิด</strong> จำนวนผู้เข้าชมจำกัด ให้คุณได้อยู่ใกล้ศิลปินมากกว่าคอนเสิร์ตทั่วไป<br>🎁 <strong>กิจกรรมและของรางวัล</strong> จากผู้สนับสนุนภายในงาน<br>🥤 <strong>VIP ticket holders</strong>&nbsp; รับฟรี! เครื่องดื่ม (มีแอลกอฮอล์และไม่มีแอลกอฮอล์) พร้อมของว่างตลอดงาน</p></div><p data-end=\"2301\" data-start=\"2115\"><br><strong data-end=\"2128\" data-start=\"2118\">Venue:</strong> 515 Victory Hall, ติด BTS อนุสาวรีย์ทางออก 4 ใจกลางกรุงเทพ เดินทางสะดวก<br data-start=\"2154\" data-end=\"2157\"><strong data-end=\"2169\" data-start=\"2160\">Date:</strong> 5 September 2026<br data-start=\"2183\" data-end=\"2186\"><strong data-end=\"2197\" data-start=\"2188\">Time:</strong> 18:00 - 22:00<br data-start=\"2203\" data-end=\"2206\"><strong data-end=\"2226\" data-start=\"2209\">Ticket Types:</strong> Gold / Premium / VIP<br data-start=\"2247\" data-end=\"2250\"><strong data-end=\"2273\" data-start=\"2253\">Standing concert</strong><br data-start=\"2273\" data-end=\"2276\"><strong data-end=\"2301\" data-start=\"2279\">No age restriction</strong></p><p data-end=\"2733\" data-start=\"2658\"><em>🎫 Tickets are limited. Secure yours now before they are gone</em></p></div>"
   },
   {
-    "id": "6cd219517d74",
-    "title": "Dual",
+    "id": "8e1cf4783554",
+    "title": "Lipta and Guncharlie live at Bangkok Soundscape",
     "date": {
-      "startDate": "2026-07-17",
-      "endDate": "2026-07-17",
-      "doorTime": "2026-07-17T14:00:00",
+      "startDate": "2026-08-09",
+      "endDate": "2026-08-09",
+      "doorTime": "2026-08-09T11:00:00",
       "dateStatus": "confirmed",
       "recurrence": null
     },
-    "venueId": "dual",
-    "venueName": "DUAL",
+    "venueId": "515-event-hall",
+    "venueName": "515 Event Hall",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/soundscape/Lipta_and_Guncharlie",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/3ff1448f43de11f1923401117567899b/poster/32024d1e489011f1911101117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/soundscape/Lipta_and_Guncharlie"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-09",
+      "updatedAt": "2026-08-09",
+      "scrapedAt": "2026-07-17T04:04:13.518104",
+      "isInternational": false
+    },
+    "description": "<div data-v-7a63213b=\"\"><div data-v-7a63213b=\"\" data-v-ad23e09c=\"\" dir=\"ltr\"><strong>Lipta and Guncharlie &ndash; Live at Bangkok Soundscape&nbsp;</strong></div><div data-v-7a63213b=\"\"><p data-end=\"224\" data-start=\"184\">ค่ำคืนที่คุณจะได้ใกล้ศิลปินมากกว่าที่เคย!</p><p data-end=\"402\" data-start=\"226\">Bangkok Soundscape คือ Curated Intimate Concert Series ที่ออกแบบประสบการณ์การชมคอนเสิร์ตให้ใกล้ชิดทั้งศิลปินและเสียงดนตรี ในบรรยากาศที่อบอุ่น พร้อมผู้ชมที่รักดนตรีเหมือนกัน</p><p data-end=\"535\" data-start=\"404\">ภายในงานพบกับ Guest Artists ก่อนเข้าสู่โชว์ของ Headliner: Lipta &amp; Guncharlie พร้อมกิจกรรมและเซอร์ไพรส์ตลอดทั้งค่ำคืน<br><br></p><p data-end=\"305\" data-start=\"255\"><strong>ไฮไลต์ภายในงาน</strong><br>🎤 <strong>โชว์เต็มรูปแบบ&nbsp;</strong>จาก Lipta &amp; Guncharlie<br><strong>✨&nbsp;</strong><strong>Guest Artists</strong> ร่วมเปิดค่ำคืน<br>💜 <strong>คอนเสิร์ตบรรยากาศใกล้ชิด</strong> จำนวนผู้เข้าชมจำกัด ให้คุณได้อยู่ใกล้ศิลปินมากกว่าคอนเสิร์ตทั่วไป<br>🎁 <strong>กิจกรรมและของรางวัล</strong> จากผู้สนับสนุนภายในงาน<br>🥤 <strong>VIP ticket holders</strong>&nbsp; รับฟรี! เครื่องดื่ม (มีแอลกอฮอล์และไม่มีแอลกอฮอล์) พร้อมของว่างตลอดงาน</p><br><strong data-end=\"2128\" data-start=\"2118\">Venue:</strong> 515 Victory Hall, ติด BTS อนุสาวรีย์ทางออก 4 ใจกลางกรุงเทพ เดินทางสะดวก<br data-start=\"2154\" data-end=\"2157\"><strong data-end=\"2169\" data-start=\"2160\">Date:</strong> 9 August 2026<br data-start=\"2183\" data-end=\"2186\"><strong data-end=\"2197\" data-start=\"2188\">Time:</strong> 18:00 - 22:00<br data-start=\"2203\" data-end=\"2206\"><strong data-end=\"2226\" data-start=\"2209\">Ticket Types:</strong> Gold / Premium / VIP<br data-start=\"2247\" data-end=\"2250\"><strong data-end=\"2273\" data-start=\"2253\">Standing concert</strong><br data-start=\"2273\" data-end=\"2276\"><strong data-end=\"2301\" data-start=\"2279\">No age restriction</strong></div></div><p data-end=\"2733\" data-start=\"2658\"><em>🎫 Tickets are limited. Secure yours now before they are gone</em> </p>"
+  },
+  {
+    "id": "10d2d5256864",
+    "title": "Rosalyn The Juu’s Penfins",
+    "date": {
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-01",
+      "doorTime": "2026-08-01T10:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "cloudy-live-house",
+    "venueName": "Cloudy live house",
     "artists": [],
     "lineup": [],
     "genres": [
@@ -1080,10 +264,10 @@
       "tiers": [],
       "notes": ""
     },
-    "ticketUrl": "https://www.ticketmelon.com/DUAL/Dual17",
+    "ticketUrl": "https://www.ticketmelon.com/cloudylivehouse/RosalynThejuusatcloudy",
     "ticketSource": "ticketmelon",
     "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/8e51c2a27f6911f1911101117567899b/poster/e5d604587f6911f1990801117567899b.png",
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/70adf4a57dda11f1915501117567899b/poster/f0916e4c7dda11f1923401117567899b.jpeg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1092,159 +276,1167 @@
     "sourceIds": [
       {
         "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/DUAL/Dual17"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-16T04:17:54.790738",
-      "isInternational": false
-    },
-    "description": "<p>Join us on Friday, 17 July<br><br>Dual welcomes Kyuchan for a night across both rooms. In the main room, Kyuchan is joined by Melle and Payu, with a selection of electro, techno, and club music from open to close.<br><br>In Creature, Payu, Pattwaste, and Jirus take over with deeper and more eclectic selections in a more intimate setting.<br><br>Tickets: Early Bird: 300 THB/Door: 600 THB<br><br>Join us on the dance floor.</p>"
-  },
-  {
-    "id": "f5794616e591",
-    "title": "Pre-LABB Series02",
-    "date": {
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "doorTime": "2026-09-04T11:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "muan-more-space",
-    "venueName": "MUAN MORE SPACE",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/oversee/prelabbseries02",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/f6aab01c7b8211f1911101117567899b/poster/5ebc5d197c6211f1923401117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/oversee/prelabbseries02"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-04",
-      "updatedAt": "2026-09-04",
-      "scrapedAt": "2026-07-16T04:17:55.956051",
-      "isInternational": false
-    },
-    "description": "<p>Series 02: The Global Frontier</p><p>srwks. (TH)</p><p>YONLAPA (TH)</p><p>Dabda (KR)&nbsp;</p><p>HOLOTROPICS (UK/TW)<br><br></p><p>📅<strong>&nbsp;DATE:</strong> 4 Sep 2026&nbsp;</p><p>🎟<strong>&nbsp;TICKETS: 250 THB</strong></p><p>🎟️ พิเศษสุดๆ<strong>!&nbsp;</strong>ทุกบัตรเข้างาน<strong>&nbsp;</strong>รับฟรี<strong>!&nbsp;</strong>พวงกุญแจ<strong>&nbsp;Exclusive&nbsp;</strong>ของงานทันที 🔑✨</p><p>ทุกการสนับสนุนของคุณจะแปรเปลี่ยนเป็นทุนเดินทางพาศิลปินเชียงใหม่และไทยจากเวที Labbfest ไปเหยียบเวทีโลก<br>✈️💼 รายได้หลังหักค่าใช้จ่ายเข้ากองทุนโดยตรงครับ</p><p><br>📍<strong>&nbsp;VENUE:</strong> MUAN MORE SPACE (2nd Floor, Chiangmai Hall, Central Chiangmai Airport)<br>📍<strong>&nbsp;MAP:</strong> <a href=\"https://shorturl.at/iQlJ5\">https://shorturl.at/iQlJ5</a></p><p><br></p>"
-  },
-  {
-    "id": "641525f91f7c",
-    "title": "2026 ifeye 1st APAC TOUR [ If I ] in MANILA - ADD-ONS",
-    "date": {
-      "startDate": "2026-07-27",
-      "endDate": "2026-07-27",
-      "doorTime": "2026-07-27T11:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "music-museum",
-    "venueName": "Music Museum",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/boxliveentPH/ifeye2026manilaaddon",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/e39485f07f4f11f1967801117567899b/poster/c59e3c4e7fa111f1943101117567899b.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/boxliveentPH/ifeye2026manilaaddon"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-16T04:17:56.552702",
-      "isInternational": false
-    },
-    "description": "<p><strong><span style=\"font-size: 24px;\">Exclusive Add-on Packages for &nbsp;Manila Stop!</span></strong></p><p>To bring you even closer to ifeye, we are thrilled to offer exclusive Add-on Packages for the Manila stop of the &nbsp;APAC Tour! These limited-edition experiences are designed to create unforgettable, intimate memories with Kasia, Rahee, Won Hwayeon, Meu, Taerin, and Sasha.</p><hr><p><strong>Add-on Packages include:</strong></p><ul><li>1v1 Snapshot: Capture a beautiful, high-quality moment with your favorite member.</li><li>1v1 Polaroid: Take home a unique, instant keepsake straight from the event.</li><li>1v1 Fansign: Enjoy a special, face-to-face interaction and share your heartfelt support directly with the members.</li></ul><hr><p><strong>Add-on information：</strong></p><p>Event Time | July 27, 2026 (Mon), prior to the concert (Actual schedule is subject to on-site announcements)</p><p>Venue | Music Museum</p><p>How to Purchase | A valid ticket for the 2026 ifeye APAC TOUR &nbsp;in Manila is required to purchase Add-on packages.</p><p>Eligibility | To participate in the Add-on events, attendees must present both a valid concert ticket and an Add-on voucher.</p>"
-  },
-  {
-    "id": "ab3cb21657fc",
-    "title": "MOKSHA II",
-    "date": {
-      "startDate": "2026-08-01",
-      "endDate": "2026-08-01",
-      "doorTime": "2026-08-01T09:00:00",
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "bloc-social-club-kl",
-    "venueName": "Bloc Social Club KL",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.ticketmelon.com/tadbitspicy/moshaII",
-    "ticketSource": "ticketmelon",
-    "images": {
-      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/17ca32e47acc11f1943101117567899b/poster/a4000b5f7acc11f1923401117567899b.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ticketmelon",
-        "id": "https://www.ticketmelon.com/tadbitspicy/moshaII"
+        "id": "https://www.ticketmelon.com/cloudylivehouse/RosalynThejuusatcloudy"
       }
     ],
     "metadata": {
       "createdAt": "2026-08-01",
       "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-07-16T04:17:58.306073",
+      "scrapedAt": "2026-07-17T04:04:15.359718",
       "isInternational": false
     },
-    "description": "<p>Every MOKSHA edition celebrates an element deeply rooted in South Asian culture. This edition is inspired by sandalwood, a symbol of calm, devotion, and timeless craftsmanship. Known as <em>chandan</em> across much of India, its warm aroma has accompanied ceremonies, meditation, and moments of celebration for centuries. Through scent, texture, and sound, this edition invites guests into an experience where tradition and contemporary music meet, creating an atmosphere that lingers long after the final track.</p>"
+    "description": "<p>CLOUDY LIVE HOUSE&nbsp;</p><p>Present&nbsp;</p><p><br></p><p>Rosalyn&nbsp;</p><p>The Juu&rsquo;s&nbsp;</p><p>Penfins</p><p>Open Act : redmango404</p><p><br></p><p>📍 Location: Cloudy Livehouse @Muangaek Rangsit</p><p>📅 Date: Saturday, 1 August 2026</p><p>🚪 Door open : 18.00</p><p><br></p><p>🎫 Ticket Details</p><p>&bull; Pre-sale: 350 THB</p><p>&bull; At Door: 450 THB</p><p>งานนี้ไม่จำกัดอายุ</p><p><br></p><p>🎟️ Available on Ticketmelon</p>"
+  },
+  {
+    "id": "213b6b2afb66",
+    "title": "Catch Your Next Wave at Phuket Surf House",
+    "date": {
+      "startDate": "2026-01-24",
+      "endDate": "2026-12-31",
+      "doorTime": "2026-01-24T02:30:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "phuket-surf-house---patong-beach",
+    "venueName": "Phuket Surf House - Patong Beach",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "electronic"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/phuket-surf-house/catchyournextwave",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/cce41852dbf411f0915501117567899b/poster/65c8a2a3f83911f0967801117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/phuket-surf-house/catchyournextwave"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-01-24",
+      "updatedAt": "2026-01-24",
+      "scrapedAt": "2026-07-17T04:04:16.609294",
+      "isInternational": false
+    },
+    "description": "<p><strong>Patong&#39;s Pulse Meets the Ocean&#39;s Power</strong></p><p>Surrounded by all the action yet connected to the calm of the ocean&mdash;Phuket Surf House gives you the best of both worlds. Located prime on Beach Road, 200 meters from Bangla&#39;s legendary nightlife and just steps from the sand, we&#39;re where the energy of Patong meets the thrill of world-class surfing. This isn&#39;t just location. It&#39;s destination.</p><p>Join us for epic waves, delicious food and drinks, and unforgettable memories.</p>"
+  },
+  {
+    "id": "2aa9630a4947",
+    "title": "Oceanfromtheblue — Way To Blue in Bangkok",
+    "date": {
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-05",
+      "doorTime": "2026-09-05T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "volume-livehouse",
+    "venueName": "Volume Livehouse",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "electronic"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/nfevents/oceanfromtheblue-waytoblueinbangkok-2026",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/poster/e766f32479b511f1923401117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/nfevents/oceanfromtheblue-waytoblueinbangkok-2026"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-09-05",
+      "updatedAt": "2026-09-05",
+      "scrapedAt": "2026-07-17T04:04:17.217926",
+      "isInternational": false
+    },
+    "description": "<p style=\"margin-left: 20px; text-align: center;\"><strong><span style=\"font-size: 24px;\">Oceanfromtheblue &mdash; Way To Blue in Bangkok&nbsp;</span></strong></p><p style=\"margin-left: 20px; text-align: center;\"><strong><span style=\"font-size: 24px;\">05.09.2026 | Volume Livehouse</span></strong></p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/be711ea279b511f1915501117567899b.png\" style=\"width: 524px;\" class=\"fr-fic fr-dib\">&nbsp;</p><p>เสียงที่คุณฟังในค่ำคืนอันเงียบสงบ ตอนขับรถยามดึก หรือตอนเดินกลับบ้าน ในที่สุดก็จะได้ฟังใกล้ ๆ แล้ว 🎧💙</p><p>นักร้อง-นักแต่งเพลงชาวโซล oceanfromtheblue จะมาพบกับทุกคนในโชว์ Way to Blue ที่ Volume Live House, Ratchada ในวันที่ 5 กันยายน 2026 นี้</p><p>ตั้งแต่ความขื่นขมใน mistaken ไปจนถึงความเศร้าใน sherlock เพลงของเขาสามารถถ่ายทอดหลากหลายความรู้สึกที่แฟนเพลงทั่วโลกต่างหลงรัก</p><p>Fishes! การรอคอยสิ้นสุดลงแล้ว และ oceanfromtheblue ก็ตื่นเต้นไม่แพ้กัน 🐟</p><p>มาร่วมค่ำคืนแห่งความทรงจำด้วยกันนะคะ 💙</p><p>&nbsp;</p><p>งาน: oceanfromtheblue - Way To Blue in Bangkok&nbsp;</p><p>วันที่ : 5 กันยายน 2569&nbsp;</p><p>สถานที่: Volume Livehouse, The Street Ratchada</p><p>รูปแบบการชม: บัตรยืน (Standing)&nbsp;</p><p>เปิดจำหน่ายบัตร: 18 กรกฎาคม 2569 (10:00 น.) เป็นต้นไป&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/acad2e667a7911f1915501117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/ba7dd0d07a7911f1943101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/c8f9c6377a7911f1911101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/84467f927c2611f1922201117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p>หมายเหตุสำคัญ (IMPORTANT NOTICE) :</p><p>&bull;⁠ &nbsp;⁠ทุกคนที่เข้าร่วมงานต้องมีบัตรคนละใบ รวมถึงผู้ที่มากับเด็กหรือผู้พิการ</p><p>&bull;⁠ &nbsp;⁠บัตร Add-on ไม่ใช่บัตรเข้าชมงาน เป็นแพ็คเกจสิทธิพิเศษเพิ่มเติม ต้องมีบัตรคอนเสิร์ตเพื่อรับสิทธิ์</p><p>&bull;⁠ &nbsp;⁠รายละเอียดงานอาจมีการเปลี่ยนแปลงตามข้อกำหนด</p><p>&bull;⁠ &nbsp;⁠เวลาจัดงานอาจมีการปรับเปลี่ยนตามประกาศของผู้จัด</p><p><br></p><p style=\"text-align: center;\"><strong><span style=\"font-size: 24px;\">Oceanfromtheblue &mdash; Way To Blue in Bangkok&nbsp;</span></strong></p><p style=\"text-align: center;\"><strong><span style=\"font-size: 24px;\">05.09.2026 | Volume Livehouse</span></strong></p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/cc85567379b511f1915501117567899b.jpeg\" class=\"fr-fic fr-dii\" alt=\"Uploaded image\" style=\"width: 524px;\"><br><br class=\"Apple-interchange-newline\"></p><p>The voice that&rsquo;s been with you through late nights, quite drive and long walks home is finally coming to Bangkok. 🎧💙</p><p>Korean R&amp;B singer-songwriter <strong>oceanfromtheblue</strong> is bringing his <strong>Way to Blue</strong> show to Bangkok on September 5, 2026 at <strong>Volume Livehouse, The Street Ratchada</strong>. &nbsp;</p><p>From &lsquo;mistaken&rsquo; to &lsquo;sherlock&rsquo;, his songs capture the bittersweet feelings and blue emotions that fans around the world love.&nbsp;</p><p>Fishes, the wait is almost over &amp; he&rsquo;s just as excited as you are. 🐟</p><p>Join us for an intimate night you won&rsquo;t forget.</p><p>&nbsp;</p><p>Events: oceanfromtheblue - Way To Blue in Bangkok&nbsp;</p><p>Date: September 5, 2026</p><p>Venue: Volume Livehouse, The Street Ratchada</p><p>Format: Standing &nbsp;</p><p>Tickets on Sale: 18 July 2026 at 10:00 AM (ICT) via TicketMelon</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/de04d3047a7911f1990801117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/e69397a37a7911f1943101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/f02c7d247a7911f1922201117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/30886ff06a0811f1923401117567899b/description/8fe8f4ed7c2611f1943101117567899b.jpeg\" style=\"width: 524px;\" class=\"fr-fic fr-dib\"></p><p><strong>IMPORTANT NOTICE&nbsp;</strong></p><p>&bull; &nbsp; &nbsp;Everyone entering the venue mush have their own ticket including companions of minors or persons with disabilities.&nbsp;</p><p>&bull; &nbsp; &nbsp;Add-on tickets are <strong>NOT</strong> entry tickets. They are addition benefit packages and required a valid concert ticket to redeem.</p><p>&bull; &nbsp; &nbsp;Event details are subject to change based on regulations.&nbsp;</p><p>&bull; &nbsp; &nbsp;Event timing is estimated and may be updated by the organizer.</p>"
+  },
+  {
+    "id": "a86736a60753",
+    "title": "The Poet Parlor | Poetry Show & Open Mic",
+    "date": {
+      "startDate": "2026-03-26",
+      "endDate": "2026-07-23",
+      "doorTime": "2026-03-26T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "the-standard-bangkok-mahanakhon",
+    "venueName": "The Standard, Bangkok Mahanakhon",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "classical"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/355/thepoetparlor",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/1d3605d117a511f1967801117567899b/poster/a9e6fc4317a511f1923401117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/355/thepoetparlor"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-03-26",
+      "updatedAt": "2026-03-26",
+      "scrapedAt": "2026-07-17T04:04:17.842425",
+      "isInternational": false
+    },
+    "description": "<p>🎙️Calling ALL Poets!🎙️</p><p>In partnership with The Parlor and The Standard Hotel, we invite you to join us at The Poet Parlor - a night honoring the art of Spokenword Poetry with some of the city&#39;s most dedicated poets!</p><p>🎙️LIMITED OPEN MIC 🎙️<br>The focus of this show will be our featured artists, but we will have some time available to accomodate a limited number of open mic poets. Poets who wish to enter can reach out via direct message. This show is dedicated to poetry and Open mic is exclusive to poets. Open Mic poets will be selected by lucky draw and must be pr🎙esent and signed up no later than 30 min before the start of the showcase at 8pm.</p><p>🎙️ What is Spoken Word Poetry?<br>Spoken Word Poetry is a performance focused recital of original poetry. The poetry can cover ANY topic and is open to different styles and techniques. It is a powerful form of creative expression, which gives writers the opportunity, and the outlet, to present their Voice.</p><p>📋EVENT DETAILS📋<br>Every 4th Thursday of each month<br>at The Parlor in the Standard Hotel in the King Power MahaNakhon Building</p><p>🎟️FREE ENTRY🎟️<br>Doors Open at 7pm, Showcase starts at 8PM</p>"
+  },
+  {
+    "id": "92f301fdfbb1",
+    "title": "Blak Room ft. Toza",
+    "date": {
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-15",
+      "doorTime": "2026-08-15T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "mdlr",
+    "venueName": "MDLR",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/evoasianapparatus/blakroom-toza",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/45b4c47876d511f1915501117567899b/poster/df065c2f781711f1923401117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/evoasianapparatus/blakroom-toza"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-15",
+      "updatedAt": "2026-08-15",
+      "scrapedAt": "2026-07-17T04:04:18.446842",
+      "isInternational": false
+    },
+    "description": "<div dir=\"auto\"><p><strong>Singapore, it&rsquo;s time.<br></strong><br><strong>BLAK ROOM returns with TOZA.<br></strong><br>One night. Pure energy.<br><br>Tickets are on sale now.</p><p><br><u><strong>TICKETING TERMS &amp; CONDITIONS:</strong></u></p></div><ul><li>Please refer to the minimum age requirement for the event, no refunds will be provided for underage attendees.&nbsp;</li><li>The right of admission is reserved by the&nbsp;event&nbsp;management and venue management parties</li><li>The right is reserved to vary, substitute or withdraw advertised programs, artists, venue and seating arrangements as necessary</li><li>This ticket is only valid only when purchased&nbsp;through&nbsp;an authorised agent</li><li>Patrons who disrupt a performance, who are in use or possession of a prohibited object or fail to produce valid identification may be asked to leave the venue without refund of ticket purchase</li><li>All tickets sold are final - no refunds will be provided for change in mind or inability to attend due to personal reasons or duplicate orders by the customer. Refunds may be provided through the refund ticket protection add on through the check out process.&nbsp;</li><li>Please be aware that we have no obligation to honour tickets purchased via unauthorised re-sellers. If you attend one of our events with a ticket purchased via an unauthorised re-seller such or otherwise , you may be refused entry to the event.&nbsp;</li><li>The ticket holder bears the risk of dangers incidental to the event, whether occurring prior to, during or after the event including (but not exclusively) - the dangers of being struck by projected objects, atmospheric effects, strobe light usage or loud noises. If impacted - immediately contact event staff for assistance.&nbsp;</li><li>Policies and procedures adopted are subject to change at any time without notice</li></ul>"
+  },
+  {
+    "id": "557412a0e88f",
+    "title": "Poy Festival 2026",
+    "date": {
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "doorTime": "2026-11-14T06:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "kad-dhara-dhevi-chiang-mai",
+    "venueName": "Kad Dhara Dhevi, Chiang Mai",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "festival"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/poyfestival/2026",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/4f0cba0078f611f1922201117567899b/poster/af131aed7b7011f1943101117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/poyfestival/2026"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-11-14",
+      "updatedAt": "2026-11-14",
+      "scrapedAt": "2026-07-17T04:04:19.053816",
+      "isInternational": false
+    },
+    "description": "<p style=\"text-align: left;\"><span class=\"fr-emoticon fr-deletable fr-emoticon-img\" style='background: url(\"https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f535.svg\"); color: rgb(85, 57, 130); font-family: Verdana, Geneva, sans-serif; font-size: 18px;'>&nbsp;</span><span style=\"font-size: 18px;\"><span style=\"font-family: Verdana,Geneva,sans-serif;\"><span style=\"color: rgb(85, 57, 130);\">&nbsp;</span><span style=\"color: rgb(0, 0, 0);\">ปีนี้เตรียมพบกันในอาณาจักรใหม่ &ldquo;กาดดาราเทวี&rdquo;<br>ภายใต้สปิริตเดิมของชุมชนคนรักเสียงดนตรี<br>กับ Poy Festival 2026 | ซาวด์ สปิริต สเปซ </span><span class=\"fr-emoticon fr-deletable fr-emoticon-img\" style='background: url(\"https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f3bc.svg\"); color: rgb(85, 57, 130);'>&nbsp;</span><br><br><span style=\"color: rgb(255, 77, 208);\"><strong>&ldquo;ฮอมปอยเข้าเวียง<br>ฟังเสียง SOUND เปิงหู<br>ชู SPIRIT หมู่เฮา<br>ไปม่วนงันสันเล้า<br>ตี้ SPACE บ้านเฮากาดดาราเทวี&rdquo;</strong></span><br><br><span style=\"color: rgb(85, 57, 130);\"><img alt=\"Uploaded image\" data-stringify-emoji=\":ticket:\" src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/4f0cba0078f611f1922201117567899b/description/1769dfce79c111f1923401117567899b.png\" class=\"fr-fic fr-dii\" style=\"width: 30px;\"></span></span></span><span style=\"color: rgb(0, 0, 0); font-family: Verdana, Geneva, sans-serif; font-size: 18px;\">พร้อม Blind Ticket ตั๋วหลับหูหลับตาซื้อ สำหรับคนที่เชื่อในเรา เชื่อในเทศกาล และพร้อมซื้อก่อนรู้ไลน์อัพ<br>ราคาเพียง 999 บาท (จำนวนจำกัด/เข้าร่วมงาน 2 วันเต็ม)<br><br>Poy Festival 2026 เทศกาลดนตรีและแผ่นเสียงที่ม่วนที่สุดในเชียงใหม่<br><img alt=\"Uploaded image\" data-stringify-emoji=\":spiral_calendar_pad:\" src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/4f0cba0078f611f1922201117567899b/description/1765ab8579c111f1923401117567899b.png\" class=\"fr-fic fr-dii\" style=\"width: 22px;\"> 14-15 พฤศจิกายน 2569<br><img alt=\"Uploaded image\" data-stringify-emoji=\":round_pushpin:\" src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/4f0cba0078f611f1922201117567899b/description/17a31e1b79c111f1923401117567899b.png\" class=\"fr-fic fr-dii\" style=\"width: 22px;\">ณ กาดดาราเทวี เชียงใหม่</span><span style=\"color: rgb(85, 57, 130);\"><br></span><br>________________________________</p><p style=\"text-align: left;\"><span style=\"font-size: 18px;\"><span style=\"color: rgb(44, 130, 201);\"><span class=\"fr-emoticon fr-deletable fr-emoticon-img\" style=\"background: url(https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f534.svg);\">&nbsp;</span>&nbsp;</span>Poy Festival 2026 is back!<br>This year, we&#39;re gathering in a new home </span><br><span style=\"font-size: 18px;\">&mdash; Kad Dhara Dhevi &mdash; while keeping the same spirit of our community of music lovers.<br>Poy Festival 2026 | Sound &bull; Spirit &bull; Space<br><br><strong><span style=\"color: #ff4dd0;\">Hear the Sound,<br>share the Spirit,<br>celebrate together<br>at our new Space, Kad Dhara Dhevi.</span></strong><br><br><img alt=\"Uploaded image\" data-stringify-emoji=\":ticket:\" src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/4f0cba0078f611f1922201117567899b/description/177206f079c111f1943101117567899b.png\" class=\"fr-fic fr-dii\" style=\"width: 28px;\"> Counting down to Blind Tickets &mdash;for those who believe in us, believe in the festival, and are ready to grab their tickets before the lineup is announced.<br>Only THB 999 (Limited quantity / 2-Day Pass)<br><br><img alt=\"Uploaded image\" data-stringify-emoji=\":pushpin:\" src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/4f0cba0078f611f1922201117567899b/description/1795411979c111f1911101117567899b.png\" class=\"fr-fic fr-dii\" style=\"width: 22px;\"> Tickets on sale: 9 July 2026 via Ticketmelon<br>Poy Festival 2026<br>Chiang Mai&#39;s most spirited music and vinyl festival<br>14&ndash;15 November 2026<br>at Kad Dhara Dhevi, Chiang Mai</span></p><p style=\"text-align: left;\"><br></p><hr><p><span style=\"font-size: 18px;\"><span class=\"fr-emoticon fr-deletable fr-emoticon-img\" style=\"background: url(https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f534.svg);\">&nbsp;</span> Poy Festival 2026、帰ってきた！ 今年は新しい家「カード・ターラー・テーウィー」に集合。音楽を愛する仲間たちの、変わらないスピリットとともに。<br><strong>Poy Festival 2026 | Sound &bull; Spirit &bull; Space</strong></span><br><br></p><p><span style=\"font-size: 18px; color: rgb(255, 77, 208);\"><strong>サウンドを聴き、<br>スピリットを分かち合い、<br>みんなで祝おう。<br>新しいスペース、カード・ターラー・テーウィーで。</strong></span><br><br></p><p><span style=\"font-size: 18px;\"><strong>ブラインドチケット</strong>、カウントダウン開始 &mdash; 私たちを信じ、このフェスを信じ、ラインナップ発表前にチケットを掴む人へ。<strong>999バーツ</strong>のみ（数量限定 / 2日間通し券）</span><br><br></p><p><span style=\"font-size: 18px;\">発売日：<strong>2026年7月9日</strong>／Ticketmelon にて<br>Poy Festival 2026 &mdash; チェンマイでいちばん熱い、音楽とレコードのフェス<br><strong>2026年11月14日〜15日</strong> カード・ターラー・テーウィー（チェンマイ）</span></p>"
+  },
+  {
+    "id": "4a0873f57e79",
+    "title": "Drip KL Presents: Jupiter x Homecoming",
+    "date": {
+      "startDate": "2026-07-24",
+      "endDate": "2026-07-24",
+      "doorTime": "2026-07-24T14:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "drip-kuala-lumpur",
+    "venueName": "Drip Kuala Lumpur",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "electronic"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/drip-kuala-lumpur/dripkl-jupiter-homecoming",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/f38ebaac807611f1915501117567899b/poster/110bd6b2807711f1967801117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/drip-kuala-lumpur/dripkl-jupiter-homecoming"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-24",
+      "updatedAt": "2026-07-24",
+      "scrapedAt": "2026-07-17T04:04:20.266606",
+      "isInternational": false
+    },
+    "description": "<p>DRIP KL PRESENTS :</p><p><br></p><p>@homecoming.kl x @jupiter.hq&nbsp;</p><p>24TH JULY 2026&nbsp;</p><p><br></p><p><br></p><p>10 PM TILL LATE&nbsp;</p><p>📍Drip Kuala Lumpur, Solaris Mont Kiara</p><p><br></p><p><br></p><p>SHOWCASING KUALA LUMPUR&#39;S UNDERGROUND SCENE,&nbsp;</p><p>AND BRINGING THE SOUND THAT IT HOLDS INTO THE NIGHTLIFE SCENE&nbsp;</p><p>HERE IN THE HEART OF KL.&nbsp;</p><p><br></p><p><br></p><p>LIVE PERFORMANCES AND DJ SETS FROM:&nbsp;</p><p>✵ @augustfear</p><p>✵ @jeshfinger</p><p>✵ @f_rider_</p><p>✵ @222marsya</p><p>✵ @ambii___________</p><p>✵ @joshuataann</p><p>✵ @yungpepekslayer</p><p>✵ @crashcamo</p><p>✵ @aimampus</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+  },
+  {
+    "id": "41d7c3ef837f",
+    "title": "Road to Melt Festival: Matt Maltese with Phum Viphurit",
+    "date": {
+      "startDate": "2026-08-16",
+      "endDate": "2026-08-16",
+      "doorTime": "2026-08-16T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "cloud-11-hall",
+    "venueName": "Cloud 11 Hall",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "electronic"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/meltlivehouse/MattMaltesePhumViphurit",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/6b24302142cf11f1943101117567899b/poster/1bf00c7e447411f1990801117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/meltlivehouse/MattMaltesePhumViphurit"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-16",
+      "updatedAt": "2026-08-16",
+      "scrapedAt": "2026-07-17T04:04:20.840600",
+      "isInternational": false
+    },
+    "description": "<p data-pm-slice=\"0 0 []\"><strong>16 August 2026 (Sunday)</strong><br><strong>Road to Melt Festival: Matt Maltese with Phum Viphurit @ Melt Livehouse Cloud 11 Hall</strong></p><hr><p><strong>Tickets:</strong><br><strong>&bull; Early Bird:</strong> 1200 THB<br>&bull; <strong>General Admission :</strong> 1800 THB<br>&bull; <strong>Melt Deluxe :</strong> 2500 THB<br>&bull; <strong>VIP</strong><strong>&nbsp;:</strong> 4000 THB<br><br><strong>Melt Deluxe Ticket Perks:</strong><br>&bull; Early Entrance<br>&bull; Event Poster (<strong>Matt Maltese or Phum Viphurit</strong>)<br>&bull; Access to VIP Viewing Zone</p><p><strong>Matt Maltese&rsquo;s VIP&nbsp;Ticket Perks:</strong><br>&bull; Early Entrance<br>&bull; Signed Event Poster (<strong>Matt Maltese</strong>)<br>&bull; Access to VIP Viewing Zone<br>&bull; Meet &amp; Greet + Photoshoot Session with (<strong>Matt Maltese</strong>)<br>&bull; Extremely Limited</p><p><strong>Phum Viphurit&rsquo;s VIP&nbsp;Ticket Perks:</strong><br>&bull; Early Entrance<br>&bull; Signed Event Poster (<strong>Phum Viphurit</strong>)<br>&bull; Access to VIP Viewing Zone<br>&bull; Meet &amp; Greet + Photoshoot Session with (<strong>Phum Viphurit</strong>)<br>&bull; Extremely Limited<br><br>Doors Open: 19:00</p><p>No age restriction</p><p>All Standing Tickets</p><hr><p><strong>How to get to Melt Livehouse @ Cloud 11</strong><br>Google Maps:<br>https://maps.app.goo.gl/chH5mE43hD4Vkc326?g_st=ic</p><ul><li><strong>BTS Punnawithi</strong> &rarr; Exit 6, about a 5-minute walk via Skywalk</li><li><strong>BTS Udom Suk</strong> &rarr; Exit 2, about a 6-minute walk</li></ul><p>Parking is available at Cloud 11</p><hr><p data-end=\"1189\" data-start=\"1127\"><strong data-end=\"1144\" data-start=\"1127\">Tickets on sale:</strong><br data-start=\"1144\" data-end=\"1147\"><a data-end=\"1189\" data-start=\"1147\" href=\"http://www.ticketmelon.com/meltlivehouse/apartmentwickedlights\"></a><a href=\"https://www.ticketmelon.com/meltlivehouse/MattMaltesePhumViphurit\">https://www.ticketmelon.com/meltlivehouse/MattMaltesePhumViphurit/</a><br>#MeltLivehouse #MattMaltese #PhumViphurit</p>"
+  },
+  {
+    "id": "446175d0c591",
+    "title": "DEKTHAIBAY V.1",
+    "date": {
+      "startDate": "2026-07-25",
+      "endDate": "2026-07-25",
+      "doorTime": "2026-07-25T10:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "ink-room-tattoo-studio",
+    "venueName": "INK ROOM tattoo studio",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/Dekthaibey/DEKTHAIBEY",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/dcc5060061c911f1943101117567899b/poster/f66d14ed61cb11f1990801117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/Dekthaibey/DEKTHAIBEY"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-25",
+      "updatedAt": "2026-07-25",
+      "scrapedAt": "2026-07-17T04:04:21.454733",
+      "isInternational": false
+    },
+    "description": "<p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/dcc5060061c911f1943101117567899b/description/4fb89ce561cb11f1990801117567899b.png\" style=\"width: 300px;\" class=\"fr-fic fr-dib\"></p><p>PERFORMANCE GROUND Vol.1</p><p>📍 CNB เมืองเอกรังสิต</p><p>🎫 General Admission 199 THB<br>⭐ VIP Ticket 349 THB</p><p>จำนวนบัตรมีจำกัด</p><p>DEKTHAIBAY&nbsp;V.1</p><p><br></p><p><br></p>"
+  },
+  {
+    "id": "cab7a9631410",
+    "title": "\"Love Upon A Time\" Berlin Fan Meeting with NetJJ",
+    "date": {
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "doorTime": "2026-10-03T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "die-wühlmäuse",
+    "venueName": "Die Wühlmäuse",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/panospotlight/NJFMBerlin",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/305da907765d11f1967801117567899b/poster/26c8771f766211f1923401117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/panospotlight/NJFMBerlin"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-10-03",
+      "updatedAt": "2026-10-03",
+      "scrapedAt": "2026-07-17T04:04:22.033263",
+      "isInternational": false
+    },
+    "description": "<p>Berlin becomes the stage again. The magic of <strong>Love Upon A Time</strong> is coming to us. NET JJ are bringing all the charm, laughter, and unforgettable moments straight to the heart of the city to present us an event filled with stories, surprises, and the warm chemistry we all adore. Whether you fell for the series from the very first episode or joined the journey along the way, this fan meeting is a precious chance to create memories with NET JJ in real life that you&rsquo;ll carry long after the lights go down.&nbsp;</p><p><strong>Seat Map</strong></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/305da907765d11f1967801117567899b/description/98d13d3c766111f1943101117567899b.jpeg\" style=\"width: 300px;\" class=\"fr-fic fr-dib fr-fil\"></p><p><br></p><p><strong>Fan Benefits</strong></p><p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/305da907765d11f1967801117567899b/description/bf581a2f77a511f1943101117567899b.jpeg\" style=\"width: 300px;\" class=\"fr-fic fr-dib fr-fil\"></p><p><strong>Note</strong><strong><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/305da907765d11f1967801117567899b/description/15d15c42766211f1923401117567899b.jpeg\" style=\"width: 300px;\" class=\"fr-fic fr-dib fr-fil\"></strong><br></p><p><br></p>"
+  },
+  {
+    "id": "4bcd127541e2",
+    "title": "Counting Blue Nights with JR Richards, the Voice Behind Dishwalla",
+    "date": {
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "doorTime": "2026-10-17T09:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "social-park-avenue",
+    "venueName": "Social Park Avenue",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "pop"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/SocialParkAvenue/jrrichards_the_voice_of_dishwalla_at_the_socialparkavenue",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/d8fb3da0790e11f1911101117567899b/poster/48a09523791111f1967801117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/SocialParkAvenue/jrrichards_the_voice_of_dishwalla_at_the_socialparkavenue"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17",
+      "scrapedAt": "2026-07-17T04:04:22.673199",
+      "isInternational": false
+    },
+    "description": "<p>Experience an unforgettable night with&nbsp;<strong>J.R. Richards</strong>, the iconic voice of&nbsp;<strong>Dishwalla</strong>, as he returns to&nbsp;<strong>The Social Park Avenue</strong> in Cebu for an intimate live performance.</p><p>Known for timeless hits like&nbsp;<em>Counting Blue Cars</em>,&nbsp;<em>Angels or Devils</em>,&nbsp;<em>Somewhere in the Middle</em>, and more, J.R. Richards captivated Cebu audiences during his first visit&mdash;and by popular demand, he&#39;s coming back for another incredible night of music.</p><p>Whether you missed his last show or simply want to relive the experience, this is your chance to hear the songs that defined a generation, performed live by the original voice behind them.</p><p><strong>Event Details</strong><br><strong>Date:</strong> October 17, 2026<br><strong>Venue:</strong> The Social Park Avenue, Cebu City</p><p>Don&#39;t miss this special return performance. Gather your friends, sing along to the classics, and be part of another memorable evening with J.R. Richards.</p>"
+  },
+  {
+    "id": "e7a493a438f9",
+    "title": "MAST x Marquis : Desi Unplugged",
+    "date": {
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-22",
+      "doorTime": "2026-08-22T14:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "marquis-sky-lounge-rooftop-bar-kuala-lumpur",
+    "venueName": "Marquis Sky Lounge | Rooftop Bar Kuala Lumpur",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/MastWorld/DesiUnplugged",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/c129b7ae7d2811f1922201117567899b/poster/abec35d57e1a11f1915501117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/MastWorld/DesiUnplugged"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-22",
+      "updatedAt": "2026-08-22",
+      "scrapedAt": "2026-07-17T04:04:23.881507",
+      "isInternational": false
+    },
+    "description": "<p><strong>Desi Unplugged: Your Passport to Desi Culture</strong></p><p><strong>Get ready for a night where music, culture and community come together! 🌎🎶&nbsp;</strong></p><p>From Bollywood anthems to Punjabi beats and the sounds that bring us closer to home, <strong data-end=\"1540\" data-start=\"1522\">Desi Unplugged</strong> is where generations, cultures and communities come together for one unforgettable night.</p><p>Whether you&rsquo;re here to relive your favorite songs, discover new sounds, or connect with fellow Desis from across the world, this is where <strong data-end=\"722\" data-start=\"666\">different backgrounds come together as one community</strong>. <span class=\"fr-emoticon fr-deletable fr-emoticon-img\" style=\"background: url(https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f60d.svg);\">&nbsp;</span></p><h2 data-end=\"1184\" data-section-id=\"ef26e9\" data-start=\"1159\">🎟️ Ticket Information</h2><p data-end=\"1342\" data-start=\"1186\">🟡 <strong>Desi Launch Pass</strong><strong data-end=\"1211\" data-start=\"1189\">:</strong> MYR 55 <em data-end=\"1277\" data-start=\"1219\">(Limited availability, grab yours before they&rsquo;re gone!)</em><br data-start=\"1277\" data-end=\"1280\">🔵 <strong>Desi Pass</strong><strong data-end=\"1301\" data-start=\"1283\">:</strong> MYR 70<br data-start=\"1308\" data-end=\"1311\">🔴 <strong>Desi Final Pass</strong><strong data-end=\"1333\" data-start=\"1314\">:</strong> MYR 80</p><p data-end=\"1342\" data-start=\"1186\"><b data-index-in-node=\"0\" data-path-to-node=\"1,1,0\">⚫ Desi Walk-In Pass: MYR 90</b><em>&nbsp;(Door sales only ,subject to venue capacity)</em></p><p data-end=\"1472\" data-start=\"1344\">✨ <strong data-end=\"1378\" data-start=\"1346\">VIP Table Packages Available</strong></p><p data-end=\"1472\" data-start=\"1344\"><br data-start=\"1378\" data-end=\"1381\">For VIP reservations and bottle service, please contact:</p><p data-end=\"1472\" data-start=\"1344\">IG: @mastwrldmy</p>"
+  },
+  {
+    "id": "2afcdd7099e6",
+    "title": "HELLO FRI3ENDSSS: THANK YOU PARTY",
+    "date": {
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-22",
+      "doorTime": "2026-08-22T11:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "siampic-hall",
+    "venueName": "SiamPic Hall",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/Leaydodee/HELLOFRI3NDSSSTH",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/8c7d7abb7ab511f1923401117567899b/poster/4f7f9c247d3d11f1922201117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/Leaydodee/HELLOFRI3NDSSSTH"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-22",
+      "updatedAt": "2026-08-22",
+      "scrapedAt": "2026-07-17T04:04:25.138491",
+      "isInternational": false
+    },
+    "description": "<p style=\"text-align: center;\">ถ้าคุณคิดถึงการรวมตัวของแก๊งเพื่อนไกตลอดปัน PROXIE, ATLAS และ PERSES...</p><p style=\"text-align: center;\">นี่คือปาร์ตี้ที่คุณไม่ควรพลาด!</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">✨𝗛𝗘𝗟𝗟𝗢 𝗙𝗥𝗜𝟯𝗡𝗗𝗦𝗦𝗦 : 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 𝗣𝗔𝗥𝗧𝗬✨</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">เตรียมพบกับโชว์แบบเต็มอิ่มจากทั้ง 3 วง และ Special Collaboration Stage ที่อาจมีเซอร์ไพรส์รออยู่มากกว่าที่คิดพร้อมเบเนฟิตแบบจัดเต็ม และโมเมนต์แห่งมิตรภาพที่เต็มไปด้วยรอยยิ้ม เสียงหัวเราะ และความทรงจำที่ทุกคนจะได้เป็นส่วนหนึ่งไปด้วยกัน</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">22 สิงหาคมนี้<br>มาร่วมเป็นส่วนหนึ่งของปาร์ตี้แห่งมิตรภาพครั้งนี้ไปด้วยกันนะ💖🥳</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">🌟 TICKET SALE DATE: 12 JULY 2026 10AM (GMT+7) via http://ticketmelon.com</p><p style=\"text-align: center;\">🙌🏻 TICKET PRICE: 6,500 / 4,500 / 2,500 / 1,500</p><p style=\"text-align: center;\">🗓️ SHOW DATE: 22 AUGUST 2026</p><p style=\"text-align: center;\">⏰ SHOW TIME: 6PM</p><p style=\"text-align: center;\">📍 VENUE: SIAMPIC HALL</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><em>#HELLOFRI3NDSSSTH #PROXIEth #ATLAS_th #ATLASth &nbsp;#PERSES #PERSES_TH #LeayDoDee</em></p><p style=\"text-align: center;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/8c7d7abb7ab511f1923401117567899b/description/940636307ab511f1915501117567899b.jpeg\" style=\"width: 869px;\" class=\"fr-fic fr-dib\"></p>"
+  },
+  {
+    "id": "95c225078cbd",
+    "title": "ADDITIONAL SHOW - HONNE 10 Year Anniversary Tour KUALA LUMPUR",
+    "date": {
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-07",
+      "doorTime": "2026-08-07T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "rexkl",
+    "venueName": "REXKL",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "indie"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/fsa/day-2-honne-10-year-tour-my",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/f3eca41b1dc011f1922201117567899b/poster/4705b6531dc211f1943101117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/fsa/day-2-honne-10-year-tour-my"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-07",
+      "updatedAt": "2026-08-07",
+      "scrapedAt": "2026-07-17T04:04:25.749111",
+      "isInternational": false
+    },
+    "description": "<p dir=\"ltr\"><strong>Due to popular demand, a new show has been added to the KL stop for HONNE&#39;s 10 Year Anniversary Tour.</strong><br><strong>Tickets On Sale: 11:00 AM on 17 March 2026.</strong></p><p dir=\"ltr\">Celebrate a decade of HONNE with a once in a lifetime stripped-back performance marking their 10 Year Anniversary Tour. In this intimate, limited-capacity show, the duo revisit the songs that defined a generation of alt-indie lovers - from the breakthrough warmth of Warm on a Cold Night to the emotional depth of Love Me / Love Me Not. Expect reimagined arrangements, close-up moments, and a night that feels personal, nostalgic, and deeply connected to the music that started it all.</p><p>HONNE will be performing an additional show at REX KL on Friday 7 August 2026.&nbsp;</p><p><strong>This show is open to all ages, however attendees below the age of 15 will need to be accompanied by an adult aged 18 years old or above.</strong></p><p><strong><u>Ticket categories and prices below:</u></strong><br>1. GA Release 1 - MYR 278*<br>2. GA Release 2 - MYR 308*</p><p>All tickets are General Admission standing.</p><p>*all ticket prices shown are subject to a MYR 10 ticketing fee and 4% transaction fee.</p>"
+  },
+  {
+    "id": "56f749797689",
+    "title": "Lovebites Outstanding Tour SEA 2026 - Bangkok",
+    "date": {
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "doorTime": "2026-10-03T13:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "artspacebantadthong",
+    "venueName": "Artspace@Bantadthong",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/slammanbookingasia/love1",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/d042b89867c211f1990801117567899b/poster/19c64f5667c611f1990801117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/slammanbookingasia/love1"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-10-03",
+      "updatedAt": "2026-10-03",
+      "scrapedAt": "2026-07-17T04:04:26.930763",
+      "isInternational": false
+    },
+    "description": "<p>SLAMMAN BOOKING ASIA PRESENTS</p><p>LOVEBITES &ldquo;OUTSTANDING TOUR SEA 2026&rdquo; LIVE IN BANGKOK!</p><p>.</p><p>แฟนเพลงสายพาวเวอร์/เฮฟวี่เมทัลเตรียมพบกับการมาเยือนไทยครั้งแรกอย่างเป็นทางการของ 5 สาววาลคิรีสายเลือดซามูไร LOVEBITES วงเฮฟวี่เมทัลหญิงล้วนระดับแถวหน้าจากญี่ปุ่น ที่จะมาสาดความมันส์ในทัวร์คอนเสิร์ตเต็มรูปแบบที่ทุกคนตั้งตารอ!</p><p>.</p><p>LOVEBITES LIVE IN BANGKOK</p><p>🗓️ วันเสาร์ที่ 3 ตุลาคม 2026</p><p>📍 สถานที่ Bantadthong, Art Space</p><p>⏰ งานเริ่มเวลา 19:00 เป็นต้นไป</p><p>.</p><p>***เริ่มจำหน่ายบัตร***</p><p>วันพฤหัสที่ 18 มิถุนายน 2026</p><p>เวลา 10.00 น. (สิบโมงเช้าไทย)</p><p>โดยจัดจำหน่ายผ่านทาง Ticketmelon</p><p>.</p><p>🎫 รายละเอียดการจำหน่ายบัตร</p><p>&bull; EARLY BIRD: 2,500 THB (จำกัด 100 ใบเท่านั้น!)</p><p>&bull; PRE-SALE: 2,800 THB</p><p>&bull; AT-DOOR: 3,200 THB</p><p>👑 VIP TICKET 3,800 THB (จำกัด 50 ใบเท่านั้น!)</p><p>.</p><p>สิ่งที่จะได้รับสำหรับสิทธิ์ VIP Upgrades</p><p>📸 ร่วมถ่ายรูปคู่กับทางวงแบบตัวต่อตัว</p><p>✍️ โปสเตอร์พร้อมลายเซ็นสด</p><p>🪪 บัตรห้อยคอและสายคล้อง VIP ที่ระลึก</p><p>🏃&zwj;♂️ สิทธิ์เข้าชมคอนเสิร์ตก่อนใคร</p><p>.</p><p>#LOVEBITES #OutstandingTour2026&nbsp;</p><p>#LiveInBangkok #SlammanBookingAsia</p>"
+  },
+  {
+    "id": "2ff48e48126b",
+    "title": "No Exit",
+    "date": {
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-16",
+      "doorTime": "2026-08-01T06:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "river-city-bangkok",
+    "venueName": "River City Bangkok",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/Guhaproductions/noexit",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/b93013996de911f1915501117567899b/poster/ee28d4646fc411f1990801117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/Guhaproductions/noexit"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-01",
+      "updatedAt": "2026-08-01",
+      "scrapedAt": "2026-07-17T04:04:27.533133",
+      "isInternational": false
+    },
+    "description": "<p style=\"margin-left: 20px;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/b93013996de911f1915501117567899b/description/9522637a6e1011f1923401117567899b.jpeg\" style=\"width: 300px;\" class=\"fr-fic fr-dib\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/b93013996de911f1915501117567899b/description/8fe0e3a56e1011f1915501117567899b.jpeg\" style=\"width: 300px;\" class=\"fr-fic fr-dib\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/b93013996de911f1915501117567899b/description/8ab457756e1011f1911101117567899b.jpeg\" style=\"width: 300px;\" class=\"fr-fic fr-dib\"><strong>No Exit&nbsp;</strong>เขียนโดย <strong>Jean-Paul Sartre</strong> เป็นบทละครในยุค 40s ที่ส่งผลมาถึงยุคปัจจุบันอย่างแยบยล มนุษย์ที่หลงใน &ldquo;กระจก&rdquo; สัญญะ แห่งภาพลวงตาแห่งตัวตนที่ตนเองสร้างเพื่อสะท้อนภาพบางอย่างให้คนภายนอกหลงเชื่อในมายาคตินั้นๆ ไม่ต่างไปจาก social media ที่มนุษย์ส่วนใหญ่ในสังคมยุคปัจจุบัน พยายามสร้างตัวตนเช่นกัน และผลกระทบของการสร้างภาพมายาคตินี้คืออะไร Sartre ตั้งคำถามที่ลึกซึ้งไปกว่าโลกวัตถุนิยม แต่เป็นการตอบคำถามในเชิงแก่นของความเป็นมนุษย์หรือเนื้อแท้&hellip; เมื่อมนุษย์ที่ใช้ชีวิตเช่นนี้ถูกจับมารวมตัวกันในโลกหลังความตายไปตลอดการ &ldquo;นรก&rdquo; ที่ไม่มีเครื่องทรมาน&hellip; มนุษย์ที่เหลืออยู่ต่างก็เป็นผู้ทรมานของกันและกัน ละครเวทีเรื่องนี้ถูกเราผ่าน style ของ dark comedy ขบขับ ชวนคิด ถึงแม้จะเป็นเรื่องราวหลังความตายแต่ทุกวินาทีที่เวลาดำเนินไป หวังว่าคนดูจะได้พิจารณาและตั้งคำถามถึงการ &ldquo;มีชีวิต&rdquo;</p><p style=\"margin-left: 20px;\"><strong>ละครเวทีเรื่องนี้กำกับโดย วรา หงส์ (หรือเคยรู้จักกันในนาม ณัฐวรา หงษ์สุวรรณ)</strong></p><p style=\"margin-left: 20px;\">รายชื่อนักแสดง</p><p style=\"margin-left: 20px;\">1. พิสิฐพล เอกพงศ์พิสิฐ&nbsp;</p><p style=\"margin-left: 20px;\">2. ศุภนิดา วิวัฒน์รุ่งเรืองดี</p><p style=\"margin-left: 20px;\">3. น้ำ ภัคกร&nbsp;</p><p style=\"margin-left: 20px;\">4. ไอญา ภูมิรัตน์&nbsp;</p><p style=\"margin-left: 20px;\">Produced by Guhā Productions.</p><p style=\"margin-left: 20px;\">การแสดงเวลา 90-120 นาที</p><p style=\"margin-left: 20px;\"><br></p>"
+  },
+  {
+    "id": "017065986a1f",
+    "title": "RUDE MELANCHOLIC",
+    "date": {
+      "startDate": "2026-07-24",
+      "endDate": "2026-07-24",
+      "doorTime": "2026-07-24T11:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "bangkok-island",
+    "venueName": "Bangkok Island",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "indie"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/bangkokisland/RUDEMELANCHOLIC",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/72b676276eed11f1911101117567899b/poster/cc99e56c6eed11f1967801117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/bangkokisland/RUDEMELANCHOLIC"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-24",
+      "updatedAt": "2026-07-24",
+      "scrapedAt": "2026-07-17T04:04:28.134745",
+      "isInternational": false
+    },
+    "description": "<p>BANGKOK INDIE CLUB: RUDE MELANCHOLIC</p><p>Bangkok Island invites you to a special night on the river.</p><p>Rude Melancholic brings Bangkok&rsquo;s indie underground onto the boat &mdash; raw guitars, heavy feelings, and loud hearts by the Chao Phraya. This is not just another gig, but a night where the city, the river, and the music hit harder together.</p><p>Expect indie, alternative, melancholic rock, and underground sounds from three acts, building the night from emotional to explosive.</p><p>LINEUP </p><p>Ariya Echo 19:30 - 20:15 Poeticrude &nbsp;20:30 - 21:15 Saikeib 21:30 - 22:15</p><p>📅 July 24 ⏰ 18:00&ndash;24:00 📍 Bangkok Island @ Rama 3 Soi 64 🎟 Tickets: 300 THB</p><p>BANGKOK INDIE CLUB: RUDE MELANCHOLIC</p><p>Bangkok Island ขอชวนคุณมาร่วมค่ำคืนพิเศษริมแม่น้ำ</p><p>Rude Melancholic พาซีนอินดี้ใต้ดินของกรุงเทพฯ ขึ้นมาบนเรือ &mdash; กีตาร์ดิบ ๆ ความรู้สึกหนัก ๆ และหัวใจที่ดังไปพร้อมกับแม่น้ำเจ้าพระยา นี่ไม่ใช่แค่คอนเสิร์ตธรรมดา แต่คือคืนที่เมือง แม่น้ำ และดนตรีปะทะกันอย่างเต็มแรง</p><p>พบกับอินดี้ อัลเทอร์เนทีฟ ร็อกหม่น ๆ และซาวด์ใต้ดินจาก 3 วง ที่จะพาคืนนี้ไต่ระดับจากอารมณ์ลึก ๆ ไปสู่พลังระเบิดบนเวที</p><p>LINEUP </p><p>Ariya Echo 19:30 - 20:15 Poeticrude &nbsp;20:30 - 21:15 Saikeib 21:30 - 22:15</p><p>📅 24 กรกฎาคม ⏰ 18:00&ndash;24:00 📍 Bangkok Island @ Rama 3 Soi 64 🎟 บัตร: 300 THB</p>"
+  },
+  {
+    "id": "091887baeb5c",
+    "title": "Marcin Patrzałek Live in Bangkok 2026",
+    "date": {
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-15",
+      "doorTime": "2026-08-15T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "mgi-hall---bravo-bkk",
+    "venueName": "MGI Hall - Bravo BKK",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "classical"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/odrock/marcinliveinbangkok2026",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/fac75bae5d5f11f1967801117567899b/poster/1d22ca1a610011f1911101117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/odrock/marcinliveinbangkok2026"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-15",
+      "updatedAt": "2026-08-15",
+      "scrapedAt": "2026-07-17T04:04:28.721771",
+      "isInternational": false
+    },
+    "description": "<p><span style=\"font-size: 18px;\"><strong><span style=\"font-family: Arial,Helvetica,sans-serif;\">Marcin Patrzałek Live in Bangkok 2026 | Art of Guitar Tour</span></strong></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">🗓️ วันเสาร์ที่ 15 สิงหาคม 2026</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">📍 MGI Hall (Bravo BKK)</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Marcin Patrzałek (Marcin)&nbsp;</strong>คือหนึ่งในมือกีตาร์สาย Percussive Fingerstyle ที่โดดเด่นที่สุดแห่งยุค ผู้ปฏิวัติการเล่นกีตาร์โปร่งด้วยการผสมผสานเทคนิคฟลามิงโก้ การเคาะเพอร์คัชชัน และซาวด์ดีไซน์สมัยใหม่ จนกีตาร์เพียงตัวเดียวสามารถสร้างพลังได้ราวกับวงดนตรีทั้งวง</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">ลืมภาพการเล่นกีตาร์แบบเดิม ๆ ไปได้เลย เพราะ Marcin ไม่ได้แค่ &ldquo;ดีด&rdquo; กีตาร์ แต่เปลี่ยนเครื่องดนตรีทั้งตัวให้กลายเป็นทั้งกลอง ออเคสตร้า และเครื่องดนตรีอิเล็กทรอนิกส์ในเวลาเดียวกัน พร้อมสร้างโชว์ที่ทั้งดุดัน ตื่นเต้น และน่าทึ่งในทุกวินาที</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">นักกีตาร์ นักแต่งเพลง และโปรดิวเซอร์ชาวโปแลนด์ผู้นี้ เริ่มเป็นที่รู้จักจากการคว้าแชมป์รายการ Must Be The Music ในปี 2015 ก่อนก้าวสู่เวทีระดับโลกอย่าง America&rsquo;s Got Talent และกลายเป็นปรากฏการณ์ไวรัลบน YouTube, TikTok และ Instagram ด้วยยอดรับชมรวมหลายร้อยล้านครั้ง</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">ผลงานของเขาได้รับการยอมรับจากศิลปินระดับตำนานอย่าง Tom Morello, Paul Stanley และ Steve Vai ขณะที่แบรนด์กีตาร์ระดับโลก Ibanez ยังได้เปิดตัวกีตาร์ Signature รุ่น Ibanez MRC10 ที่ออกแบบมาเพื่อรองรับเทคนิคการเล่นอันเป็นเอกลักษณ์ของเขาโดยเฉพาะ</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">ปี 2026 นี้ กรุงเทพฯ เตรียมพบกับการแสดงสุดพิเศษจากศิลปินผู้เปลี่ยนโฉมวงการ Fingerstyle โลก ในคอนเสิร์ตที่ไม่ใช่แค่การแสดงกีตาร์ แต่คือประสบการณ์ทางดนตรีที่ต้องเห็นด้วยตาตัวเองสักครั้งในชีวิต</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">🕝 วันเปิดวาร์ปซื้อบัตร: วันเสาร์ที่ 6 มิถุนายน 2026 | เวลา 11.00 น.💥</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Ticket Price</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">🎟️ &nbsp;VIP 3,500 / 3,000 / 2,500 / 2,000 THB</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">ซื้อบัตรได้ที่ 👉 Ticketmelon: <a href=\"https://cutt.ly/Jt1ZyN6a\" rel=\"noopener noreferrer\" target=\"_blank\">https://cutt.ly/Jt1ZyN6a</a></span></span></p><p><br></p><p><span style=\"font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: rgb(184, 49, 47);\">เปิดประสบการณ์สุดเอ็กซ์คลูซีฟสำหรับแฟนตัวจริง กับบัตร <strong>Meet &amp; Greet</strong>&nbsp; ที่จะได้ใกล้ชิดกับศิลปินแบบตัวต่อตัว 💖</span></p><p><br></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><em><strong>บัตร Meet &amp; Greet 💥ไม่รวมบัตรเข้าชมงาน💥</strong></em></span></span></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong><em>🌟ราคา: 3,500 บาท (จำกัดเพียง 50 สิทธิ์เท่านั้น)</em></strong></span></span></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong><u>VIP Benefits</u>✨</strong></span></span></span><br><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">📱ถ่ายรูปคู่แบบตัวต่อตัว (1:1)</span></span></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">✍️กิจกรรมแจกลายเซ็น (คนละ 2 ชิ้น)</span></span></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">🖼️โปสเตอร์ที่ระลึก</span></span></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">🍹เครื่องดื่มฟรี 1 แก้ว</span></span></span></p><p><br></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">More Information<br>OVD<br>Line @prart<br>โทร. 08-12345-207</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/fac75bae5d5f11f1967801117567899b/description/a84d9a99604b11f1911101117567899b.jpeg\" class=\"fr-fic fr-dib\" style=\"box-sizing: inherit; cursor: pointer; position: relative; max-width: 100%; margin: 5px auto; display: block; float: none; vertical-align: top; color: rgb(65, 65, 65); font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 653px;\"><br class=\"Apple-interchange-newline\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/fac75bae5d5f11f1967801117567899b/description/3faf2134755411f1943101117567899b.jpeg\" class=\"fr-fic fr-dib\" style=\"box-sizing: inherit; cursor: pointer; position: relative; max-width: 100%; margin: 5px auto; display: block; float: none; vertical-align: top; color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 471px;\"><br class=\"Apple-interchange-newline\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Marcin Patrzałek Live in Bangkok 2026 | Art of Guitar Tour</strong></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>📅 August 15th, 2026</strong></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>📍 MGI Hall (Bravo BKK)</strong></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Marcin Patrzałek (Marcin)</strong> is one of the most extraordinary percussive fingerstyle guitarists of his generation. Renowned for redefining acoustic guitar performance, he combines flamenco techniques, percussive tapping, and modern sound design to create the power and depth of an entire band using just a single guitar.</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Forget everything you thought you knew about guitar playing. Marcin doesn&#39;t simply play the guitar. He transforms it into a drum kit, an orchestra, and an electronic instrument all at once, delivering performances that are intense, thrilling, and mesmerizing from start to finish.</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">The Polish guitarist, composer, and producer first gained national recognition after winning Must Be The Music in 2015. He later captivated global audiences through America&rsquo;s Got Talent, becoming a viral sensation on YouTube, TikTok, and Instagram, where his performances have amassed hundreds of millions of views worldwide.</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">His remarkable talent has earned praise from legendary artists including Tom Morello, Paul Stanley, and Steve Vai. In recognition of his unique playing style, Ibanez launched the Ibanez MRC10 Signature Model, specially designed to accommodate Marcin&rsquo;s groundbreaking techniques.</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">In 2026, Bangkok will have the rare opportunity to witness one of the world&#39;s most innovative guitarists live on stage. This is more than a guitar concert, it&#39;s a musical experience that every music lover should see at least once in a lifetime.</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><br></span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">🕝 Tickets On Sale: Saturday, June 6, 2026 @ 11:00 AM</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Ticket Prices</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">🎟️ VIP 3,500 / 3,000 / 2,500 / 2,000 THB</span></span></p><p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Buy Tickets Here 👉 Ticketmelon: <a href=\"https://cutt.ly/Jt1ZyN6a\" rel=\"noopener noreferrer\" target=\"_blank\">https://cutt.ly/Jt1ZyN6a</a></span></span></p><p><br></p><p><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: rgb(184, 49, 47);\"><em><strong>🌟Meet &amp; Greet Package 💥Concert Ticket NOT Included💥</strong></em></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-size: 18px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><em>Price: 3,500 THB (Limited to 50 pax only)</em></strong></span></span></span></p><p><span style=\"color: rgb(184, 49, 47);\"><span style=\"font-size: 18px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><br></span></span></span></p><p><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: rgb(184, 49, 47);\"><strong><u>VIP Benefits</u></strong>✨<br>📱1:1 Photo Session<br>✍️Autograph Session (Up to 2 items)<br>🖼️Official Poster<br>🍹1 Complimentary Drink</span></p><p><br></p><p><span style=\"font-size: 18px; font-family: Arial, Helvetica, sans-serif;\">More Information<br>OVD<br>Line: @prart<br>Tel: 08-12345-207</span></p>"
+  },
+  {
+    "id": "e3fee605b451",
+    "title": "Slowdive Live in Bangkok 2026",
+    "date": {
+      "startDate": "2026-11-30",
+      "endDate": "2026-11-30",
+      "doorTime": "2026-11-30T11:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "moon-star-studio-company-limited",
+    "venueName": "Moon Star Studio Company Limited",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "indie"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/slammanbookingasia/slowdivebkk26",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/ac7b1386770111f1923401117567899b/poster/80b992e37ac311f1922201117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/slammanbookingasia/slowdivebkk26"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-11-30",
+      "updatedAt": "2026-11-30",
+      "scrapedAt": "2026-07-17T04:04:29.326613",
+      "isInternational": false
+    },
+    "description": "<p>Slamman Booking Asia proudly presents</p><p><br></p><p>✨ Slowdive Live in Bangkok ✨</p><p><br></p><p>เสาหลักแห่ง Shoegaze / Dream Pop ระดับตำนานจากเกาะอังกฤษ กลับมาเยือนประเทศไทยอีกครั้ง พร้อมพาทุกคนดำดิ่งสู่ห้วงแห่งกำแพงเสียงและบรรยากาศที่งดงามราวกับฝัน ให้ซาวด์ของพวกเขาโอบล้อมทุกความรู้สึกของทุกคนไว้ด้วยกัน ในค่ำคืนที่เราจะไม่มีทางลืมมันได้ลง</p><p><br></p><p>🖤with Special Guest: Death of Heather ตัวแทนสาย Shoegaze/Dream-Pop สัญชาติไทยที่ดังไกลถึงระดับเอเชีย</p><p><br></p><p>📅 วันจันทร์ที่ 30&nbsp;พฤศจิกายน 2026</p><p>📍 สถานที่ Moonstar Studio&nbsp;</p><p><br></p><p>🎫 รายละเอียดบัตร</p><p>📌 กดบัตรได้มากสุด 5 ใบ / ออเดอร์</p><p>Early Bird: 2,300 THB (จำกัด 300 ใบ)</p><p>Pre-Sale: 2,600 THB</p><p>At-Door: 3,000 THB</p><p><br></p><p>⏱ เริ่มจำหน่ายบัตรวันที่ 10 กรกฎาคมนี้ เวลา 10.00 น.</p><p>🎟️ จำหน่ายบัตรทาง Ticketmelon</p><p>👉🏻 ticketmelon.com/slammanbookingasia/slowdivebkk26</p><p><br></p><p>#SlowdiveLiveinBangkok</p><p>#SlammanBookingAsia</p><p><br></p><p>&mdash;&mdash;</p><p><br></p><p>Slamman Booking Asia proudly presents</p><p><br></p><p>✨ Slowdive Live in Bangkok ✨</p><p><br></p><p>The UK&rsquo;s legendary shoegaze and dream pop pioneers are making their highly anticipated return to Thailand. Prepare to lose yourself in their signature wall of sound and dreamlike atmosphere, as their music envelops every emotion in a night that will live with you forever.</p><p><br></p><p>🖤With Special Guest: Death of Heather, a solid Thai shoegaze/dream-pop band.&nbsp;</p><p><br></p><p>📅 Date: Monday , November 30, 2026</p><p>📍 Venue: Moonstar Studio</p><p><br></p><p>🎫 Ticket Details:</p><p>&nbsp;Early Bird: 2,300 THB (Limited to 300 tickets)</p><p>&nbsp;Pre-Sale: 2,600 THB</p><p>&nbsp;At Door: 3,000 THB</p><p><br></p><p>⏱ Tickets on sale: 10 July (10.00)</p><p>🎟️ Available at: Ticketmelon</p><p>👉🏻 ticketmelon.com/slammanbookingasia/slowdivebkk26</p><p><br></p><p>#SlowdiveLiveinBangkok</p><p>#SlammanBookingAsia</p>"
+  },
+  {
+    "id": "abbd821180d1",
+    "title": "Jesse Barrera + Albert Posis [The Best Night Of Your Life Tour 2026] - Live in Bangkok",
+    "date": {
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "doorTime": "2026-09-13T13:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "melt-livehouse",
+    "venueName": "Melt Livehouse",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "electronic"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/bbe/jessealbertbkk",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/8ff9692026a611f1911101117567899b/poster/1f4f01312a8511f1943101117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/bbe/jessealbertbkk"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-09-13",
+      "updatedAt": "2026-09-13",
+      "scrapedAt": "2026-07-17T04:04:29.939167",
+      "isInternational": false
+    },
+    "description": "<p data-end=\"251\" data-start=\"115\"><strong data-end=\"187\" data-start=\"115\">Jesse Barrera + Albert Posis &ndash; The Best Night of Your Life Tour 2026</strong><br data-start=\"187\" data-end=\"190\">📍 Melt Livehouse, Bangkok 🇹🇭<br data-start=\"214\" data-end=\"217\">📅 13 September 2026<br data-start=\"236\" data-end=\"239\">🕗 8:00 PM</p><p data-end=\"442\" data-start=\"253\">Acclaimed singer-songwriters <strong data-end=\"299\" data-start=\"282\">Jesse Barrera</strong> and <strong data-end=\"320\" data-start=\"304\">Albert Posis</strong> bring <em data-end=\"366\" data-start=\"327\">The Best Night of Your Life Tour 2026</em> to Bangkok for an unforgettable evening of music, stories, and connection.</p><p data-end=\"819\" data-start=\"444\">A Grammy-winning producer and artist, Jesse Barrera is known for his work with artists like <strong data-end=\"566\" data-start=\"536\">Jeremy Passion, Tori Kelly</strong>, and <strong data-end=\"581\" data-start=\"572\">HONNE</strong>, as well as his own soulful catalog that blends R&amp;B, pop, and heartfelt lyricism. Joining him is fan-favourite <strong data-end=\"709\" data-start=\"693\">Albert Posis</strong>, whose smooth vocals and emotionally rich songs have made him a standout voice in the global indie R&amp;B scene.</p><p data-end=\"1029\" data-start=\"821\">Together, they deliver a live experience that feels intimate, honest, and deeply personal&mdash;featuring beloved tracks, stripped-back moments, and the kind of storytelling that resonates long after the show ends.</p><p data-end=\"1160\" data-start=\"1031\">✨ Don&rsquo;t miss Jesse Barrera and Albert Posis live in Bangkok for a night that lives up to its name&mdash;<em data-end=\"1159\" data-start=\"1130\">the best night of your life</em>.</p><p data-end=\"1160\" data-start=\"1031\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/8ff9692026a611f1911101117567899b/description/6092e1456ba711f1911101117567899b.png\" style=\"width: 1047px;\" class=\"fr-fic fr-dib\"></p>"
+  },
+  {
+    "id": "87b691bf00fd",
+    "title": "TEDx BUV 2026",
+    "date": {
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "doorTime": "2026-11-21T08:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "british-university-vietnam-buv",
+    "venueName": "British University Vietnam (BUV)",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/https_docs_google_com_document_d_1eUvzgedoWwqxiFYjCx2TEeEJTVzlUvNkmkyVKNVH2vk_edit_tab_t_trl5ghwjgkhy/ww_ticketmelon_com_https_docs_google_com_document_d_1eUvzgedoWwqxiFYjCx2TEeEJTVzlUvNkmkyVKNVH2vk_edit_tab_t_trl5ghwjgkhy_",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2975a6276b8411f1967801117567899b/poster/6d3216c96b8611f1923401117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/https_docs_google_com_document_d_1eUvzgedoWwqxiFYjCx2TEeEJTVzlUvNkmkyVKNVH2vk_edit_tab_t_trl5ghwjgkhy/ww_ticketmelon_com_https_docs_google_com_document_d_1eUvzgedoWwqxiFYjCx2TEeEJTVzlUvNkmkyVKNVH2vk_edit_tab_t_trl5ghwjgkhy_"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-11-21",
+      "updatedAt": "2026-11-21",
+      "scrapedAt": "2026-07-17T04:04:30.528625",
+      "isInternational": false
+    },
+    "description": "<p><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2975a6276b8411f1967801117567899b/description/22d09a836b8511f1967801117567899b.jpeg\" style=\"width: 300px;\" class=\"fr-fic fr-dib\"></p>"
+  },
+  {
+    "id": "c9b23e14feb5",
+    "title": "LEGENDS LIVE CONCERT",
+    "date": {
+      "startDate": "2026-08-23",
+      "endDate": "2026-12-31",
+      "doorTime": "2026-08-23T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "lfisher-hotel-bacolod",
+    "venueName": "L'Fisher Hotel, Bacolod",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "festival"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/legendsofnegros/legends-live-concert",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/cb5968195abe11f1922201117567899b/poster/6cf0595b5b6711f1943101117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/legendsofnegros/legends-live-concert"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-23",
+      "updatedAt": "2026-08-23",
+      "scrapedAt": "2026-07-17T04:04:31.752354",
+      "isInternational": false
+    },
+    "description": "<p>LEGENDS LIVE CONCERT is Bacolod&#39;s premier tribute concert and dinner-show experience, bringing the glamour of Las Vegas and Waikiki to the stage.</p><p>Enjoy spectacular live tributes to music legends including Elvis Presley, Queen, Journey, Tom Jones, Cher, Tina Turner, Adele, Bruno Mars, Beyonc&eacute;, Lady Gaga, and more.</p><p>An unforgettable evening of iconic music, live entertainment, and great memories awaits.</p><p>UPCOMING SHOWS <br>www.legendsofnegros.com</p><p>23 AUGUST 2026 &ndash; MIDYEAR GALA EDITION</p><p>18 OCTOBER 2026 &ndash; MASSKARA FESTIVAL SEASON EDITION</p><p>25 DECEMBER 2026 &ndash; CHRISTMAS DAY SHOW</p><p>31 DECEMBER 2026 &ndash; NEW YEAR&#39;S EVE CELEBRATION SHOW</p><p>L&#39;Fisher Hotel, Bacolod City<br>Produced by LEGENDS OF NEGROS Entertainment Production <br>and Lopez Beach Resort, Sipalay City.<br><br>Founder and Executive Producer<br>Emily Lopez Goyne</p>"
+  },
+  {
+    "id": "b71928090e0b",
+    "title": "Lomosonic and Bedroom Audio Live at Bangkok Soundscape",
+    "date": {
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "doorTime": "2026-09-20T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "515-event-hall",
+    "venueName": "515 Event Hall",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/soundscape/lomosonic_bedroomaudio",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/522cca61721211f1915501117567899b/poster/498496d7739c11f1911101117567899b.jpeg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/soundscape/lomosonic_bedroomaudio"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20",
+      "scrapedAt": "2026-07-17T04:04:32.339992",
+      "isInternational": false
+    },
+    "description": "<div data-v-7a63213b=\"\"><div data-v-7a63213b=\"\" data-v-ad23e09c=\"\" dir=\"ltr\"><strong>Lomosonic &amp; Bedroom Audio &ndash; Live at Soundscape&nbsp;</strong></div><div data-v-7a63213b=\"\"><p data-end=\"224\" data-start=\"184\">ค่ำคืนที่คุณจะได้ใกล้ศิลปินมากกว่าที่เคย!</p><p data-end=\"402\" data-start=\"226\">Bangkok Soundscape คือ Curated Intimate Concert Series ที่ออกแบบประสบการณ์การชมคอนเสิร์ตให้ใกล้ชิดทั้งศิลปินและเสียงดนตรี ในบรรยากาศที่อบอุ่น พร้อมผู้ชมที่รักดนตรีเหมือนกัน</p><p data-end=\"535\" data-start=\"404\">ภายในงานพบกับ Guest Artists ก่อนเข้าสู่โชว์ของ Headliner: Lomosonic &amp; Bedroom Audio พร้อมกิจกรรมและเซอร์ไพรส์ตลอดทั้งค่ำคืน<br><br></p><p data-end=\"305\" data-start=\"255\"><strong>ไฮไลต์ภายในงาน</strong><br>🎤 <strong>โชว์เต็มรูปแบบ&nbsp;</strong>จาก Lomosonic &amp; Bedroom Audio <br><strong>✨&nbsp;</strong><strong>Guest Artists</strong> ร่วมเปิดค่ำคืน<br>💜 <strong>คอนเสิร์ตบรรยากาศใกล้ชิด</strong> จำนวนผู้เข้าชมจำกัด ให้คุณได้อยู่ใกล้ศิลปินมากกว่าคอนเสิร์ตทั่วไป<br>🎁 <strong>กิจกรรมและของรางวัล</strong> จากผู้สนับสนุนภายในงาน<br>🥤 <strong>VIP ticket holders</strong>&nbsp; รับฟรี! เครื่องดื่ม (มีแอลกอฮอล์และไม่มีแอลกอฮอล์) พร้อมของว่างตลอดงาน</p></div><p data-end=\"2301\" data-start=\"2115\"><br><strong data-end=\"2128\" data-start=\"2118\">Venue:</strong> 515 Victory Hall, ติด BTS อนุสาวรีย์ทางออก 4 ใจกลางกรุงเทพ เดินทางสะดวก<br data-start=\"2154\" data-end=\"2157\"><strong data-end=\"2169\" data-start=\"2160\">Date:</strong>&nbsp;20 September 2026<br data-start=\"2183\" data-end=\"2186\"><strong data-end=\"2197\" data-start=\"2188\">Time:</strong> 18:00 - 22:00<br data-start=\"2203\" data-end=\"2206\"><strong data-end=\"2226\" data-start=\"2209\">Ticket Types:</strong> Gold / Premium / VIP<br data-start=\"2247\" data-end=\"2250\"><strong data-end=\"2273\" data-start=\"2253\">Standing concert</strong><br data-start=\"2273\" data-end=\"2276\"><strong data-end=\"2301\" data-start=\"2279\">No age restriction</strong></p><p data-end=\"2733\" data-start=\"2658\"><em>🎫 Tickets are limited. Secure yours now before they are gone</em></p></div>"
+  },
+  {
+    "id": "bdb87e5a73c4",
+    "title": "HONNE 10 YEAR ANNIVERSARY TOUR - The First Night",
+    "date": {
+      "startDate": "2026-07-25",
+      "endDate": "2026-07-25",
+      "doorTime": "2026-07-25T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "kbank-siam-pic-ganesha-theatre",
+    "venueName": "KBank Siam Pic-Ganesha Theatre",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/crewave/honne10yearanniversary-firstnight",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/1368d4c21b7e11f1943101117567899b/poster/69eb3c511b7f11f1923401117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/crewave/honne10yearanniversary-firstnight"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-25",
+      "updatedAt": "2026-07-25",
+      "scrapedAt": "2026-07-17T04:04:32.948540",
+      "isInternational": false
+    },
+    "description": "<p>Celebrating a decade of HONNE &mdash; an intimate theatre concert marking 10 years of true feelings. HONNE will be celebrating and performing songs from Warm on a Cold Night and Love Me / Love Me Not in a refined, up-close setting designed to deliver their signature sound at the highest quality. A rare opportunity to connect with the music and the moment, together.</p><p><br></p><p>ร่วมฉลองครบรอบ 10 ปีของ HONNE กับคอนเสิร์ตในโรงละครแบบใกล้ชิดสุดพิเศษ ที่จัดขึ้นเพื่อถ่ายทอด &ldquo;ความรู้สึกที่แท้จริง&rdquo; ตลอดทศวรรษที่ผ่านมา</p><p>HONNE จะขนบทเพลงจากอัลบั้ม Warm on a Cold Night และ Love Me / Love Me Not &nbsp;มาถ่ายทอดในรูปแบบการแสดงที่ถูกสร้างสรรค์อย่างดีในบรรยากาศใกล้ชิด เพื่อให้คุณได้รับฟังเสียงดนตรีอันเป็นเอกลักษณ์ของพวกเขา นี่คือโอกาสสุดพิเศษที่จะได้ดื่มดำกับเสียงเพลง และช่วงเวลาแห่งความทรงจำไปพร้อมกัน</p><p><br></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/1368d4c21b7e11f1943101117567899b/description/2ba147191bcf11f1923401117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/1368d4c21b7e11f1943101117567899b/description/3834270c1bcf11f1915501117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/1368d4c21b7e11f1943101117567899b/description/3d63596b1bcf11f1911101117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/eda77ac1212511f1911101117567899b.png\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/c2c323d92cc411f1990801117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/ff250acf655811f1923401117567899b.jpeg\" class=\"fr-fic fr-dii\"><br><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/172d292f655911f1915501117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><br><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/27f2f6b3655911f1915501117567899b.jpeg\" alt=\"Uploaded image\" class=\"fr-fic fr-dii\"><br></p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/33988b4d655911f1923401117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/4235d7f5655911f1943101117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/4cad3b0c655911f1990801117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/2d51e34e20f811f1911101117567899b/description/803efa0f655911f1967801117567899b.jpeg\" class=\"fr-fic fr-dii\"></p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><img src=\"https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/1368d4c21b7e11f1943101117567899b/description/7f5e0354656111f1911101117567899b.jpeg\" style=\"width: 870px;\" class=\"fr-fic fr-dib\"></p>"
+  },
+  {
+    "id": "2b54444d6cb1",
+    "title": "The Voice of Fra Lippo Lippi Per Sorensen - CEBU",
+    "date": {
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "doorTime": "2026-10-24T12:00:00",
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "waterfront-cebu-city-hotel-casino",
+    "venueName": "Waterfront Cebu City Hotel & Casino",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.ticketmelon.com/liveartists/fllwaterfront",
+    "ticketSource": "ticketmelon",
+    "images": {
+      "poster": "https://tm-prod-event-files-v3.s3.ap-southeast-1.amazonaws.com/83d0e1fa695311f1911101117567899b/poster/3ea2db5869f111f1967801117567899b.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ticketmelon",
+        "id": "https://www.ticketmelon.com/liveartists/fllwaterfront"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "scrapedAt": "2026-07-17T04:04:33.545870",
+      "isInternational": false
+    },
+    "description": ""
   }
 ]
