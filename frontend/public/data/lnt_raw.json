@@ -1,5 +1,53 @@
 [
   {
+    "id": "ae5db4313c74",
+    "title": "FLO - Therapy At The Club TourMore Info",
+    "date": {
+      "startDate": "2026-08-29",
+      "endDate": "2026-08-29",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "hip-hop"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/flo-therapy-at-the-club-tour-bangkok-tickets-edp1687170",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/flo-therapy-at-the-club-tour-bangkok-tickets-edp1687170"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:23.058806",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "7f1ef48d653e",
     "title": "WESTLIFE 25: THE ANNIVERSARY WORLD TOURMore Info",
     "date": {
@@ -40,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:15.692010",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:23.414451",
       "isInternational": false
     },
     "description": ""
@@ -88,9 +136,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:16.100187",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:23.699755",
       "isInternational": false
     },
     "description": ""
@@ -136,9 +184,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:16.347748",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:23.937292",
       "isInternational": false
     },
     "description": ""
@@ -184,57 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:16.752673",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "bbfd4e6280ed",
-    "title": "ASH DA HERO 1ST SOLO LIVE IN BANGKOKMore Info",
-    "date": {
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:17.101122",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:24.267026",
       "isInternational": false
     },
     "description": ""
@@ -280,9 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:17.320683",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:25.047917",
       "isInternational": false
     },
     "description": ""
@@ -328,9 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:17.672137",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:25.425305",
       "isInternational": false
     },
     "description": ""
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:18.032330",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:25.680031",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +424,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:18.419607",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:25.981855",
       "isInternational": false
     },
     "description": ""
@@ -472,9 +472,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:18.641695",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:26.372677",
       "isInternational": false
     },
     "description": ""
@@ -520,9 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:18.886946",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:26.677234",
       "isInternational": false
     },
     "description": ""
@@ -568,9 +568,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:19.253727",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:27.171034",
       "isInternational": false
     },
     "description": ""
@@ -616,9 +616,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:19.462726",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:27.516450",
       "isInternational": false
     },
     "description": ""
@@ -664,9 +664,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-17",
-      "updatedAt": "2026-07-17",
-      "scrapedAt": "2026-07-17T04:10:19.873119",
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-18T04:18:27.797057",
       "isInternational": false
     },
     "description": ""
