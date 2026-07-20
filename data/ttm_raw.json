@@ -42,7 +42,7 @@
     "metadata": {
       "createdAt": "2025-12-06",
       "updatedAt": "2025-12-06",
-      "scrapedAt": "2026-07-19T04:07:01.480835",
+      "scrapedAt": "2026-07-20T04:11:35.759942",
       "isInternational": false
     },
     "description": ""
@@ -90,7 +90,7 @@
     "metadata": {
       "createdAt": "2026-08-09",
       "updatedAt": "2026-08-09",
-      "scrapedAt": "2026-07-19T04:07:05.315691",
+      "scrapedAt": "2026-07-20T04:11:38.450473",
       "isInternational": false
     },
     "description": ""
@@ -138,7 +138,7 @@
     "metadata": {
       "createdAt": "2026-09-06",
       "updatedAt": "2026-09-06",
-      "scrapedAt": "2026-07-19T04:07:09.076134",
+      "scrapedAt": "2026-07-20T04:11:42.280587",
       "isInternational": false
     },
     "description": ""
@@ -186,7 +186,7 @@
     "metadata": {
       "createdAt": "2026-11-10",
       "updatedAt": "2026-11-10",
-      "scrapedAt": "2026-07-19T04:07:12.882928",
+      "scrapedAt": "2026-07-20T04:11:45.115100",
       "isInternational": false
     },
     "description": ""
@@ -234,7 +234,7 @@
     "metadata": {
       "createdAt": "2026-08-28",
       "updatedAt": "2026-08-28",
-      "scrapedAt": "2026-07-19T04:07:15.736110",
+      "scrapedAt": "2026-07-20T04:11:47.993918",
       "isInternational": false
     },
     "description": ""
@@ -282,7 +282,7 @@
     "metadata": {
       "createdAt": "2026-09-22",
       "updatedAt": "2026-09-22",
-      "scrapedAt": "2026-07-19T04:07:18.667761",
+      "scrapedAt": "2026-07-20T04:11:50.800619",
       "isInternational": false
     },
     "description": ""
@@ -330,103 +330,7 @@
     "metadata": {
       "createdAt": "2026-07-28",
       "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-19T04:07:21.301879",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "89ac5dbb8ba2",
-    "title": "Centimillimental WORLD TOUR 2025-2026 &#39;&#39;Cafuné&#39;&#39;",
-    "date": {
-      "startDate": "2026-07-19",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "เซนทรลเวลด-ไลฟ-ชน-8-เซนทรลเวลด",
-    "venueName": "เซ็นทรัลเวิลด์ ไลฟ์, ชั้น 8 เซ็นทรัลเวิลด์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/centimillimental-world-tour-2025-2026-cafune.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0680/6680/centimillimental-world-tour-2025-2026-cafune-69d616844440e-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/centimillimental-world-tour-2025-2026-cafune.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-19",
-      "updatedAt": "2026-07-19",
-      "scrapedAt": "2026-07-19T04:07:24.137450",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "f5e3438d640b",
-    "title": "XG WORLD TOUR : THE CORE IN BANGKOK",
-    "date": {
-      "startDate": "2026-07-19",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "อมแพค-อารนา-เมองทองธาน",
-    "venueName": "อิมแพ็ค อารีน่า เมืองทองธานี",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/xg-world-tour-the-core-in-bangkok.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0690/6690/xg-world-tour-the-core-in-bangkok-69e0a1c2c7d93-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/xg-world-tour-the-core-in-bangkok.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-19",
-      "updatedAt": "2026-07-19",
-      "scrapedAt": "2026-07-19T04:07:28.040240",
+      "scrapedAt": "2026-07-20T04:11:54.643655",
       "isInternational": false
     },
     "description": ""
@@ -474,7 +378,7 @@
     "metadata": {
       "createdAt": "2026-08-10",
       "updatedAt": "2026-08-10",
-      "scrapedAt": "2026-07-19T04:07:30.824424",
+      "scrapedAt": "2026-07-20T04:11:58.575976",
       "isInternational": false
     },
     "description": ""
@@ -522,7 +426,7 @@
     "metadata": {
       "createdAt": "2026-11-24",
       "updatedAt": "2026-11-24",
-      "scrapedAt": "2026-07-19T04:07:33.693951",
+      "scrapedAt": "2026-07-20T04:12:01.952680",
       "isInternational": false
     },
     "description": ""
@@ -570,7 +474,7 @@
     "metadata": {
       "createdAt": "2026-11-09",
       "updatedAt": "2026-11-09",
-      "scrapedAt": "2026-07-19T04:07:36.455314",
+      "scrapedAt": "2026-07-20T04:12:05.854053",
       "isInternational": false
     },
     "description": ""
@@ -618,13 +522,13 @@
     "metadata": {
       "createdAt": "2026-07-26",
       "updatedAt": "2026-07-26",
-      "scrapedAt": "2026-07-19T04:07:39.321448",
+      "scrapedAt": "2026-07-20T04:12:09.684890",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "a84f8ab6a895",
+    "id": "5f60e97bcfd8",
     "title": "PERTH SANTA DEVIL&#39;S KISS CONCERT",
     "date": {
       "startDate": "2026-07-18",
@@ -633,8 +537,8 @@
       "dateStatus": "confirmed",
       "recurrence": null
     },
-    "venueId": "พารากอน-ฮอลล",
-    "venueName": "พารากอน ฮอลล์/",
+    "venueId": "rerun-by-ttm-live",
+    "venueName": "RERUN by TTM LIVE",
     "artists": [],
     "lineup": [],
     "genres": [
@@ -666,7 +570,7 @@
     "metadata": {
       "createdAt": "2026-07-18",
       "updatedAt": "2026-07-18",
-      "scrapedAt": "2026-07-19T04:07:42.153297",
+      "scrapedAt": "2026-07-20T04:12:13.020239",
       "isInternational": false
     },
     "description": ""
@@ -714,7 +618,7 @@
     "metadata": {
       "createdAt": "2026-09-05",
       "updatedAt": "2026-09-05",
-      "scrapedAt": "2026-07-19T04:07:44.993750",
+      "scrapedAt": "2026-07-20T04:12:15.822464",
       "isInternational": false
     },
     "description": ""
@@ -762,7 +666,7 @@
     "metadata": {
       "createdAt": "2026-10-11",
       "updatedAt": "2026-10-11",
-      "scrapedAt": "2026-07-19T04:07:48.760307",
+      "scrapedAt": "2026-07-20T04:12:19.737475",
       "isInternational": false
     },
     "description": ""
@@ -810,7 +714,7 @@
     "metadata": {
       "createdAt": "2026-09-25",
       "updatedAt": "2026-09-25",
-      "scrapedAt": "2026-07-19T04:07:52.511131",
+      "scrapedAt": "2026-07-20T04:12:23.589661",
       "isInternational": false
     },
     "description": ""
@@ -858,7 +762,7 @@
     "metadata": {
       "createdAt": "2026-11-07",
       "updatedAt": "2026-11-07",
-      "scrapedAt": "2026-07-19T04:07:56.335635",
+      "scrapedAt": "2026-07-20T04:12:26.447888",
       "isInternational": false
     },
     "description": ""
@@ -906,7 +810,7 @@
     "metadata": {
       "createdAt": "2026-11-12",
       "updatedAt": "2026-11-12",
-      "scrapedAt": "2026-07-19T04:08:00.108963",
+      "scrapedAt": "2026-07-20T04:12:30.279911",
       "isInternational": false
     },
     "description": ""
@@ -954,7 +858,7 @@
     "metadata": {
       "createdAt": "2026-12-03",
       "updatedAt": "2026-12-03",
-      "scrapedAt": "2026-07-19T04:08:02.960812",
+      "scrapedAt": "2026-07-20T04:12:33.226827",
       "isInternational": false
     },
     "description": ""
@@ -1002,7 +906,7 @@
     "metadata": {
       "createdAt": "2026-07-26",
       "updatedAt": "2026-07-26",
-      "scrapedAt": "2026-07-19T04:08:06.756245",
+      "scrapedAt": "2026-07-20T04:12:36.071087",
       "isInternational": false
     },
     "description": ""
@@ -1050,55 +954,7 @@
     "metadata": {
       "createdAt": "2026-07-28",
       "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-19T04:08:10.648875",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "14bc58d438d4",
-    "title": "คอนเสิร์ตการกุศล The EVER AFTER Stories_Musical Moments III",
-    "date": {
-      "startDate": "2026-07-18",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "โรงละครอกษรา-คง-เพาเวอร",
-    "venueName": "โรงละครอักษรา คิง เพาเวอร์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/the-ever-after-stories-musical-moments-3.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0754/6754/the-ever-after-stories-musical-moments-3-6a1008de44b84-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/the-ever-after-stories-musical-moments-3.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-18",
-      "updatedAt": "2026-07-18",
-      "scrapedAt": "2026-07-19T04:08:15.045570",
+      "scrapedAt": "2026-07-20T04:12:38.952016",
       "isInternational": false
     },
     "description": ""
@@ -1146,7 +1002,7 @@
     "metadata": {
       "createdAt": "2026-10-03",
       "updatedAt": "2026-10-03",
-      "scrapedAt": "2026-07-19T04:08:18.907428",
+      "scrapedAt": "2026-07-20T04:12:42.784460",
       "isInternational": false
     },
     "description": ""
@@ -1194,7 +1050,7 @@
     "metadata": {
       "createdAt": "2026-08-01",
       "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-07-19T04:08:22.662075",
+      "scrapedAt": "2026-07-20T04:12:46.652903",
       "isInternational": false
     },
     "description": ""
@@ -1242,7 +1098,7 @@
     "metadata": {
       "createdAt": "2026-09-26",
       "updatedAt": "2026-09-26",
-      "scrapedAt": "2026-07-19T04:08:26.487783",
+      "scrapedAt": "2026-07-20T04:12:49.532670",
       "isInternational": false
     },
     "description": ""
@@ -1290,7 +1146,7 @@
     "metadata": {
       "createdAt": "2026-08-09",
       "updatedAt": "2026-08-09",
-      "scrapedAt": "2026-07-19T04:08:29.372238",
+      "scrapedAt": "2026-07-20T04:12:52.332694",
       "isInternational": false
     },
     "description": ""
@@ -1338,7 +1194,7 @@
     "metadata": {
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-19T04:08:32.244036",
+      "scrapedAt": "2026-07-20T04:12:55.148596",
       "isInternational": false
     },
     "description": ""
@@ -1386,7 +1242,7 @@
     "metadata": {
       "createdAt": "2026-12-26",
       "updatedAt": "2026-12-26",
-      "scrapedAt": "2026-07-19T04:08:35.028999",
+      "scrapedAt": "2026-07-20T04:12:59.027946",
       "isInternational": false
     },
     "description": ""
@@ -1434,7 +1290,7 @@
     "metadata": {
       "createdAt": "2026-09-26",
       "updatedAt": "2026-09-26",
-      "scrapedAt": "2026-07-19T04:08:38.894423",
+      "scrapedAt": "2026-07-20T04:13:05.198655",
       "isInternational": false
     },
     "description": ""
@@ -1482,7 +1338,7 @@
     "metadata": {
       "createdAt": "2026-08-23",
       "updatedAt": "2026-08-23",
-      "scrapedAt": "2026-07-19T04:08:41.702710",
+      "scrapedAt": "2026-07-20T04:13:09.449233",
       "isInternational": false
     },
     "description": ""
@@ -1530,7 +1386,7 @@
     "metadata": {
       "createdAt": "2026-08-16",
       "updatedAt": "2026-08-16",
-      "scrapedAt": "2026-07-19T04:08:44.560651",
+      "scrapedAt": "2026-07-20T04:13:13.327396",
       "isInternational": false
     },
     "description": ""
@@ -1578,7 +1434,7 @@
     "metadata": {
       "createdAt": "2026-08-29",
       "updatedAt": "2026-08-29",
-      "scrapedAt": "2026-07-19T04:08:48.344387",
+      "scrapedAt": "2026-07-20T04:13:16.114945",
       "isInternational": false
     },
     "description": ""
@@ -1626,7 +1482,7 @@
     "metadata": {
       "createdAt": "2026-08-17",
       "updatedAt": "2026-08-17",
-      "scrapedAt": "2026-07-19T04:08:51.148928",
+      "scrapedAt": "2026-07-20T04:13:20.007508",
       "isInternational": false
     },
     "description": ""
@@ -1674,7 +1530,7 @@
     "metadata": {
       "createdAt": "2026-07-31",
       "updatedAt": "2026-07-31",
-      "scrapedAt": "2026-07-19T04:08:53.951786",
+      "scrapedAt": "2026-07-20T04:13:22.809273",
       "isInternational": false
     },
     "description": ""
@@ -1722,7 +1578,7 @@
     "metadata": {
       "createdAt": "2026-08-14",
       "updatedAt": "2026-08-14",
-      "scrapedAt": "2026-07-19T04:08:57.763893",
+      "scrapedAt": "2026-07-20T04:13:25.653375",
       "isInternational": false
     },
     "description": ""
@@ -1770,7 +1626,7 @@
     "metadata": {
       "createdAt": "2026-08-23",
       "updatedAt": "2026-08-23",
-      "scrapedAt": "2026-07-19T04:09:00.519107",
+      "scrapedAt": "2026-07-20T04:13:29.413978",
       "isInternational": false
     },
     "description": ""
@@ -1818,7 +1674,7 @@
     "metadata": {
       "createdAt": "2026-08-22",
       "updatedAt": "2026-08-22",
-      "scrapedAt": "2026-07-19T04:09:04.375151",
+      "scrapedAt": "2026-07-20T04:13:32.262607",
       "isInternational": false
     },
     "description": ""
@@ -1866,7 +1722,7 @@
     "metadata": {
       "createdAt": "2026-08-30",
       "updatedAt": "2026-08-30",
-      "scrapedAt": "2026-07-19T04:09:08.196493",
+      "scrapedAt": "2026-07-20T04:13:35.168152",
       "isInternational": false
     },
     "description": ""
@@ -1914,7 +1770,7 @@
     "metadata": {
       "createdAt": "2026-08-15",
       "updatedAt": "2026-08-15",
-      "scrapedAt": "2026-07-19T04:09:11.093076",
+      "scrapedAt": "2026-07-20T04:13:39.038820",
       "isInternational": false
     },
     "description": ""
@@ -1962,7 +1818,7 @@
     "metadata": {
       "createdAt": "2026-10-10",
       "updatedAt": "2026-10-10",
-      "scrapedAt": "2026-07-19T04:09:13.950068",
+      "scrapedAt": "2026-07-20T04:13:42.861891",
       "isInternational": false
     },
     "description": ""
@@ -2010,7 +1866,7 @@
     "metadata": {
       "createdAt": "2026-12-19",
       "updatedAt": "2026-12-19",
-      "scrapedAt": "2026-07-19T04:09:16.522660",
+      "scrapedAt": "2026-07-20T04:13:45.638591",
       "isInternational": false
     },
     "description": ""
@@ -2058,55 +1914,7 @@
     "metadata": {
       "createdAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "scrapedAt": "2026-07-19T04:09:20.762839",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "f39c5fd3beeb",
-    "title": "GEMINI ART-VENTURE CONCERT",
-    "date": {
-      "startDate": "2026-09-06",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "bitec-live",
-    "venueName": "BITEC LIVE/",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/gemini-art-venture-concert.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0801/6801/gemini-art-venture-concert-6a51c9ea4b48a-m.jpeg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/gemini-art-venture-concert.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
-      "scrapedAt": "2026-07-19T04:09:24.076337",
+      "scrapedAt": "2026-07-20T04:13:48.799273",
       "isInternational": false
     },
     "description": ""
@@ -2154,7 +1962,7 @@
     "metadata": {
       "createdAt": "2026-10-10",
       "updatedAt": "2026-10-10",
-      "scrapedAt": "2026-07-19T04:09:27.176951",
+      "scrapedAt": "2026-07-20T04:13:52.514715",
       "isInternational": false
     },
     "description": ""
@@ -2202,7 +2010,7 @@
     "metadata": {
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-19T04:09:29.916672",
+      "scrapedAt": "2026-07-20T04:13:55.366369",
       "isInternational": false
     },
     "description": ""
@@ -2235,7 +2043,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/when-oranges-fall-final-ep-fan-meeting.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0809/6809/when-oranges-fall-final-ep-fan-meeting-6a5b643001524-m.jpg",
+      "poster": "/img_poster/prefix_1/0809/6809/when-oranges-fall-final-ep-fan-meeting-6a5c95ea8e792-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2250,7 +2058,7 @@
     "metadata": {
       "createdAt": "2026-07-29",
       "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-19T04:09:33.786742",
+      "scrapedAt": "2026-07-20T04:13:58.190783",
       "isInternational": false
     },
     "description": ""
@@ -2298,7 +2106,7 @@
     "metadata": {
       "createdAt": "2026-09-19",
       "updatedAt": "2026-09-19",
-      "scrapedAt": "2026-07-19T04:09:37.656248",
+      "scrapedAt": "2026-07-20T04:14:02.051676",
       "isInternational": false
     },
     "description": ""
@@ -2346,7 +2154,7 @@
     "metadata": {
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-12",
-      "scrapedAt": "2026-07-19T04:09:41.521811",
+      "scrapedAt": "2026-07-20T04:14:05.931209",
       "isInternational": false
     },
     "description": ""
@@ -2394,7 +2202,7 @@
     "metadata": {
       "createdAt": "2026-08-16",
       "updatedAt": "2026-08-16",
-      "scrapedAt": "2026-07-19T04:09:44.757075",
+      "scrapedAt": "2026-07-20T04:14:08.754578",
       "isInternational": false
     },
     "description": ""
@@ -2442,7 +2250,7 @@
     "metadata": {
       "createdAt": "2026-11-15",
       "updatedAt": "2026-11-15",
-      "scrapedAt": "2026-07-19T04:09:47.518361",
+      "scrapedAt": "2026-07-20T04:14:11.447802",
       "isInternational": false
     },
     "description": ""
@@ -2490,7 +2298,7 @@
     "metadata": {
       "createdAt": "2026-07-31",
       "updatedAt": "2026-07-31",
-      "scrapedAt": "2026-07-19T04:09:50.603143",
+      "scrapedAt": "2026-07-20T04:14:15.294596",
       "isInternational": false
     },
     "description": ""
@@ -2538,7 +2346,7 @@
     "metadata": {
       "createdAt": "2026-08-15",
       "updatedAt": "2026-08-15",
-      "scrapedAt": "2026-07-19T04:09:53.366397",
+      "scrapedAt": "2026-07-20T04:14:18.306997",
       "isInternational": false
     },
     "description": ""
@@ -2586,7 +2394,7 @@
     "metadata": {
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-19T04:09:58.732306",
+      "scrapedAt": "2026-07-20T04:14:23.958595",
       "isInternational": false
     },
     "description": ""
@@ -2634,7 +2442,7 @@
     "metadata": {
       "createdAt": "2026-08-12",
       "updatedAt": "2026-08-12",
-      "scrapedAt": "2026-07-19T04:10:01.614985",
+      "scrapedAt": "2026-07-20T04:14:27.954641",
       "isInternational": false
     },
     "description": ""
