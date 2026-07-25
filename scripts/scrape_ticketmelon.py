@@ -136,7 +136,7 @@ def scrape():
             events.append(ev)
         if (i+1) % 50 == 0:
             print(f"  processed {i+1}/{len(urls)}, found {len(events)} events")
-        time.sleep(0.3)
+        time.sleep(0.1)
     print(f"Ticketmelon: total events {len(events)}")
     return events
 

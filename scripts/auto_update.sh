@@ -18,6 +18,8 @@ pip install requests beautifulsoup4 lxml -q 2>/dev/null || true
 # Run scrapers
 python3 scripts/scrape_lnt.py
 python3 scripts/scrape_allevents.py
+python3 scripts/scrape_ticketmelon.py
+python3 scripts/scrape_ttm.py
 python3 scripts/scrape_eventpop.py
 
 # Merge
