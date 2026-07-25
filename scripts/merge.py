@@ -9,6 +9,14 @@ def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+TTM_BASE = "https://www.thaiticketmajor.com"
+
+def absolute_poster_url(url):
+    """Ensure poster URL is absolute. TTM returns relative paths."""
+    if url and url.startswith("/"):
+        return f"{TTM_BASE}{url}"
+    return url
+
 def merge():
     sources = [
         "/root/bkk-music-guide/data/ticketmelon_raw.json",
@@ -31,9 +39,20 @@ def merge():
         key = dedup_key(ev.get("title"), ev.get("date", {}).get("startDate"), ev.get("venueName"))
         if key in seen:
             existing = seen[key]
+            # If existing is confirmed and new is tbc, skip new
+            if existing["date"]["dateStatus"] == "confirmed" and ev.get("date", {}).get("dateStatus") in ("tbc", None, ""):
+                continue
+            # If existing is tbc and new is confirmed, replace with confirmed
+            if existing["date"]["dateStatus"] in ("tbc", None, "") and ev.get("date", {}).get("dateStatus") == "confirmed":
+                for field in ("title", "venueId", "venueName", "genres", "sceneTags", "pricing", "ticketUrl", "ticketSource", "images", "description"):
+                    if ev.get(field):
+                        existing[field] = ev[field]
+                existing["date"] = ev["date"]
+                existing["sourceIds"].extend(ev.get("sourceIds", []))
+                continue
             existing["sourceIds"].extend(ev.get("sourceIds", []))
             if not existing.get("images", {}).get("poster") and ev.get("images", {}).get("poster"):
-                existing["images"]["poster"] = ev["images"]["poster"]
+                existing["images"]["poster"] = absolute_poster_url(ev["images"]["poster"])
             p1 = existing.get("pricing", {}).get("fromPrice")
             p2 = ev.get("pricing", {}).get("fromPrice")
             if p2 and (p1 is None or p2 < p1):

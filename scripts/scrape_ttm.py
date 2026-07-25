@@ -115,7 +115,7 @@ def scrape():
             "pricing": {"currency": "THB", "fromPrice": price, "toPrice": None, "tiers": [], "notes": ""},
             "ticketUrl": link if link.startswith("http") else f"{BASE_DETAIL}{link}",
             "ticketSource": "ttm",
-            "images": {"poster": poster, "banner": None, "gallery": [], "dominantColor": None},
+            "images": {"poster": poster if poster.startswith("http") else f"{BASE_DETAIL}{poster}", "banner": None, "gallery": [], "dominantColor": None},
             "status": "upcoming",
             "sourceIds": [{"source": "ttm", "id": link}],
             "metadata": {"createdAt": date_iso, "updatedAt": date_iso, "scrapedAt": datetime.now().isoformat(), "isInternational": False},

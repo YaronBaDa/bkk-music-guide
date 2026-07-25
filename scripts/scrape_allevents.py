@@ -77,14 +77,18 @@ def scrape_allevents():
                     key = dedup_key(title, start_date, venue_name)
                     event_id = event_id_from_key(key)
 
+                    if not start_date:
+                        # Skip events where date can't be parsed instead of defaulting to today
+                        continue
+
                     events.append({
                         "id": event_id,
                         "title": title,
                         "date": {
-                            "startDate": start_date or datetime.now().strftime("%Y-%m-%d"),
+                            "startDate": start_date,
                             "endDate": start_date,
                             "doorTime": None,
-                            "dateStatus": "confirmed" if start_date else "tbc",
+                            "dateStatus": "confirmed",
                             "recurrence": None,
                         },
                         "venueId": None,

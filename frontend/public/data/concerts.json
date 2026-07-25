@@ -26,7 +26,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/thailand-philharmonic-orchestra-2025-2026.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0505/6505/thailand-philharmonic-orchestra-2025-2026-690482aba31bd-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0505/6505/thailand-philharmonic-orchestra-2025-2026-690482aba31bd-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -120,7 +120,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/perth-santa-devils-kiss-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0711/6711/perth-santa-devils-kiss-concert-6a0d8ee56c373-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0711/6711/perth-santa-devils-kiss-concert-6a0d8ee56c373-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -187,57 +187,6 @@
       "createdAt": "2026-07-23",
       "updatedAt": "2026-07-23",
       "scrapedAt": "2026-07-23T04:09:03.965888",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "11870aa30ade",
-    "title": "The Weeknd After Hours Til Dawn Tour",
-    "date": {
-      "startDate": "2026-07-23",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": "ven-9ea18f9918",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/the-weeknd-after-hours-til-dawn-tour/200030286820858",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/the-weeknd-after-hours-til-dawn-tour/200030286820858"
-      },
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/the-weeknd-after-hours-til-dawn-tour/200030286820858"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-23",
-      "updatedAt": "2026-07-23",
-      "scrapedAt": "2026-07-23T04:09:03.966648",
       "isInternational": false
     },
     "description": ""
@@ -438,57 +387,6 @@
       "createdAt": "2026-07-23",
       "updatedAt": "2026-07-23",
       "scrapedAt": "2026-07-23T04:09:03.969095",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "e9b4640213f2",
-    "title": "2026 P1Harmony ASIA STAGE [BE UNIQUE] IN BANGKOK",
-    "date": {
-      "startDate": "2026-07-23",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "tbc",
-      "recurrence": null
-    },
-    "venueId": "ven-f62609ccb6",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://allevents.in/bangkok/2026-p1harmony-asia-stage-be-unique-in-bangkok/200030271858442",
-    "ticketSource": "allevents",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/2026-p1harmony-asia-stage-be-unique-in-bangkok/200030271858442"
-      },
-      {
-        "source": "allevents",
-        "id": "https://allevents.in/bangkok/2026-p1harmony-asia-stage-be-unique-in-bangkok/200030271858442"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-23",
-      "updatedAt": "2026-07-23",
-      "scrapedAt": "2026-07-23T04:09:03.969714",
       "isInternational": false
     },
     "description": ""
@@ -1327,7 +1225,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/from-west-to-east-by-moscow-saxophone-quartet.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0706/6706/from-west-to-east-by-moscow-saxophone-quartet-69f3206c214f6-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0706/6706/from-west-to-east-by-moscow-saxophone-quartet-69f3206c214f6-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1374,7 +1272,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/feel-fan-fun-party-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0750/6750/feel-fan-fun-party-concert-6a3a8b2e731e2-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0750/6750/feel-fan-fun-party-concert-6a3a8b2e731e2-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1421,7 +1319,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/natori-one-man-live-tour-koshin-march-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0678/6678/natori-one-man-live-tour-koshin-march-in-bangkok-69d4e3ab4d493-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0678/6678/natori-one-man-live-tour-koshin-march-in-bangkok-69d4e3ab4d493-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1468,7 +1366,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/joss-gawin-heat-and-beat-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0751/6751/joss-gawin-heat-and-beat-concert-6a3ce082b8ad7-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0751/6751/joss-gawin-heat-and-beat-concert-6a3ce082b8ad7-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1515,7 +1413,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/when-oranges-fall-final-ep-fan-meeting.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0809/6809/when-oranges-fall-final-ep-fan-meeting-6a605905abc19-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0809/6809/when-oranges-fall-final-ep-fan-meeting-6a605905abc19-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1656,7 +1554,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/rbso-2026-royal-benevolence.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0781/6781/rbso-2026-royal-benevolence-6a462046cb904-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0781/6781/rbso-2026-royal-benevolence-6a462046cb904-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1703,7 +1601,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/a-dog-and-a-plane-final-ep-fan-meeting.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0817/6817/a-dog-and-a-plane-final-ep-fan-meeting-6a59c5ffc2001-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0817/6817/a-dog-and-a-plane-final-ep-fan-meeting-6a59c5ffc2001-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1797,7 +1695,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/f-forever-1st-world-tour-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0757/6757/f-forever-1st-world-tour-in-bangkok-6a228c53e62c2-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0757/6757/f-forever-1st-world-tour-in-bangkok-6a228c53e62c2-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2032,7 +1930,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/no1-supernova.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0584/6584/no1-supernova-6a03fd36baebf-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0584/6584/no1-supernova-6a03fd36baebf-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2079,7 +1977,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/junior-mark-sunnymoon-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0761/6761/junior-mark-sunnymoon-concert-6a3ce0b084316-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0761/6761/junior-mark-sunnymoon-concert-6a3ce0b084316-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2126,7 +2024,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/david-byrne-who-is-the-sky-tour-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0691/6691/david-byrne-who-is-the-sky-tour-in-bangkok-69e5de35b908d-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0691/6691/david-byrne-who-is-the-sky-tour-in-bangkok-69e5de35b908d-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2220,7 +2118,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/rbso-2026-a-tribute-to-the-loyal-legacy.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0828/6828/rbso-2026-a-tribute-to-the-loyal-legacy-6a573a27a810d-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0828/6828/rbso-2026-a-tribute-to-the-loyal-legacy-6a573a27a810d-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2314,7 +2212,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/nantida-soul-night-restage.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0782/6782/nantida-soul-night-restage-6a48e49e2fc64-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0782/6782/nantida-soul-night-restage-6a48e49e2fc64-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2361,7 +2259,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/fandom-fest.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0792/6792/fandom-fest-6a3b7f3f88d44-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0792/6792/fandom-fest-6a3b7f3f88d44-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2408,7 +2306,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/so-lucky-to-meet-you-bangkok-fan-meeting.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0819/6819/so-lucky-to-meet-you-bangkok-fan-meeting-6a5098d5ba4c7-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0819/6819/so-lucky-to-meet-you-bangkok-fan-meeting-6a5098d5ba4c7-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2455,7 +2353,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/2026-byeonwooseok-asia-fanmeeting-tour-the-secret-library-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0778/6778/2026-byeonwooseok-asia-fanmeeting-tour-the-secret-library-in-bangkok-6a4f55095d371-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0778/6778/2026-byeonwooseok-asia-fanmeeting-tour-the-secret-library-in-bangkok-6a4f55095d371-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2502,7 +2400,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/sunnee-home-coming-bangkok-music-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0813/6813/sunnee-home-coming-bangkok-music-concert-6a4f376c1cea0-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0813/6813/sunnee-home-coming-bangkok-music-concert-6a4f376c1cea0-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2549,7 +2447,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/DramaQueens-TheMusical.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0780/6780/DramaQueens-TheMusical-6a439b5e8fa78-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0780/6780/DramaQueens-TheMusical-6a439b5e8fa78-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2737,7 +2635,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/2026-p1harmony-asia-stage-be-unique-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0788/6788/2026-p1harmony-asia-stage-be-unique-in-bangkok-6a3b9c9be5fd3-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0788/6788/2026-p1harmony-asia-stage-be-unique-in-bangkok-6a3b9c9be5fd3-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2784,7 +2682,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/pond-phuwin-space-soul-dyssey-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0777/6777/pond-phuwin-space-soul-dyssey-concert-6a45fad01d8d9-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0777/6777/pond-phuwin-space-soul-dyssey-concert-6a45fad01d8d9-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2831,7 +2729,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/sound-of-the-60s-radio-on-stage-by-i-s-song-hits.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0783/6783/sound-of-the-60s-radio-on-stage-by-i-s-song-hits-6a58ad519df5c-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0783/6783/sound-of-the-60s-radio-on-stage-by-i-s-song-hits-6a58ad519df5c-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2878,7 +2776,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/kodaline-farewell-tour-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0651/6651/kodaline-farewell-tour-in-bangkok-69d48ff7824ef-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0651/6651/kodaline-farewell-tour-in-bangkok-69d48ff7824ef-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -2972,7 +2870,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/b-day-sbz-uncut-live-reel-01.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0779/6779/b-day-sbz-uncut-live-reel-01-6a47d9654be2d-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0779/6779/b-day-sbz-uncut-live-reel-01-6a47d9654be2d-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3066,7 +2964,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/sotus-teniversary-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0790/6790/sotus-teniversary-concert-6a5e1e8ab29ec-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0790/6790/sotus-teniversary-concert-6a5e1e8ab29ec-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3207,7 +3105,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/idol1st-kenty-asia-tour-2026-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0714/6714/idol1st-kenty-asia-tour-2026-in-bangkok-69fbea3babf07-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0714/6714/idol1st-kenty-asia-tour-2026-in-bangkok-69fbea3babf07-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3254,7 +3152,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/farewell-concert-asanee-wasan.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0638/6638/farewell-concert-asanee-wasan-69b7942a754ff-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0638/6638/farewell-concert-asanee-wasan-69b7942a754ff-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3301,7 +3199,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/gemini-art-venture-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0801/6801/gemini-art-venture-concert-6a6057cb0e125-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0801/6801/gemini-art-venture-concert-6a6057cb0e125-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3348,7 +3246,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/4-elements-infinite-bonds-fan-meeting.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0812/6812/4-elements-infinite-bonds-fan-meeting-6a4f1bffc7049-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0812/6812/4-elements-infinite-bonds-fan-meeting-6a4f1bffc7049-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3395,7 +3293,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/msig-fan-fest-concert-2026.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0811/6811/msig-fan-fest-concert-2026-6a4b6f4264ec2-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0811/6811/msig-fan-fest-concert-2026-6a4b6f4264ec2-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3536,7 +3434,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/90s-2000s-piano-and-i-concert-grammy-songbook.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0766/6766/90s-2000s-piano-and-i-concert-grammy-songbook-6a40df0740c1f-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0766/6766/90s-2000s-piano-and-i-concert-grammy-songbook-6a40df0740c1f-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3583,7 +3481,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/sky-nani-s-to-the-n-fancon.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0807/6807/sky-nani-s-to-the-n-fancon-6a6057e7a09d2-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0807/6807/sky-nani-s-to-the-n-fancon-6a6057e7a09d2-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3630,7 +3528,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/chatree-in-concert-a-world-of-lllusion.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0824/6824/chatree-in-concert-a-world-of-lllusion-6a54c73a1bbaf-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0824/6824/chatree-in-concert-a-world-of-lllusion-6a54c73a1bbaf-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3677,7 +3575,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/Post-Malone-Presents-The-BIG-ASS-Stadium-World-Tour.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0663/6663/Post-Malone-Presents-The-BIG-ASS-Stadium-World-Tour-69ce0597168a5-m.jpg",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0663/6663/Post-Malone-Presents-The-BIG-ASS-Stadium-World-Tour-69ce0597168a5-m.jpg",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3771,7 +3669,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/be-first-world-showcase.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0730/6730/be-first-world-showcase-6a069e12c4a00-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0730/6730/be-first-world-showcase-6a069e12c4a00-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3818,7 +3716,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/rookie-divos-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0759/6759/rookie-divos-concert-6a3cdff46529b-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0759/6759/rookie-divos-concert-6a3cdff46529b-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3865,7 +3763,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/ryosuke-yamada-asia-tour-2026-red-y-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0776/6776/ryosuke-yamada-asia-tour-2026-red-y-in-bangkok-6a2baf62f2dd9-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0776/6776/ryosuke-yamada-asia-tour-2026-red-y-in-bangkok-6a2baf62f2dd9-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3912,7 +3810,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/milli-jaa-ehh-asia-tour-2026.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0756/6756/milli-jaa-ehh-asia-tour-2026-6a38bc28e5da9-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0756/6756/milli-jaa-ehh-asia-tour-2026-6a38bc28e5da9-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -3959,7 +3857,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/remaster-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0793/6793/remaster-concert-6a45fbd858cf0-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0793/6793/remaster-concert-6a45fbd858cf0-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4006,7 +3904,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/2026-plave-world-tour-keep-it-manic-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0803/6803/2026-plave-world-tour-keep-it-manic-in-bangkok-6a4f380130956-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0803/6803/2026-plave-world-tour-keep-it-manic-in-bangkok-6a4f380130956-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4053,7 +3951,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/the-weeknd-after-hours--til-dawn-tour.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0716/6716/the-weeknd-after-hours--til-dawn-tour-6a2267a323813-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0716/6716/the-weeknd-after-hours--til-dawn-tour-6a2267a323813-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4100,7 +3998,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/andru-donalds-live-in-bangkok-2026.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0800/6800/andru-donalds-live-in-bangkok-6a42312864da6-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0800/6800/andru-donalds-live-in-bangkok-6a42312864da6-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4241,7 +4139,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/2026-27-babymonster-world-tour-choom-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0737/6737/2026-27-babymonster-world-tour-choom-in-bangkok-6a041a7948eed-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0737/6737/2026-27-babymonster-world-tour-choom-in-bangkok-6a041a7948eed-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4335,7 +4233,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/5SOS-EVERYONES-A-STAR-WORLD-TOUR.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0698/6698/5SOS-EVERYONES-A-STAR-WORLD-TOUR-69eb1ce161804-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0698/6698/5SOS-EVERYONES-A-STAR-WORLD-TOUR-69eb1ce161804-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4429,7 +4327,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/lany-soft-world-tour-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0642/6642/lany-soft-world-tour-bangkok-69b785fa4e643-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0642/6642/lany-soft-world-tour-bangkok-69b785fa4e643-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4523,7 +4421,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/wave-to-earth-the-pieces-tour.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0742/6742/wave-to-earth-the-pieces-tour-6a44940fbcf3f-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0742/6742/wave-to-earth-the-pieces-tour-6a44940fbcf3f-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4570,7 +4468,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/big-ass-big-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0815/6815/thailife-presents-big-ass-big-concert-before-die-6a4f21fa63478-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0815/6815/thailife-presents-big-ass-big-concert-before-die-6a4f21fa63478-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4664,7 +4562,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/joji-solaris-tour-2026.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0693/6693/joji-solaris-tour-2026-69e7091d3f1a7-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0693/6693/joji-solaris-tour-2026-69e7091d3f1a7-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4805,7 +4703,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/bts-world-tour-arirang-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0749/6749/bts-world-tour-arirang-in-bangkok-6a0fd73ca03a5-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0749/6749/bts-world-tour-arirang-in-bangkok-6a0fd73ca03a5-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4852,7 +4750,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/dreaming-tomohisa-yamashita-tour-2026-live-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0794/6794/dreaming-tomohisa-yamashita-tour-2026-live-in-bangkok-6a3cb02a223c3-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0794/6794/dreaming-tomohisa-yamashita-tour-2026-live-in-bangkok-6a3cb02a223c3-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -4899,7 +4797,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/Fujii-Kaze-Prema-World-Tour.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0768/6768/Fujii-Kaze-Prema-World-Tour-6a2644afde66f-m.png",
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0768/6768/Fujii-Kaze-Prema-World-Tour-6a2644afde66f-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
