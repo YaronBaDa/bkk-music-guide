@@ -42,7 +42,7 @@
     "metadata": {
       "createdAt": "2025-12-06",
       "updatedAt": "2025-12-06",
-      "scrapedAt": "2026-07-23T04:06:16.658532",
+      "scrapedAt": "2026-07-03T05:01:55.113738",
       "isInternational": false
     },
     "description": ""
@@ -90,7 +90,55 @@
     "metadata": {
       "createdAt": "2026-08-09",
       "updatedAt": "2026-08-09",
-      "scrapedAt": "2026-07-23T04:06:19.519268",
+      "scrapedAt": "2026-07-03T05:01:57.967990",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "090ff5f712b0",
+    "title": "ITZY 3RD WORLD TOUR < TUNNEL VISION > in BANGKOK",
+    "date": {
+      "startDate": "2026-07-04",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "อมแพค-อารนา-เมองทองธาน",
+    "venueName": "อิมแพ็ค อารีน่า เมืองทองธานี",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/itzy-3rd-world-tour-tunnel-vision-bangkok.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0632/6632/itzy-3rd-world-tour-tunnel-vision-in-bangkok-69a94da4b153c-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/itzy-3rd-world-tour-tunnel-vision-bangkok.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-04",
+      "updatedAt": "2026-07-04",
+      "scrapedAt": "2026-07-03T05:02:00.787908",
       "isInternational": false
     },
     "description": ""
@@ -138,7 +186,7 @@
     "metadata": {
       "createdAt": "2026-09-06",
       "updatedAt": "2026-09-06",
-      "scrapedAt": "2026-07-23T04:06:22.211725",
+      "scrapedAt": "2026-07-03T05:02:04.598370",
       "isInternational": false
     },
     "description": ""
@@ -186,7 +234,7 @@
     "metadata": {
       "createdAt": "2026-11-10",
       "updatedAt": "2026-11-10",
-      "scrapedAt": "2026-07-23T04:06:24.991429",
+      "scrapedAt": "2026-07-03T05:02:07.430063",
       "isInternational": false
     },
     "description": ""
@@ -234,7 +282,7 @@
     "metadata": {
       "createdAt": "2026-08-28",
       "updatedAt": "2026-08-28",
-      "scrapedAt": "2026-07-23T04:06:28.887720",
+      "scrapedAt": "2026-07-03T05:02:11.147249",
       "isInternational": false
     },
     "description": ""
@@ -282,7 +330,103 @@
     "metadata": {
       "createdAt": "2026-09-22",
       "updatedAt": "2026-09-22",
-      "scrapedAt": "2026-07-23T04:06:31.736045",
+      "scrapedAt": "2026-07-03T05:02:14.527868",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "ef32f08fb65f",
+    "title": "มาม่า Presents PIANO & i The Legends Party 2026 Concert",
+    "date": {
+      "startDate": "2026-07-11",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "bitec-live",
+    "venueName": "BITEC LIVE",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/mama-presents-piano-and-i-the-legends-party-2026-concert.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0671/6671/mama-presents-piano-and-i-the-legends-party-2026-concert-6a3b52bef37db-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/mama-presents-piano-and-i-the-legends-party-2026-concert.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-11",
+      "updatedAt": "2026-07-11",
+      "scrapedAt": "2026-07-03T05:02:17.315759",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "9be020e83b09",
+    "title": "Blush Blossom Fan Fest 2026 : Midnight Bloom",
+    "date": {
+      "startDate": "2026-06-14",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "rerun-by-ttm-live",
+    "venueName": "RERUN by TTM LIVE",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/blush-blossom-fan-fest-2026-midnight-bloom.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0673/6673/blush-blossom-fan-fest-2026-midnight-bloom-6a0d2eaccbc51-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/blush-blossom-fan-fest-2026-midnight-bloom.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-06-14",
+      "updatedAt": "2026-06-14",
+      "scrapedAt": "2026-07-03T05:02:20.163268",
       "isInternational": false
     },
     "description": ""
@@ -330,7 +474,103 @@
     "metadata": {
       "createdAt": "2026-07-28",
       "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-23T04:06:34.456796",
+      "scrapedAt": "2026-07-03T05:02:22.836282",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "89ac5dbb8ba2",
+    "title": "Centimillimental WORLD TOUR 2025-2026 &#39;&#39;Cafuné&#39;&#39;",
+    "date": {
+      "startDate": "2026-07-19",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "เซนทรลเวลด-ไลฟ-ชน-8-เซนทรลเวลด",
+    "venueName": "เซ็นทรัลเวิลด์ ไลฟ์, ชั้น 8 เซ็นทรัลเวิลด์",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/centimillimental-world-tour-2025-2026-cafune.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0680/6680/centimillimental-world-tour-2025-2026-cafune-69d616844440e-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/centimillimental-world-tour-2025-2026-cafune.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-19",
+      "updatedAt": "2026-07-19",
+      "scrapedAt": "2026-07-03T05:02:27.215356",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "f5e3438d640b",
+    "title": "XG WORLD TOUR : THE CORE IN BANGKOK",
+    "date": {
+      "startDate": "2026-07-19",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "อมแพค-อารนา-เมองทองธาน",
+    "venueName": "อิมแพ็ค อารีน่า เมืองทองธานี",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/xg-world-tour-the-core-in-bangkok.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0690/6690/xg-world-tour-the-core-in-bangkok-69e0a1c2c7d93-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/xg-world-tour-the-core-in-bangkok.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-19",
+      "updatedAt": "2026-07-19",
+      "scrapedAt": "2026-07-03T05:02:30.100356",
       "isInternational": false
     },
     "description": ""
@@ -378,7 +618,7 @@
     "metadata": {
       "createdAt": "2026-08-10",
       "updatedAt": "2026-08-10",
-      "scrapedAt": "2026-07-23T04:06:38.471667",
+      "scrapedAt": "2026-07-03T05:02:32.911455",
       "isInternational": false
     },
     "description": ""
@@ -426,7 +666,7 @@
     "metadata": {
       "createdAt": "2026-11-24",
       "updatedAt": "2026-11-24",
-      "scrapedAt": "2026-07-23T04:06:41.303400",
+      "scrapedAt": "2026-07-03T05:02:36.738853",
       "isInternational": false
     },
     "description": ""
@@ -474,7 +714,103 @@
     "metadata": {
       "createdAt": "2026-11-09",
       "updatedAt": "2026-11-09",
-      "scrapedAt": "2026-07-23T04:06:45.126842",
+      "scrapedAt": "2026-07-03T05:02:39.555086",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "49091793c29b",
+    "title": "BADBADNOTGOOD 2026 LIVE IN BANGKOK",
+    "date": {
+      "startDate": "2026-07-16",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "volume-livehouse-ชน-b-the-street-ratchada",
+    "venueName": "Volume Livehouse ชั้น B, The Street Ratchada",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/badbadnotgood-2026-live-in-bangkok.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0701/6701/badbadnotgood-2026-live-in-bangkok-6a4363a048886-m.jpg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/badbadnotgood-2026-live-in-bangkok.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-16",
+      "updatedAt": "2026-07-16",
+      "scrapedAt": "2026-07-03T05:02:42.336168",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "3135d13b5362",
+    "title": "LOVE TO LOVE : LISA ONO Live in Bangkok",
+    "date": {
+      "startDate": "2026-07-05",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "siampic-hall-ชน-7-สยามสแควรวน",
+    "venueName": "SiamPic Hall ชั้น 7, สยามสแควร์วัน",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/love-to-love-lisa-ono-live-in-bangkok.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0703/6703/love-to-love-lisa-ono-live-in-bangkok-69f1881e84a25-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/love-to-love-lisa-ono-live-in-bangkok.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-05",
+      "updatedAt": "2026-07-05",
+      "scrapedAt": "2026-07-03T05:02:46.145684",
       "isInternational": false
     },
     "description": ""
@@ -522,13 +858,13 @@
     "metadata": {
       "createdAt": "2026-07-26",
       "updatedAt": "2026-07-26",
-      "scrapedAt": "2026-07-23T04:06:47.996541",
+      "scrapedAt": "2026-07-03T05:02:48.814628",
       "isInternational": false
     },
     "description": ""
   },
   {
-    "id": "5f60e97bcfd8",
+    "id": "a84f8ab6a895",
     "title": "PERTH SANTA DEVIL&#39;S KISS CONCERT",
     "date": {
       "startDate": "2026-07-18",
@@ -537,8 +873,8 @@
       "dateStatus": "confirmed",
       "recurrence": null
     },
-    "venueId": "rerun-by-ttm-live",
-    "venueName": "RERUN by TTM LIVE",
+    "venueId": "พารากอน-ฮอลล",
+    "venueName": "พารากอน ฮอลล์/",
     "artists": [],
     "lineup": [],
     "genres": [
@@ -570,7 +906,7 @@
     "metadata": {
       "createdAt": "2026-07-18",
       "updatedAt": "2026-07-18",
-      "scrapedAt": "2026-07-23T04:06:50.857567",
+      "scrapedAt": "2026-07-03T05:02:51.650740",
       "isInternational": false
     },
     "description": ""
@@ -618,7 +954,7 @@
     "metadata": {
       "createdAt": "2026-09-05",
       "updatedAt": "2026-09-05",
-      "scrapedAt": "2026-07-23T04:06:53.667696",
+      "scrapedAt": "2026-07-03T05:02:54.467005",
       "isInternational": false
     },
     "description": ""
@@ -666,7 +1002,7 @@
     "metadata": {
       "createdAt": "2026-10-11",
       "updatedAt": "2026-10-11",
-      "scrapedAt": "2026-07-23T04:06:56.538087",
+      "scrapedAt": "2026-07-03T05:02:57.277518",
       "isInternational": false
     },
     "description": ""
@@ -714,7 +1050,7 @@
     "metadata": {
       "createdAt": "2026-09-25",
       "updatedAt": "2026-09-25",
-      "scrapedAt": "2026-07-23T04:07:00.298164",
+      "scrapedAt": "2026-07-03T05:03:02.099974",
       "isInternational": false
     },
     "description": ""
@@ -762,7 +1098,7 @@
     "metadata": {
       "createdAt": "2026-11-07",
       "updatedAt": "2026-11-07",
-      "scrapedAt": "2026-07-23T04:07:04.149457",
+      "scrapedAt": "2026-07-03T05:03:04.895279",
       "isInternational": false
     },
     "description": ""
@@ -810,7 +1146,103 @@
     "metadata": {
       "createdAt": "2026-11-12",
       "updatedAt": "2026-11-12",
-      "scrapedAt": "2026-07-23T04:07:06.952105",
+      "scrapedAt": "2026-07-03T05:03:08.641942",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "182546b971b2",
+    "title": "RBSO 2026 : Melody for the Queen",
+    "date": {
+      "startDate": "2026-07-03",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "ศนยวฒนธรรมแหงประเทศไทย-หอประชมใหญ",
+    "venueName": "ศูนย์วัฒนธรรมแห่งประเทศไทย หอประชุมใหญ่",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/rbso-2026-melody-for-the-queen.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0744/6744/rbso-2026-melody-for-the-queen-6a0c09f416d02-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/rbso-2026-melody-for-the-queen.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-03",
+      "updatedAt": "2026-07-03",
+      "scrapedAt": "2026-07-03T05:03:11.314947",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "dca937e7060b",
+    "title": "Maleewan Love in Rock Concert &#39;&#39;เพลงรัก พลังร็อก&#39;&#39;",
+    "date": {
+      "startDate": "2026-07-18",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "ยโอบ-ไลฟ-เอมสเฟยร",
+    "venueName": "ยูโอบี ไลฟ์, เอ็มสเฟียร์",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "rock"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/maleewan-love-in-rock-concert.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0745/6745/maleewan-love-in-rock-concert-6a0c1926d97a7-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/maleewan-love-in-rock-concert.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-03T05:03:14.147681",
       "isInternational": false
     },
     "description": ""
@@ -858,7 +1290,7 @@
     "metadata": {
       "createdAt": "2026-12-03",
       "updatedAt": "2026-12-03",
-      "scrapedAt": "2026-07-23T04:07:10.779647",
+      "scrapedAt": "2026-07-03T05:03:18.409314",
       "isInternational": false
     },
     "description": ""
@@ -906,7 +1338,7 @@
     "metadata": {
       "createdAt": "2026-07-26",
       "updatedAt": "2026-07-26",
-      "scrapedAt": "2026-07-23T04:07:13.576914",
+      "scrapedAt": "2026-07-03T05:03:21.256661",
       "isInternational": false
     },
     "description": ""
@@ -954,7 +1386,151 @@
     "metadata": {
       "createdAt": "2026-07-28",
       "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-23T04:07:17.440105",
+      "scrapedAt": "2026-07-03T05:03:24.112524",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "c6bb07efa6bc",
+    "title": "2026 JAY B tape: roots bangkok",
+    "date": {
+      "startDate": "2026-07-11",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "อมแพค-อารนา",
+    "venueName": "อิมแพ็ค อารีน่า",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/2026-jay-b-tape-roots-bangkok.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0752/6752/2026-jay-b-tape-roots-bangkok-6a0ec560b73fb-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/2026-jay-b-tape-roots-bangkok.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-11",
+      "updatedAt": "2026-07-11",
+      "scrapedAt": "2026-07-03T05:03:26.872839",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "14bc58d438d4",
+    "title": "คอนเสิร์ตการกุศล The EVER AFTER Stories_Musical Moments III",
+    "date": {
+      "startDate": "2026-07-18",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "โรงละครอกษรา-คง-เพาเวอร",
+    "venueName": "โรงละครอักษรา คิง เพาเวอร์",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/the-ever-after-stories-musical-moments-3.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0754/6754/the-ever-after-stories-musical-moments-3-6a1008de44b84-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/the-ever-after-stories-musical-moments-3.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-18",
+      "updatedAt": "2026-07-18",
+      "scrapedAt": "2026-07-03T05:03:29.658439",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "aabb715b9525",
+    "title": "iKON FOUREVER WORLD TOUR IN THAILAND",
+    "date": {
+      "startDate": "2026-07-04",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "ธนเดอรโดม-เมองทองธาน",
+    "venueName": "ธันเดอร์โดม เมืองทองธานี",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/ikon-fourever-world-tour-in-thailand.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0755/6755/ikon-fourever-world-tour-in-thailand-6a1561367db81-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/ikon-fourever-world-tour-in-thailand.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-04",
+      "updatedAt": "2026-07-04",
+      "scrapedAt": "2026-07-03T05:03:32.510529",
       "isInternational": false
     },
     "description": ""
@@ -1002,7 +1578,7 @@
     "metadata": {
       "createdAt": "2026-10-03",
       "updatedAt": "2026-10-03",
-      "scrapedAt": "2026-07-23T04:07:20.295003",
+      "scrapedAt": "2026-07-03T05:03:36.365256",
       "isInternational": false
     },
     "description": ""
@@ -1050,7 +1626,55 @@
     "metadata": {
       "createdAt": "2026-08-01",
       "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-07-23T04:07:23.189905",
+      "scrapedAt": "2026-07-03T05:03:39.669955",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "c2ff81adf7f6",
+    "title": "RBSO 2026 : Royal Harmony",
+    "date": {
+      "startDate": "2026-07-12",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "ศนยวฒนธรรมแหงประเทศไทย-หอประชมใหญ",
+    "venueName": "ศูนย์วัฒนธรรมแห่งประเทศไทย หอประชุมใหญ่",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/rbso-2026-royal-harmony.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0758/6758/rbso-2026-royal-harmony-6a1e5bd978bd9-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/rbso-2026-royal-harmony.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-12",
+      "updatedAt": "2026-07-12",
+      "scrapedAt": "2026-07-03T05:03:42.441002",
       "isInternational": false
     },
     "description": ""
@@ -1098,7 +1722,7 @@
     "metadata": {
       "createdAt": "2026-09-26",
       "updatedAt": "2026-09-26",
-      "scrapedAt": "2026-07-23T04:07:26.073889",
+      "scrapedAt": "2026-07-03T05:03:45.182297",
       "isInternational": false
     },
     "description": ""
@@ -1146,7 +1770,7 @@
     "metadata": {
       "createdAt": "2026-08-09",
       "updatedAt": "2026-08-09",
-      "scrapedAt": "2026-07-23T04:07:28.953730",
+      "scrapedAt": "2026-07-03T05:03:48.030421",
       "isInternational": false
     },
     "description": ""
@@ -1194,7 +1818,7 @@
     "metadata": {
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-23T04:07:31.786745",
+      "scrapedAt": "2026-07-03T05:03:51.377578",
       "isInternational": false
     },
     "description": ""
@@ -1242,7 +1866,7 @@
     "metadata": {
       "createdAt": "2026-12-26",
       "updatedAt": "2026-12-26",
-      "scrapedAt": "2026-07-23T04:07:35.215482",
+      "scrapedAt": "2026-07-03T05:03:55.214045",
       "isInternational": false
     },
     "description": ""
@@ -1290,7 +1914,7 @@
     "metadata": {
       "createdAt": "2026-09-26",
       "updatedAt": "2026-09-26",
-      "scrapedAt": "2026-07-23T04:07:39.375120",
+      "scrapedAt": "2026-07-03T05:03:59.150167",
       "isInternational": false
     },
     "description": ""
@@ -1338,7 +1962,7 @@
     "metadata": {
       "createdAt": "2026-08-23",
       "updatedAt": "2026-08-23",
-      "scrapedAt": "2026-07-23T04:07:42.214566",
+      "scrapedAt": "2026-07-03T05:04:02.972092",
       "isInternational": false
     },
     "description": ""
@@ -1371,7 +1995,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/performance/2026-byeonwooseok-asia-fanmeeting-tour-the-secret-library-in-bangkok.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0778/6778/2026-byeonwooseok-asia-fanmeeting-tour-the-secret-library-in-bangkok-6a4f55095d371-m.png",
+      "poster": "/img_poster/prefix_1/0778/6778/2026-byeonwooseok-asia-fanmeeting-tour-the-secret-library-in-bangkok-6a2f9f373117e-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1386,7 +2010,7 @@
     "metadata": {
       "createdAt": "2026-08-16",
       "updatedAt": "2026-08-16",
-      "scrapedAt": "2026-07-23T04:07:45.060604",
+      "scrapedAt": "2026-07-03T05:04:05.777996",
       "isInternational": false
     },
     "description": ""
@@ -1419,7 +2043,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/b-day-sbz-uncut-live-reel-01.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0779/6779/b-day-sbz-uncut-live-reel-01-6a47d9654be2d-m.jpg",
+      "poster": "/img_poster/prefix_1/0779/6779/b-day-sbz-uncut-live-reel-01-6a3e1d9f1bc5e-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1434,7 +2058,7 @@
     "metadata": {
       "createdAt": "2026-08-29",
       "updatedAt": "2026-08-29",
-      "scrapedAt": "2026-07-23T04:07:47.848957",
+      "scrapedAt": "2026-07-03T05:04:08.586049",
       "isInternational": false
     },
     "description": ""
@@ -1482,7 +2106,7 @@
     "metadata": {
       "createdAt": "2026-08-17",
       "updatedAt": "2026-08-17",
-      "scrapedAt": "2026-07-23T04:07:51.741768",
+      "scrapedAt": "2026-07-03T05:04:11.396409",
       "isInternational": false
     },
     "description": ""
@@ -1530,7 +2154,7 @@
     "metadata": {
       "createdAt": "2026-07-31",
       "updatedAt": "2026-07-31",
-      "scrapedAt": "2026-07-23T04:07:54.624908",
+      "scrapedAt": "2026-07-03T05:04:13.972842",
       "isInternational": false
     },
     "description": ""
@@ -1563,7 +2187,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/nantida-soul-night-restage.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0782/6782/nantida-soul-night-restage-6a48e49e2fc64-m.jpg",
+      "poster": "/img_poster/prefix_1/0782/6782/nantida-soul-night-restage-6a3ca8ba06f19-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1578,7 +2202,7 @@
     "metadata": {
       "createdAt": "2026-08-14",
       "updatedAt": "2026-08-14",
-      "scrapedAt": "2026-07-23T04:07:58.492956",
+      "scrapedAt": "2026-07-03T05:04:17.750508",
       "isInternational": false
     },
     "description": ""
@@ -1611,7 +2235,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/sound-of-the-60s-radio-on-stage-by-i-s-song-hits.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0783/6783/sound-of-the-60s-radio-on-stage-by-i-s-song-hits-6a58ad519df5c-m.png",
+      "poster": "/img_poster/prefix_1/0783/6783/sound-of-the-60s-radio-on-stage-by-i-s-song-hits-6a3277f971cfc-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1626,7 +2250,103 @@
     "metadata": {
       "createdAt": "2026-08-23",
       "updatedAt": "2026-08-23",
-      "scrapedAt": "2026-07-23T04:08:01.350861",
+      "scrapedAt": "2026-07-03T05:04:20.518173",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "9245f8a3a4cb",
+    "title": "โซ่รักอัคนี First Episode Premiere",
+    "date": {
+      "startDate": "2026-07-11",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "เมเจอร-ซนเพลกซ-รชโยธน-โรงท-13",
+    "venueName": "เมเจอร์ ซีนีเพล็กซ์ รัชโยธิน, โรงที่ 13",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/the-fire-first-episode-premiere.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0785/6785/the-fire-first-episode-premiere-6a34b18324a47-m.jpg",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/the-fire-first-episode-premiere.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-11",
+      "updatedAt": "2026-07-11",
+      "scrapedAt": "2026-07-03T05:04:23.479320",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "08552416973d",
+    "title": "ENEMIES WITH BENEFITS Final EP. FAN MEETING",
+    "date": {
+      "startDate": "2026-07-05",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "mcc-hall-ชน-3-เดอะมอลลไลฟสโตร-บางกะป",
+    "venueName": "MCC HALL ชั้น 3 เดอะมอลล์ไลฟ์สโตร์ บางกะปิ",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/performance/enemies-with-benefits-final-ep-fan-meeting.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "/img_poster/prefix_1/0786/6786/enemies-with-benefits-final-ep-fan-meeting-6a45fbf4a8bea-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/performance/enemies-with-benefits-final-ep-fan-meeting.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-05",
+      "updatedAt": "2026-07-05",
+      "scrapedAt": "2026-07-03T05:04:26.329925",
       "isInternational": false
     },
     "description": ""
@@ -1674,7 +2394,7 @@
     "metadata": {
       "createdAt": "2026-08-22",
       "updatedAt": "2026-08-22",
-      "scrapedAt": "2026-07-23T04:08:04.380516",
+      "scrapedAt": "2026-07-03T05:04:29.181446",
       "isInternational": false
     },
     "description": ""
@@ -1707,7 +2427,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/sotus-teniversary-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0790/6790/sotus-teniversary-concert-6a5e1e8ab29ec-m.jpg",
+      "poster": "/img_poster/prefix_1/0790/6790/sotus-teniversary-concert-6a3d02e542832-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1722,7 +2442,7 @@
     "metadata": {
       "createdAt": "2026-08-30",
       "updatedAt": "2026-08-30",
-      "scrapedAt": "2026-07-23T04:08:07.293601",
+      "scrapedAt": "2026-07-03T05:04:32.549975",
       "isInternational": false
     },
     "description": ""
@@ -1770,7 +2490,7 @@
     "metadata": {
       "createdAt": "2026-08-15",
       "updatedAt": "2026-08-15",
-      "scrapedAt": "2026-07-23T04:08:10.263974",
+      "scrapedAt": "2026-07-03T05:04:36.468608",
       "isInternational": false
     },
     "description": ""
@@ -1818,7 +2538,7 @@
     "metadata": {
       "createdAt": "2026-10-10",
       "updatedAt": "2026-10-10",
-      "scrapedAt": "2026-07-23T04:08:12.977640",
+      "scrapedAt": "2026-07-03T05:04:39.111218",
       "isInternational": false
     },
     "description": ""
@@ -1866,55 +2586,7 @@
     "metadata": {
       "createdAt": "2026-12-19",
       "updatedAt": "2026-12-19",
-      "scrapedAt": "2026-07-23T04:08:16.231573",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "6bf5052fe194",
-    "title": "Andru Donalds Live in Bangkok 2026",
-    "date": {
-      "startDate": "2026-10-24",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "เมองไทยรชดาลย-เธยเตอร",
-    "venueName": "เมืองไทยรัชดาลัย เธียเตอร์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/performance/andru-donalds-live-in-bangkok-2026.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0800/6800/andru-donalds-live-in-bangkok-6a42312864da6-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/performance/andru-donalds-live-in-bangkok-2026.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-10-24",
-      "updatedAt": "2026-10-24",
-      "scrapedAt": "2026-07-23T04:08:19.440904",
+      "scrapedAt": "2026-07-03T05:04:41.661281",
       "isInternational": false
     },
     "description": ""
@@ -1947,7 +2619,7 @@
     "ticketUrl": "https://www.thaiticketmajor.com/concert/gemini-art-venture-concert.html",
     "ticketSource": "ttm",
     "images": {
-      "poster": "/img_poster/prefix_1/0801/6801/gemini-art-venture-concert-6a6057cb0e125-m.png",
+      "poster": "/img_poster/prefix_1/0801/6801/gemini-art-venture-concert-6a4349052b679-m.png",
       "banner": null,
       "gallery": [],
       "dominantColor": null
@@ -1962,535 +2634,7 @@
     "metadata": {
       "createdAt": "2026-09-06",
       "updatedAt": "2026-09-06",
-      "scrapedAt": "2026-07-23T04:08:22.302165",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "dd0025f8d24d",
-    "title": "2026 PLAVE World Tour [KEEP IT MANIC] in Bangkok",
-    "date": {
-      "startDate": "2026-10-10",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "อมแพค-อารนา-เมองทองธาน",
-    "venueName": "อิมแพ็ค อารีน่า เมืองทองธานี",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/2026-plave-world-tour-keep-it-manic-in-bangkok.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0803/6803/2026-plave-world-tour-keep-it-manic-in-bangkok-6a4f380130956-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/2026-plave-world-tour-keep-it-manic-in-bangkok.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10",
-      "scrapedAt": "2026-07-23T04:08:25.177045",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "8a0f8337caa7",
-    "title": "SKY NANI S to the N FANCON",
-    "date": {
-      "startDate": "2026-09-20",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "ธนเดอรโดม-เมองทองธาน",
-    "venueName": "ธันเดอร์โดม เมืองทองธานี/",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/sky-nani-s-to-the-n-fancon.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0807/6807/sky-nani-s-to-the-n-fancon-6a6057e7a09d2-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/sky-nani-s-to-the-n-fancon.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-20",
-      "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-23T04:08:28.545271",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "d5ed21d6b5a6",
-    "title": "When Oranges Fall Final EP. FAN MEETING",
-    "date": {
-      "startDate": "2026-07-29",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "centralworld-pulse-ชน-7-centralworld",
-    "venueName": "CentralwOrld PULSE, ชั้น 7 CentralWorld",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/performance/when-oranges-fall-final-ep-fan-meeting.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0809/6809/when-oranges-fall-final-ep-fan-meeting-6a605905abc19-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/performance/when-oranges-fall-final-ep-fan-meeting.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-23T04:08:31.371238",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "5caeb6bf85e1",
-    "title": "MSIG FAN FEST CONCERT 2026",
-    "date": {
-      "startDate": "2026-09-19",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "สามยาน-มตรทาวน-ฮอลล",
-    "venueName": "สามย่าน มิตรทาวน์ ฮอลล์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/msig-fan-fest-concert-2026.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0811/6811/msig-fan-fest-concert-2026-6a4b6f4264ec2-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/msig-fan-fest-concert-2026.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-19",
-      "updatedAt": "2026-09-19",
-      "scrapedAt": "2026-07-23T04:08:34.203085",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "aff1c103cf2d",
-    "title": "4 Elements Infinite Bonds Fan Meeting",
-    "date": {
-      "startDate": "2026-09-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "ยเนยน-ฮอลล-ศนยการคายเนยน-มอลล",
-    "venueName": "ยูเนี่ยน ฮอลล์, ศูนย์การค้ายูเนี่ยน มอลล์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/performance/4-elements-infinite-bonds-fan-meeting.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0812/6812/4-elements-infinite-bonds-fan-meeting-6a4f1bffc7049-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/performance/4-elements-infinite-bonds-fan-meeting.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12",
-      "scrapedAt": "2026-07-23T04:08:37.075344",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "3df289106d26",
-    "title": "Sunnee&#39;s &#39;&#39;Home Coming&#39;&#39; Bangkok Music Concert",
-    "date": {
-      "startDate": "2026-08-16",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "ยเนยน-ฮอลล-1-ศนยการคายเนยน-มอลล",
-    "venueName": "ยูเนี่ยน ฮอลล์ 1, ศูนย์การค้ายูเนี่ยน มอลล์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/sunnee-home-coming-bangkok-music-concert.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0813/6813/sunnee-home-coming-bangkok-music-concert-6a4f376c1cea0-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/sunnee-home-coming-bangkok-music-concert.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-16",
-      "updatedAt": "2026-08-16",
-      "scrapedAt": "2026-07-23T04:08:40.295144",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "2c2bf3a70536",
-    "title": "ไทยประกันชีวิต presents BIG ASS คอนเสิร์ตใหญ่ ก่อนตาย",
-    "date": {
-      "startDate": "2026-11-15",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "อมแพค-อารนา-เมองทองธาน",
-    "venueName": "อิมแพ็ค อารีน่า เมืองทองธานี",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/big-ass-big-concert.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0815/6815/thailife-presents-big-ass-big-concert-before-die-6a4f21fa63478-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/big-ass-big-concert.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-11-15",
-      "updatedAt": "2026-11-15",
-      "scrapedAt": "2026-07-23T04:08:44.166875",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "812941651aac",
-    "title": "A Dog and a Plane Final EP Fan Meeting",
-    "date": {
-      "startDate": "2026-07-31",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "centralworld-pulse-ชน-7-centralworld",
-    "venueName": "CentralwOrld PULSE, ชั้น 7 CentralWorld",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/performance/a-dog-and-a-plane-final-ep-fan-meeting.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0817/6817/a-dog-and-a-plane-final-ep-fan-meeting-6a59c5ffc2001-m.jpg",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/performance/a-dog-and-a-plane-final-ep-fan-meeting.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-31",
-      "updatedAt": "2026-07-31",
-      "scrapedAt": "2026-07-23T04:08:48.041796",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "d1ca788b4ab2",
-    "title": "&#39;&#39;So Lucky to Meet You&#39;&#39; Bangkok Fan Meeting",
-    "date": {
-      "startDate": "2026-08-15",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "ยเนยน-ฮอลล-1-ศนยการคายเนยน-มอลล",
-    "venueName": "ยูเนี่ยน ฮอลล์ 1, ศูนย์การค้ายูเนี่ยน มอลล์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/so-lucky-to-meet-you-bangkok-fan-meeting.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0819/6819/so-lucky-to-meet-you-bangkok-fan-meeting-6a5098d5ba4c7-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/so-lucky-to-meet-you-bangkok-fan-meeting.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-15",
-      "updatedAt": "2026-08-15",
-      "scrapedAt": "2026-07-23T04:08:50.802659",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "a429bdb4302b",
-    "title": "ชาตรี อิน คอนเสิร์ต โลกมายา",
-    "date": {
-      "startDate": "2026-09-20",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "ไอสแลนด-ฮอลล-ชน-3-แฟชนไอสแลนด",
-    "venueName": "ไอส์แลนด์ ฮอลล์, ชั้น 3, แฟชั่นไอส์แลนด์",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/chatree-in-concert-a-world-of-lllusion.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0824/6824/chatree-in-concert-a-world-of-lllusion-6a54c73a1bbaf-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/chatree-in-concert-a-world-of-lllusion.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-09-20",
-      "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-23T04:08:54.874255",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "49515b1849bf",
-    "title": "RBSO 2026 : A Tribute to The Loyal Legacy",
-    "date": {
-      "startDate": "2026-08-12",
-      "endDate": null,
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": "ศนยวฒนธรรมแหงประเทศไทย-หอประชมใหญ",
-    "venueName": "ศูนย์วัฒนธรรมแห่งประเทศไทย หอประชุมใหญ่",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.thaiticketmajor.com/concert/rbso-2026-a-tribute-to-the-loyal-legacy.html",
-    "ticketSource": "ttm",
-    "images": {
-      "poster": "/img_poster/prefix_1/0828/6828/rbso-2026-a-tribute-to-the-loyal-legacy-6a573a27a810d-m.png",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "ttm",
-        "id": "/concert/rbso-2026-a-tribute-to-the-loyal-legacy.html"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-12",
-      "updatedAt": "2026-08-12",
-      "scrapedAt": "2026-07-23T04:08:57.767112",
+      "scrapedAt": "2026-07-03T05:04:44.613741",
       "isInternational": false
     },
     "description": ""
