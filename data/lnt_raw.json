@@ -1,5 +1,53 @@
 [
   {
+    "id": "9096e528829f",
+    "title": "Young K Solo Tour <YOUNGEST> in BANGKOKMore Info",
+    "date": {
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/young-k-solo-tour-youngest-in-bangkok-bangkok-tickets-edp1688334",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/young-k-solo-tour-youngest-in-bangkok-bangkok-tickets-edp1688334"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:32.281754",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "ae5db4313c74",
     "title": "FLO - Therapy At The Club TourMore Info",
     "date": {
@@ -40,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:20.827897",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:32.667008",
       "isInternational": false
     },
     "description": ""
@@ -88,9 +136,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:21.241809",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:32.934859",
       "isInternational": false
     },
     "description": ""
@@ -136,57 +184,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:21.466538",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "18214e38265c",
-    "title": "Khalid: It's Always Summer Somewhere TourMore Info",
-    "date": {
-      "startDate": "2026-11-29",
-      "endDate": "2026-11-29",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/khalid-it-s-always-summer-somewhere-tour-bangkok-tickets-edp1685524",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/khalid-it-s-always-summer-somewhere-tour-bangkok-tickets-edp1685524"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:22.045009",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:33.298563",
       "isInternational": false
     },
     "description": ""
@@ -232,9 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:22.436568",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:33.677084",
       "isInternational": false
     },
     "description": ""
@@ -280,9 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:22.695385",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:34.077768",
       "isInternational": false
     },
     "description": ""
@@ -328,9 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:23.022458",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:34.310840",
       "isInternational": false
     },
     "description": ""
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:23.253618",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:34.694148",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +424,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:23.649090",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:35.111307",
       "isInternational": false
     },
     "description": ""
@@ -472,9 +472,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:24.022326",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:35.480069",
       "isInternational": false
     },
     "description": ""
@@ -520,9 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:24.452871",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:35.720340",
       "isInternational": false
     },
     "description": ""
@@ -568,9 +568,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:24.803012",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:36.118512",
       "isInternational": false
     },
     "description": ""
@@ -616,9 +616,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:25.030633",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:36.501807",
       "isInternational": false
     },
     "description": ""
@@ -664,9 +664,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-27",
-      "updatedAt": "2026-07-27",
-      "scrapedAt": "2026-07-27T04:01:25.305485",
+      "createdAt": "2026-07-28",
+      "updatedAt": "2026-07-28",
+      "scrapedAt": "2026-07-28T04:00:36.858119",
       "isInternational": false
     },
     "description": ""

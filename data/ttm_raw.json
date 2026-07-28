@@ -42,7 +42,55 @@
     "metadata": {
       "createdAt": "2025-12-06",
       "updatedAt": "2025-12-06",
-      "scrapedAt": "2026-07-27T04:03:37.887258",
+      "scrapedAt": "2026-07-28T04:02:51.985514",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "c0122499d241",
+    "title": "Music @ Mahidol 2026-2027",
+    "date": {
+      "startDate": "2026-08-03",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": "หอแสดงดนตร-วทยาลยดรยางคศลป-มมหดลศาลายา",
+    "venueName": "หอแสดงดนตรี วิทยาลัยดุริยางคศิลป์ ม.มหิดล(ศาลายา)",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.thaiticketmajor.com/concert/music-at-mahidol-2026.html",
+    "ticketSource": "ttm",
+    "images": {
+      "poster": "https://www.thaiticketmajor.com/img_poster/prefix_1/0568/6568/music-at-mahidol-2026-6943ac6ff2b45-m.png",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "ttm",
+        "id": "/concert/music-at-mahidol-2026.html"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-03",
+      "updatedAt": "2026-08-03",
+      "scrapedAt": "2026-07-28T04:02:54.712102",
       "isInternational": false
     },
     "description": ""
@@ -90,7 +138,7 @@
     "metadata": {
       "createdAt": "2026-08-09",
       "updatedAt": "2026-08-09",
-      "scrapedAt": "2026-07-27T04:03:41.710215",
+      "scrapedAt": "2026-07-28T04:02:57.343651",
       "isInternational": false
     },
     "description": ""
@@ -138,7 +186,7 @@
     "metadata": {
       "createdAt": "2026-09-06",
       "updatedAt": "2026-09-06",
-      "scrapedAt": "2026-07-27T04:03:44.356219",
+      "scrapedAt": "2026-07-28T04:03:01.149181",
       "isInternational": false
     },
     "description": ""
@@ -186,7 +234,7 @@
     "metadata": {
       "createdAt": "2026-11-10",
       "updatedAt": "2026-11-10",
-      "scrapedAt": "2026-07-27T04:03:47.152474",
+      "scrapedAt": "2026-07-28T04:03:04.070968",
       "isInternational": false
     },
     "description": ""
@@ -234,7 +282,7 @@
     "metadata": {
       "createdAt": "2026-08-28",
       "updatedAt": "2026-08-28",
-      "scrapedAt": "2026-07-27T04:03:50.940945",
+      "scrapedAt": "2026-07-28T04:03:06.946998",
       "isInternational": false
     },
     "description": ""
@@ -282,7 +330,7 @@
     "metadata": {
       "createdAt": "2026-09-22",
       "updatedAt": "2026-09-22",
-      "scrapedAt": "2026-07-27T04:03:54.824310",
+      "scrapedAt": "2026-07-28T04:03:09.815397",
       "isInternational": false
     },
     "description": ""
@@ -330,7 +378,7 @@
     "metadata": {
       "createdAt": "2026-07-28",
       "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-27T04:03:57.502490",
+      "scrapedAt": "2026-07-28T04:03:12.678755",
       "isInternational": false
     },
     "description": ""
@@ -378,7 +426,7 @@
     "metadata": {
       "createdAt": "2026-08-10",
       "updatedAt": "2026-08-10",
-      "scrapedAt": "2026-07-27T04:04:02.127553",
+      "scrapedAt": "2026-07-28T04:03:15.868463",
       "isInternational": false
     },
     "description": ""
@@ -426,7 +474,7 @@
     "metadata": {
       "createdAt": "2026-11-24",
       "updatedAt": "2026-11-24",
-      "scrapedAt": "2026-07-27T04:04:05.905441",
+      "scrapedAt": "2026-07-28T04:03:18.706556",
       "isInternational": false
     },
     "description": ""
@@ -474,7 +522,7 @@
     "metadata": {
       "createdAt": "2026-11-09",
       "updatedAt": "2026-11-09",
-      "scrapedAt": "2026-07-27T04:04:08.770593",
+      "scrapedAt": "2026-07-28T04:03:22.136348",
       "isInternational": false
     },
     "description": ""
@@ -522,7 +570,7 @@
     "metadata": {
       "createdAt": "2026-07-18",
       "updatedAt": "2026-07-18",
-      "scrapedAt": "2026-07-27T04:04:12.601719",
+      "scrapedAt": "2026-07-28T04:03:24.953037",
       "isInternational": false
     },
     "description": ""
@@ -570,7 +618,7 @@
     "metadata": {
       "createdAt": "2026-09-05",
       "updatedAt": "2026-09-05",
-      "scrapedAt": "2026-07-27T04:04:15.475048",
+      "scrapedAt": "2026-07-28T04:03:27.737994",
       "isInternational": false
     },
     "description": ""
@@ -618,7 +666,7 @@
     "metadata": {
       "createdAt": "2026-10-11",
       "updatedAt": "2026-10-11",
-      "scrapedAt": "2026-07-27T04:04:19.324143",
+      "scrapedAt": "2026-07-28T04:03:31.860235",
       "isInternational": false
     },
     "description": ""
@@ -666,7 +714,7 @@
     "metadata": {
       "createdAt": "2026-09-25",
       "updatedAt": "2026-09-25",
-      "scrapedAt": "2026-07-27T04:04:23.063747",
+      "scrapedAt": "2026-07-28T04:03:36.751718",
       "isInternational": false
     },
     "description": ""
@@ -714,7 +762,7 @@
     "metadata": {
       "createdAt": "2026-11-07",
       "updatedAt": "2026-11-07",
-      "scrapedAt": "2026-07-27T04:04:26.894154",
+      "scrapedAt": "2026-07-28T04:03:40.542071",
       "isInternational": false
     },
     "description": ""
@@ -762,7 +810,7 @@
     "metadata": {
       "createdAt": "2026-11-12",
       "updatedAt": "2026-11-12",
-      "scrapedAt": "2026-07-27T04:04:29.736770",
+      "scrapedAt": "2026-07-28T04:03:43.430183",
       "isInternational": false
     },
     "description": ""
@@ -810,7 +858,7 @@
     "metadata": {
       "createdAt": "2026-12-03",
       "updatedAt": "2026-12-03",
-      "scrapedAt": "2026-07-27T04:04:32.620055",
+      "scrapedAt": "2026-07-28T04:03:46.299639",
       "isInternational": false
     },
     "description": ""
@@ -858,7 +906,7 @@
     "metadata": {
       "createdAt": "2026-07-26",
       "updatedAt": "2026-07-26",
-      "scrapedAt": "2026-07-27T04:04:36.433533",
+      "scrapedAt": "2026-07-28T04:03:49.185236",
       "isInternational": false
     },
     "description": ""
@@ -906,7 +954,7 @@
     "metadata": {
       "createdAt": "2026-07-28",
       "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-27T04:04:39.230213",
+      "scrapedAt": "2026-07-28T04:03:52.014239",
       "isInternational": false
     },
     "description": ""
@@ -954,7 +1002,7 @@
     "metadata": {
       "createdAt": "2026-10-03",
       "updatedAt": "2026-10-03",
-      "scrapedAt": "2026-07-27T04:04:42.085484",
+      "scrapedAt": "2026-07-28T04:03:54.821336",
       "isInternational": false
     },
     "description": ""
@@ -1002,7 +1050,7 @@
     "metadata": {
       "createdAt": "2026-08-01",
       "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-07-27T04:04:45.951624",
+      "scrapedAt": "2026-07-28T04:03:57.623795",
       "isInternational": false
     },
     "description": ""
@@ -1050,7 +1098,7 @@
     "metadata": {
       "createdAt": "2026-09-26",
       "updatedAt": "2026-09-26",
-      "scrapedAt": "2026-07-27T04:04:48.802127",
+      "scrapedAt": "2026-07-28T04:04:00.962509",
       "isInternational": false
     },
     "description": ""
@@ -1098,7 +1146,7 @@
     "metadata": {
       "createdAt": "2026-08-09",
       "updatedAt": "2026-08-09",
-      "scrapedAt": "2026-07-27T04:04:51.668151",
+      "scrapedAt": "2026-07-28T04:04:03.821969",
       "isInternational": false
     },
     "description": ""
@@ -1146,7 +1194,7 @@
     "metadata": {
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-27T04:04:54.552809",
+      "scrapedAt": "2026-07-28T04:04:07.658742",
       "isInternational": false
     },
     "description": ""
@@ -1194,7 +1242,7 @@
     "metadata": {
       "createdAt": "2026-12-26",
       "updatedAt": "2026-12-26",
-      "scrapedAt": "2026-07-27T04:04:58.359542",
+      "scrapedAt": "2026-07-28T04:04:10.554100",
       "isInternational": false
     },
     "description": ""
@@ -1242,7 +1290,7 @@
     "metadata": {
       "createdAt": "2026-09-26",
       "updatedAt": "2026-09-26",
-      "scrapedAt": "2026-07-27T04:05:03.626413",
+      "scrapedAt": "2026-07-28T04:04:15.458294",
       "isInternational": false
     },
     "description": ""
@@ -1290,7 +1338,7 @@
     "metadata": {
       "createdAt": "2026-08-23",
       "updatedAt": "2026-08-23",
-      "scrapedAt": "2026-07-27T04:05:06.454396",
+      "scrapedAt": "2026-07-28T04:04:18.336400",
       "isInternational": false
     },
     "description": ""
@@ -1338,7 +1386,7 @@
     "metadata": {
       "createdAt": "2026-08-16",
       "updatedAt": "2026-08-16",
-      "scrapedAt": "2026-07-27T04:05:10.342206",
+      "scrapedAt": "2026-07-28T04:04:21.218169",
       "isInternational": false
     },
     "description": ""
@@ -1386,7 +1434,7 @@
     "metadata": {
       "createdAt": "2026-08-29",
       "updatedAt": "2026-08-29",
-      "scrapedAt": "2026-07-27T04:05:13.156095",
+      "scrapedAt": "2026-07-28T04:04:24.062582",
       "isInternational": false
     },
     "description": ""
@@ -1434,7 +1482,7 @@
     "metadata": {
       "createdAt": "2026-08-17",
       "updatedAt": "2026-08-17",
-      "scrapedAt": "2026-07-27T04:05:16.978363",
+      "scrapedAt": "2026-07-28T04:04:28.034659",
       "isInternational": false
     },
     "description": ""
@@ -1482,7 +1530,7 @@
     "metadata": {
       "createdAt": "2026-07-31",
       "updatedAt": "2026-07-31",
-      "scrapedAt": "2026-07-27T04:05:22.735240",
+      "scrapedAt": "2026-07-28T04:04:30.710993",
       "isInternational": false
     },
     "description": ""
@@ -1530,7 +1578,7 @@
     "metadata": {
       "createdAt": "2026-08-14",
       "updatedAt": "2026-08-14",
-      "scrapedAt": "2026-07-27T04:05:26.905181",
+      "scrapedAt": "2026-07-28T04:04:33.593976",
       "isInternational": false
     },
     "description": ""
@@ -1578,7 +1626,7 @@
     "metadata": {
       "createdAt": "2026-08-23",
       "updatedAt": "2026-08-23",
-      "scrapedAt": "2026-07-27T04:05:29.671353",
+      "scrapedAt": "2026-07-28T04:04:36.455310",
       "isInternational": false
     },
     "description": ""
@@ -1626,7 +1674,7 @@
     "metadata": {
       "createdAt": "2026-08-22",
       "updatedAt": "2026-08-22",
-      "scrapedAt": "2026-07-27T04:05:33.546916",
+      "scrapedAt": "2026-07-28T04:04:39.449792",
       "isInternational": false
     },
     "description": ""
@@ -1674,7 +1722,7 @@
     "metadata": {
       "createdAt": "2026-08-30",
       "updatedAt": "2026-08-30",
-      "scrapedAt": "2026-07-27T04:05:36.954346",
+      "scrapedAt": "2026-07-28T04:04:42.214982",
       "isInternational": false
     },
     "description": ""
@@ -1722,7 +1770,7 @@
     "metadata": {
       "createdAt": "2026-08-15",
       "updatedAt": "2026-08-15",
-      "scrapedAt": "2026-07-27T04:05:40.903937",
+      "scrapedAt": "2026-07-28T04:04:45.154580",
       "isInternational": false
     },
     "description": ""
@@ -1770,7 +1818,7 @@
     "metadata": {
       "createdAt": "2026-10-10",
       "updatedAt": "2026-10-10",
-      "scrapedAt": "2026-07-27T04:05:43.780286",
+      "scrapedAt": "2026-07-28T04:04:49.041981",
       "isInternational": false
     },
     "description": ""
@@ -1818,7 +1866,7 @@
     "metadata": {
       "createdAt": "2026-12-19",
       "updatedAt": "2026-12-19",
-      "scrapedAt": "2026-07-27T04:05:47.608663",
+      "scrapedAt": "2026-07-28T04:04:52.855415",
       "isInternational": false
     },
     "description": ""
@@ -1866,7 +1914,7 @@
     "metadata": {
       "createdAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "scrapedAt": "2026-07-27T04:05:51.818469",
+      "scrapedAt": "2026-07-28T04:04:56.054317",
       "isInternational": false
     },
     "description": ""
@@ -1914,7 +1962,7 @@
     "metadata": {
       "createdAt": "2026-09-06",
       "updatedAt": "2026-09-06",
-      "scrapedAt": "2026-07-27T04:05:55.625693",
+      "scrapedAt": "2026-07-28T04:04:59.912847",
       "isInternational": false
     },
     "description": ""
@@ -1962,7 +2010,7 @@
     "metadata": {
       "createdAt": "2026-10-10",
       "updatedAt": "2026-10-10",
-      "scrapedAt": "2026-07-27T04:05:59.006711",
+      "scrapedAt": "2026-07-28T04:05:02.772144",
       "isInternational": false
     },
     "description": ""
@@ -2010,7 +2058,7 @@
     "metadata": {
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-27T04:06:01.892539",
+      "scrapedAt": "2026-07-28T04:05:05.573129",
       "isInternational": false
     },
     "description": ""
@@ -2058,7 +2106,7 @@
     "metadata": {
       "createdAt": "2026-07-29",
       "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-27T04:06:04.779777",
+      "scrapedAt": "2026-07-28T04:05:08.393754",
       "isInternational": false
     },
     "description": ""
@@ -2106,7 +2154,7 @@
     "metadata": {
       "createdAt": "2026-09-19",
       "updatedAt": "2026-09-19",
-      "scrapedAt": "2026-07-27T04:06:08.579902",
+      "scrapedAt": "2026-07-28T04:05:11.071238",
       "isInternational": false
     },
     "description": ""
@@ -2154,7 +2202,7 @@
     "metadata": {
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-12",
-      "scrapedAt": "2026-07-27T04:06:12.430110",
+      "scrapedAt": "2026-07-28T04:05:15.428818",
       "isInternational": false
     },
     "description": ""
@@ -2202,7 +2250,7 @@
     "metadata": {
       "createdAt": "2026-08-16",
       "updatedAt": "2026-08-16",
-      "scrapedAt": "2026-07-27T04:06:15.098073",
+      "scrapedAt": "2026-07-28T04:05:18.072388",
       "isInternational": false
     },
     "description": ""
@@ -2250,7 +2298,7 @@
     "metadata": {
       "createdAt": "2026-11-15",
       "updatedAt": "2026-11-15",
-      "scrapedAt": "2026-07-27T04:06:17.901461",
+      "scrapedAt": "2026-07-28T04:05:20.751502",
       "isInternational": false
     },
     "description": ""
@@ -2298,7 +2346,7 @@
     "metadata": {
       "createdAt": "2026-07-31",
       "updatedAt": "2026-07-31",
-      "scrapedAt": "2026-07-27T04:06:20.735866",
+      "scrapedAt": "2026-07-28T04:05:24.627848",
       "isInternational": false
     },
     "description": ""
@@ -2346,7 +2394,7 @@
     "metadata": {
       "createdAt": "2026-08-15",
       "updatedAt": "2026-08-15",
-      "scrapedAt": "2026-07-27T04:06:23.526150",
+      "scrapedAt": "2026-07-28T04:05:27.622268",
       "isInternational": false
     },
     "description": ""
@@ -2394,7 +2442,7 @@
     "metadata": {
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-20",
-      "scrapedAt": "2026-07-27T04:06:27.420283",
+      "scrapedAt": "2026-07-28T04:05:33.820092",
       "isInternational": false
     },
     "description": ""
@@ -2442,7 +2490,7 @@
     "metadata": {
       "createdAt": "2026-08-12",
       "updatedAt": "2026-08-12",
-      "scrapedAt": "2026-07-27T04:06:30.305375",
+      "scrapedAt": "2026-07-28T04:05:37.023929",
       "isInternational": false
     },
     "description": ""
