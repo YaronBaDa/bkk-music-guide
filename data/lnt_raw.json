@@ -40,9 +40,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:32.281754",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:22.853620",
       "isInternational": false
     },
     "description": ""
@@ -88,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:32.667008",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:23.148021",
       "isInternational": false
     },
     "description": ""
@@ -136,9 +136,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:32.934859",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:23.384582",
       "isInternational": false
     },
     "description": ""
@@ -184,9 +184,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:33.298563",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:23.617815",
       "isInternational": false
     },
     "description": ""
@@ -232,9 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:33.677084",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:24.146078",
       "isInternational": false
     },
     "description": ""
@@ -280,9 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:34.077768",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:24.340610",
       "isInternational": false
     },
     "description": ""
@@ -328,9 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:34.310840",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:24.636685",
       "isInternational": false
     },
     "description": ""
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:34.694148",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:24.827175",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +424,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:35.111307",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:25.158809",
       "isInternational": false
     },
     "description": ""
@@ -472,9 +472,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:35.480069",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:25.513509",
       "isInternational": false
     },
     "description": ""
@@ -520,57 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:35.720340",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "8da739104397",
-    "title": "2026–27 BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN BANGKOK7 พ.ย. 2569More Info",
-    "date": {
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-07",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/2026-27-babymonster-world-tour-춤-choom-in-bangkok-bangkok-tickets-edp1673276",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/2026-27-babymonster-world-tour-춤-choom-in-bangkok-bangkok-tickets-edp1673276"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:36.118512",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:25.922602",
       "isInternational": false
     },
     "description": ""
@@ -616,9 +568,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:36.501807",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:28.153292",
       "isInternational": false
     },
     "description": ""
@@ -664,9 +616,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-28",
-      "updatedAt": "2026-07-28",
-      "scrapedAt": "2026-07-28T04:00:36.858119",
+      "createdAt": "2026-07-29",
+      "updatedAt": "2026-07-29",
+      "scrapedAt": "2026-07-29T04:00:28.476812",
       "isInternational": false
     },
     "description": ""

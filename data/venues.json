@@ -37,6 +37,44 @@
     "pastEventsCount": 0,
     "tags": []
   },
+  "delivery-only": {
+    "id": "delivery-only",
+    "name": "Delivery only",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
   "the-royal-bangkok-sports-club": {
     "id": "the-royal-bangkok-sports-club",
     "name": "The Royal Bangkok Sports Club",
@@ -75,9 +113,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "เดอะ-รเจนท-ชะอำ-บช-รสอรท": {
-    "id": "เดอะ-รเจนท-ชะอำ-บช-รสอรท",
-    "name": "เดอะ รีเจ้นท์ ชะอำ บีช รีสอร์ท",
+  "phuket-surf-house---patong-beach": {
+    "id": "phuket-surf-house---patong-beach",
+    "name": "Phuket Surf House - Patong Beach",
     "type": "other",
     "address": {
       "street": "",
@@ -113,9 +151,123 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "royal-bangkok-symphony-orchestra": {
-    "id": "royal-bangkok-symphony-orchestra",
-    "name": "Royal Bangkok Symphony Orchestra",
+  "regent-chalet": {
+    "id": "regent-chalet",
+    "name": "Regent Chalet",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "360art-wellness": {
+    "id": "360art-wellness",
+    "name": "360ART Wellness",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "yspace-at-the-yuchengco-museum": {
+    "id": "yspace-at-the-yuchengco-museum",
+    "name": "YSpace at the Yuchengco Museum",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "lido-connect": {
+    "id": "lido-connect",
+    "name": "Lido Connect",
     "type": "other",
     "address": {
       "street": "",
@@ -189,9 +341,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "ยโอบ-ไลฟ-เอมสเฟยร": {
-    "id": "ยโอบ-ไลฟ-เอมสเฟยร",
-    "name": "ยูโอบี ไลฟ์, เอ็มสเฟียร์",
+  "sân-khấu-thuỷ-đình---phố-cổ-hoa-lư": {
+    "id": "sân-khấu-thuỷ-đình---phố-cổ-hoa-lư",
+    "name": "SÂN KHẤU THUỶ ĐÌNH - PHỐ CỔ HOA LƯ",
     "type": "other",
     "address": {
       "street": "",
@@ -223,7 +375,7 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 7,
+    "upcomingEventsCount": 1,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -265,44 +417,6 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "island-hall-fashion-island-ศนยการคาแฟชนไอสแลนด-ไอสแลนดฮอลลชน-3": {
-    "id": "island-hall-fashion-island-ศนยการคาแฟชนไอสแลนด-ไอสแลนดฮอลลชน-3",
-    "name": "Island Hall, (Fashion Island) (ศูนย์การค้าแฟชั่นไอส์แลนด์ ไอส์แลนด์ฮอลล์ชั้น 3)",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
   "centralworld-pulse-ชน-7-centralworld": {
     "id": "centralworld-pulse-ชน-7-centralworld",
     "name": "CentralwOrld PULSE, ชั้น 7 CentralWorld",
@@ -341,6 +455,44 @@
     "pastEventsCount": 0,
     "tags": []
   },
+  "melt-livehouse-cloud-11": {
+    "id": "melt-livehouse-cloud-11",
+    "name": "Melt Livehouse Cloud 11",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 8,
+    "pastEventsCount": 0,
+    "tags": []
+  },
   "yaga-bar": {
     "id": "yaga-bar",
     "name": "Yaga Bar",
@@ -375,127 +527,13 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "aster-events-place": {
-    "id": "aster-events-place",
-    "name": "ASTER EVENTS PLACE",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
+    "upcomingEventsCount": 2,
     "pastEventsCount": 0,
     "tags": []
   },
   "dual": {
     "id": "dual",
     "name": "DUAL",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "spacetime-bar": {
-    "id": "spacetime-bar",
-    "name": "Spacetime Bar",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "dnd-bar": {
-    "id": "dnd-bar",
-    "name": "DND Bar",
     "type": "other",
     "address": {
       "street": "",
@@ -569,44 +607,6 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "blueprint-livehouse": {
-    "id": "blueprint-livehouse",
-    "name": "Blueprint Livehouse",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 4,
-    "pastEventsCount": 0,
-    "tags": []
-  },
   "ศนยวฒนธรรมแหงประเทศไทย-หอประชมใหญ": {
     "id": "ศนยวฒนธรรมแหงประเทศไทย-หอประชมใหญ",
     "name": "ศูนย์วัฒนธรรมแห่งประเทศไทย หอประชุมใหญ่",
@@ -645,9 +645,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "backyard-warehouse-studio": {
-    "id": "backyard-warehouse-studio",
-    "name": "Backyard Warehouse Studio",
+  "bunker-1965": {
+    "id": "bunker-1965",
+    "name": "Bunker 1965",
     "type": "other",
     "address": {
       "street": "",
@@ -683,9 +683,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "bar-temp": {
-    "id": "bar-temp",
-    "name": "Bar Temp.",
+  "river-city-bangkok": {
+    "id": "river-city-bangkok",
+    "name": "River City Bangkok",
     "type": "other",
     "address": {
       "street": "",
@@ -721,9 +721,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "bloc-social-club-kl": {
-    "id": "bloc-social-club-kl",
-    "name": "Bloc Social Club KL",
+  "horn": {
+    "id": "horn",
+    "name": "HORN",
     "type": "other",
     "address": {
       "street": "",
@@ -759,9 +759,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "cloudy-live-house": {
-    "id": "cloudy-live-house",
-    "name": "Cloudy live house",
+  "sjk-c-hin-hua": {
+    "id": "sjk-c-hin-hua",
+    "name": "SJK (C) Hin Hua",
     "type": "other",
     "address": {
       "street": "",
@@ -797,9 +797,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "sutera-pacific-breeze-sunset-bar-kk-sabah": {
-    "id": "sutera-pacific-breeze-sunset-bar-kk-sabah",
-    "name": "Sutera Pacific, Breeze Sunset Bar, KK Sabah",
+  "d-prep-international-school-secondary-campus": {
+    "id": "d-prep-international-school-secondary-campus",
+    "name": "D-PREP International School Secondary campus",
     "type": "other",
     "address": {
       "street": "",
@@ -873,9 +873,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "bunker-1965": {
-    "id": "bunker-1965",
-    "name": "Bunker 1965",
+  "princess-galyani-vadhana-institute-of-music": {
+    "id": "princess-galyani-vadhana-institute-of-music",
+    "name": "Princess Galyani Vadhana Institute of Music",
     "type": "other",
     "address": {
       "street": "",
@@ -949,9 +949,47 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "สถาบน-triam-วทย-คณต-mbk-ชน-6-โซน-d-สถาบนตวสอบเขา-ม1-และ-ม4": {
-    "id": "สถาบน-triam-วทย-คณต-mbk-ชน-6-โซน-d-สถาบนตวสอบเขา-ม1-และ-ม4",
-    "name": "สถาบัน Triam วิทย์-คณิต MBK ชั้น 6 โซน D สถาบันติวสอบเข้า ม.1 และ ม.4",
+  "shibuya-scramble-square": {
+    "id": "shibuya-scramble-square",
+    "name": "Shibuya Scramble Square",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "salt-hoian---restaurant-bar": {
+    "id": "salt-hoian---restaurant-bar",
+    "name": "Salt Hoian - Restaurant & Bar",
     "type": "other",
     "address": {
       "street": "",
@@ -987,9 +1025,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "christ-church-bangkok": {
-    "id": "christ-church-bangkok",
-    "name": "Christ Church Bangkok",
+  "สถาบน-triam-วทย-คณต-mbk-ชน-6-โซน-d-สถาบนตวสอบเขา-ม1-และ-ม4": {
+    "id": "สถาบน-triam-วทย-คณต-mbk-ชน-6-โซน-d-สถาบนตวสอบเขา-ม1-และ-ม4",
+    "name": "สถาบัน Triam วิทย์-คณิต MBK ชั้น 6 โซน D สถาบันติวสอบเข้า ม.1 และ ม.4",
     "type": "other",
     "address": {
       "street": "",
@@ -1021,7 +1059,7 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 1,
+    "upcomingEventsCount": 2,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -1063,9 +1101,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "the-warehouse-bangkok": {
-    "id": "the-warehouse-bangkok",
-    "name": "The Warehouse Bangkok",
+  "siam-pavalai-royal-grand-theater-6-fl-siam-paragon": {
+    "id": "siam-pavalai-royal-grand-theater-6-fl-siam-paragon",
+    "name": "SIAM PAVALAI ROYAL GRAND THEATER 6 FL., SIAM PARAGON",
     "type": "other",
     "address": {
       "street": "",
@@ -1098,44 +1136,6 @@
       "facebook": ""
     },
     "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "bangkok-island": {
-    "id": "bangkok-island",
-    "name": "Bangkok Island",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 2,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -1177,9 +1177,85 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "lane-23-club---the-exchange-trx": {
-    "id": "lane-23-club---the-exchange-trx",
-    "name": "Lane 23 Club - The Exchange TRX",
+  "515-event-hall": {
+    "id": "515-event-hall",
+    "name": "515 Event Hall",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "blueprint-livehouse": {
+    "id": "blueprint-livehouse",
+    "name": "Blueprint Livehouse",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 5,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "มหาวทยาลยนเรศวร": {
+    "id": "มหาวทยาลยนเรศวร",
+    "name": "มหาวิทยาลัยนเรศวร",
     "type": "other",
     "address": {
       "street": "",
@@ -1218,44 +1294,6 @@
   "behave-ampang": {
     "id": "behave-ampang",
     "name": "Behave Ampang",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "salt-hoian---restaurant-bar": {
-    "id": "salt-hoian---restaurant-bar",
-    "name": "Salt Hoian - Restaurant & Bar",
     "type": "other",
     "address": {
       "street": "",
@@ -1367,9 +1405,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "amara-bangkok-hotel": {
-    "id": "amara-bangkok-hotel",
-    "name": "Amara Bangkok Hotel",
+  "cloud-11-hall": {
+    "id": "cloud-11-hall",
+    "name": "Cloud 11 Hall",
     "type": "other",
     "address": {
       "street": "",
@@ -1401,7 +1439,7 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 1,
+    "upcomingEventsCount": 2,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -1443,9 +1481,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "ตดลมลาดกระบง": {
-    "id": "ตดลมลาดกระบง",
-    "name": "ติดลมลาดกระบัง",
+  "phenix-grand-ballroom": {
+    "id": "phenix-grand-ballroom",
+    "name": "Phenix Grand Ballroom",
     "type": "other",
     "address": {
       "street": "",
@@ -1515,13 +1553,13 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 3,
+    "upcomingEventsCount": 4,
     "pastEventsCount": 0,
     "tags": []
   },
-  "fv39-sukhumvit-39": {
-    "id": "fv39-sukhumvit-39",
-    "name": "FV39 (Sukhumvit 39)",
+  "ยโอบ-ไลฟ-เอมสเฟยร": {
+    "id": "ยโอบ-ไลฟ-เอมสเฟยร",
+    "name": "ยูโอบี ไลฟ์, เอ็มสเฟียร์",
     "type": "other",
     "address": {
       "street": "",
@@ -1553,7 +1591,45 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 1,
+    "upcomingEventsCount": 6,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "mrfox-live-house": {
+    "id": "mrfox-live-house",
+    "name": "Mr.FOX Live House",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 5,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -1595,9 +1671,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "marquis-sky-lounge-rooftop-bar-kuala-lumpur": {
-    "id": "marquis-sky-lounge-rooftop-bar-kuala-lumpur",
-    "name": "Marquis Sky Lounge | Rooftop Bar Kuala Lumpur",
+  "mdlr": {
+    "id": "mdlr",
+    "name": "MDLR",
     "type": "other",
     "address": {
       "street": "",
@@ -1633,9 +1709,47 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "baan-fah-le-marché": {
-    "id": "baan-fah-le-marché",
-    "name": "Baan Fah le Marché",
+  "spaceplus-bangkok": {
+    "id": "spaceplus-bangkok",
+    "name": "Spaceplus Bangkok",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "matchpoint-sports-bar-events-sm-cherry-shaw-shaw-boulevard-mandaluyong-city": {
+    "id": "matchpoint-sports-bar-events-sm-cherry-shaw-shaw-boulevard-mandaluyong-city",
+    "name": "Matchpoint Sports Bar & Events, SM Cherry Shaw, Shaw Boulevard, Mandaluyong City",
     "type": "other",
     "address": {
       "street": "",
@@ -1709,9 +1823,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "spaceplus-bangkok": {
-    "id": "spaceplus-bangkok",
-    "name": "Spaceplus Bangkok",
+  "mgi-hall---bravo-bkk": {
+    "id": "mgi-hall---bravo-bkk",
+    "name": "MGI Hall - Bravo BKK",
     "type": "other",
     "address": {
       "street": "",
@@ -1823,44 +1937,6 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "scape": {
-    "id": "scape",
-    "name": "*SCAPE",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
   "เมองไทยรชดาลย-เธยเตอร": {
     "id": "เมองไทยรชดาลย-เธยเตอร",
     "name": "เมืองไทยรัชดาลัย เธียเตอร์",
@@ -1899,199 +1975,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "หอแสดงดนตร-วทยาลยดรยางคศลป-มหาวทยาลยมหดล": {
-    "id": "หอแสดงดนตร-วทยาลยดรยางคศลป-มหาวทยาลยมหดล",
-    "name": "หอแสดงดนตรี วิทยาลัยดุริยางคศิลป์ มหาวิทยาลัยมหิดล",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "keowkhajee-roasting-house-เขยวขจ-อำเภอทามะกา-จงหวดกาญจนบร": {
-    "id": "keowkhajee-roasting-house-เขยวขจ-อำเภอทามะกา-จงหวดกาญจนบร",
-    "name": "Keowkhajee Roasting House /เขียวขจี| อำเภอท่ามะกา |จังหวัดกาญจนบุรี|",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "melt-livehouse-cloud-11": {
-    "id": "melt-livehouse-cloud-11",
-    "name": "Melt Livehouse Cloud 11",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 5,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "samyan-mitrtown": {
-    "id": "samyan-mitrtown",
-    "name": "Samyan Mitrtown",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "avve-5-storey-event-space": {
-    "id": "avve-5-storey-event-space",
-    "name": "AVVE: 5-Storey Event Space",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "newport-performing-arts-theater": {
-    "id": "newport-performing-arts-theater",
-    "name": "Newport Performing Arts Theater",
+  "s31-sukhumvit-hotel": {
+    "id": "s31-sukhumvit-hotel",
+    "name": "S31 Sukhumvit Hotel",
     "type": "other",
     "address": {
       "street": "",
@@ -2165,85 +2051,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "515-event-hall": {
-    "id": "515-event-hall",
-    "name": "515 Event Hall",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 3,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "newport-performing-arts-theater-pasay-city": {
-    "id": "newport-performing-arts-theater-pasay-city",
-    "name": "Newport Performing Arts Theater, Pasay City",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "lido-connect": {
-    "id": "lido-connect",
-    "name": "Lido Connect",
+  "harmonickkc": {
+    "id": "harmonickkc",
+    "name": "Harmonic.kkc",
     "type": "other",
     "address": {
       "street": "",
@@ -2317,9 +2127,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "idea-live-arena": {
-    "id": "idea-live-arena",
-    "name": "idea Live Arena",
+  "atp-live-house-singapore": {
+    "id": "atp-live-house-singapore",
+    "name": "ATP Live House Singapore",
     "type": "other",
     "address": {
       "street": "",
@@ -2355,9 +2165,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "yodas-cnx-gallery": {
-    "id": "yodas-cnx-gallery",
-    "name": "Yoda’s CNX Gallery",
+  "fur-cafe-cnx": {
+    "id": "fur-cafe-cnx",
+    "name": "FUR CAFE CNX",
     "type": "other",
     "address": {
       "street": "",
@@ -2393,47 +2203,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "zepp-kuala-lumpur": {
-    "id": "zepp-kuala-lumpur",
-    "name": "Zepp Kuala Lumpur",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 2,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "โรงละครเสนหา-ชน2-ลการเดนส": {
-    "id": "โรงละครเสนหา-ชน2-ลการเดนส",
-    "name": "โรงละครเสน่หา (ชั้น2 ลีการ์เดนส์)",
+  "วทยาลยปองกนราชอาณาจกร-วปอ": {
+    "id": "วทยาลยปองกนราชอาณาจกร-วปอ",
+    "name": "วิทยาลัยป้องกันราชอาณาจักร (วปอ.)",
     "type": "other",
     "address": {
       "street": "",
@@ -2503,7 +2275,7 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 1,
+    "upcomingEventsCount": 2,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -2545,9 +2317,85 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "เรม-สงขลา-realm-songkhla": {
-    "id": "เรม-สงขลา-realm-songkhla",
-    "name": "เริ่ม สงขลา (REALM Songkhla)",
+  "up-theater-university-of-the-philippines-diliman-quezon-city": {
+    "id": "up-theater-university-of-the-philippines-diliman-quezon-city",
+    "name": "UP Theater, University of the Philippines Diliman, Quezon City",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "lido-hall-2-lido-livehouse": {
+    "id": "lido-hall-2-lido-livehouse",
+    "name": "Lido Hall 2 (Lido Livehouse)",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "โรงละครเสนหา-ชน2-ลการเดนส": {
+    "id": "โรงละครเสนหา-ชน2-ลการเดนส",
+    "name": "โรงละครเสน่หา (ชั้น2 ลีการ์เดนส์)",
     "type": "other",
     "address": {
       "street": "",
@@ -2617,121 +2465,7 @@
       "instagram": "",
       "facebook": ""
     },
-    "upcomingEventsCount": 3,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "lù-yīng-retreats": {
-    "id": "lù-yīng-retreats",
-    "name": "Lù Yīng Retreats",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "sân-khấu-c30-hòa-bình": {
-    "id": "sân-khấu-c30-hòa-bình",
-    "name": "Sân khấu C30 Hòa Bình",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "bukit-kiara-equestrian-and-resort": {
-    "id": "bukit-kiara-equestrian-and-resort",
-    "name": "Bukit Kiara Equestrian and Resort",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
+    "upcomingEventsCount": 2,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -2773,9 +2507,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "big-hall-workpoint-studio": {
-    "id": "big-hall-workpoint-studio",
-    "name": "BIG HALL WORKPOINT STUDIO",
+  "laguna-bay-beach-bar-penang": {
+    "id": "laguna-bay-beach-bar-penang",
+    "name": "Laguna Bay Beach Bar Penang",
     "type": "other",
     "address": {
       "street": "",
@@ -2811,9 +2545,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "mrfox-live-house": {
-    "id": "mrfox-live-house",
-    "name": "Mr.FOX Live House",
+  "aula-magna-josé-vasconcelos-mexico-city": {
+    "id": "aula-magna-josé-vasconcelos-mexico-city",
+    "name": "Aula Magna José Vasconcelos, Mexico City",
     "type": "other",
     "address": {
       "street": "",
@@ -2846,12 +2580,354 @@
       "facebook": ""
     },
     "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "impiana-klcc-hotel": {
+    "id": "impiana-klcc-hotel",
+    "name": "Impiana KLCC Hotel",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "mr-fox-livehouse": {
+    "id": "mr-fox-livehouse",
+    "name": "Mr. Fox Livehouse",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "vanilla-sky": {
+    "id": "vanilla-sky",
+    "name": "vanilla sky",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "tacloban-city-convention-center-astrodome": {
+    "id": "tacloban-city-convention-center-astrodome",
+    "name": "Tacloban City Convention Center Astrodome",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "volume-livehouse": {
+    "id": "volume-livehouse",
+    "name": "Volume Livehouse",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 2,
     "pastEventsCount": 0,
     "tags": []
   },
   "uob-live": {
     "id": "uob-live",
     "name": "UOB LIVE",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "music-museum": {
+    "id": "music-museum",
+    "name": "Music Museum",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "โรงละครชน-2-คณะศลปกรรมศาสตร-มหาวทยาลยราชภฏสวนสนนทา": {
+    "id": "โรงละครชน-2-คณะศลปกรรมศาสตร-มหาวทยาลยราชภฏสวนสนนทา",
+    "name": "โรงละครชั้น 2 คณะศิลปกรรมศาสตร์ มหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "city-of-santa-rosa-multi-purpose-complex": {
+    "id": "city-of-santa-rosa-multi-purpose-complex",
+    "name": "City of Santa Rosa Multi-Purpose Complex",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 2,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "the-music-hall-at-grha-pengharapan-building": {
+    "id": "the-music-hall-at-grha-pengharapan-building",
+    "name": "The Music Hall at Grha Pengharapan Building",
     "type": "other",
     "address": {
       "street": "",
@@ -2925,9 +3001,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "waterfront-cebu-city-hotel-casino": {
-    "id": "waterfront-cebu-city-hotel-casino",
-    "name": "Waterfront Cebu City Hotel & Casino",
+  "zepp-kuala-lumpur": {
+    "id": "zepp-kuala-lumpur",
+    "name": "Zepp Kuala Lumpur",
     "type": "other",
     "address": {
       "street": "",
@@ -2998,44 +3074,6 @@
       "facebook": ""
     },
     "upcomingEventsCount": 3,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "หอประชมมหดลสทธาคาร-มหาวทยาลยมหดล": {
-    "id": "หอประชมมหดลสทธาคาร-มหาวทยาลยมหดล",
-    "name": "หอประชุมมหิดลสิทธาคาร มหาวิทยาลัยมหิดล",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
     "pastEventsCount": 0,
     "tags": []
   },
@@ -3153,9 +3191,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "movylodge-cafe": {
-    "id": "movylodge-cafe",
-    "name": "MovyLodge Cafe",
+  "genting-highlands-malaysia": {
+    "id": "genting-highlands-malaysia",
+    "name": "Genting Highlands, Malaysia",
     "type": "other",
     "address": {
       "street": "",
@@ -3191,85 +3229,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "โรงละครชน-2-คณะศลปกรรมศาสตร-มหาวทยาลยราชภฏสวนสนนทา": {
-    "id": "โรงละครชน-2-คณะศลปกรรมศาสตร-มหาวทยาลยราชภฏสวนสนนทา",
-    "name": "โรงละครชั้น 2 คณะศิลปกรรมศาสตร์ มหาวิทยาลัยราชภัฏสวนสุนันทา",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "bangkok---thailand": {
-    "id": "bangkok---thailand",
-    "name": "Bangkok - Thailand",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "artspacebantadthong": {
-    "id": "artspacebantadthong",
-    "name": "Artspace@Bantadthong",
+  "g-village-bkk-จ-วล-เลจ-creative-hub-สตดโอ-eventsproduction-ครบวงจร-immersive-sta": {
+    "id": "g-village-bkk-จ-วล-เลจ-creative-hub-สตดโอ-eventsproduction-ครบวงจร-immersive-sta",
+    "name": "G Village BKk (จี วิล เลจ) — Creative Hub & สตูดิโอ EVENTS/PRODUCTION ครบวงจร | Immersive Stage ใจกลางกรุงเทพ",
     "type": "other",
     "address": {
       "street": "",
@@ -3343,9 +3305,85 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "lido-connect-hall2": {
-    "id": "lido-connect-hall2",
-    "name": "Lido Connect (Hall2)",
+  "the-street-ratchada": {
+    "id": "the-street-ratchada",
+    "name": "THE STREET RATCHADA",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "passi-city-arena": {
+    "id": "passi-city-arena",
+    "name": "Passi City Arena",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "mr-fox": {
+    "id": "mr-fox",
+    "name": "Mr Fox",
     "type": "other",
     "address": {
       "street": "",
@@ -3457,44 +3495,6 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "melt-livehouse-cloud-11-hall": {
-    "id": "melt-livehouse-cloud-11-hall",
-    "name": "Melt Livehouse Cloud 11 Hall",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
   "แตมสข-coffee-folk": {
     "id": "แตมสข-coffee-folk",
     "name": "แต้มสุข coffee & folk",
@@ -3533,9 +3533,47 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "british-university-vietnam-buv": {
-    "id": "british-university-vietnam-buv",
-    "name": "British University Vietnam (BUV)",
+  "roblox-headquarters": {
+    "id": "roblox-headquarters",
+    "name": "Roblox Headquarters",
+    "type": "other",
+    "address": {
+      "street": "",
+      "district": "",
+      "city": "Bangkok",
+      "mapsUrl": ""
+    },
+    "transport": {
+      "bts": [],
+      "mrt": [],
+      "notes": ""
+    },
+    "description": "",
+    "capacity": null,
+    "amenities": [],
+    "images": {
+      "hero": null,
+      "gallery": [],
+      "mapEmbed": null
+    },
+    "rating": {
+      "score": null,
+      "reviewCount": 0,
+      "source": ""
+    },
+    "contact": {
+      "website": "",
+      "phone": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "upcomingEventsCount": 1,
+    "pastEventsCount": 0,
+    "tags": []
+  },
+  "cloud-11": {
+    "id": "cloud-11",
+    "name": "Cloud 11",
     "type": "other",
     "address": {
       "street": "",
@@ -3609,47 +3647,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "union-hall": {
-    "id": "union-hall",
-    "name": "Union Hall",
-    "type": "other",
-    "address": {
-      "street": "",
-      "district": "",
-      "city": "Bangkok",
-      "mapsUrl": ""
-    },
-    "transport": {
-      "bts": [],
-      "mrt": [],
-      "notes": ""
-    },
-    "description": "",
-    "capacity": null,
-    "amenities": [],
-    "images": {
-      "hero": null,
-      "gallery": [],
-      "mapEmbed": null
-    },
-    "rating": {
-      "score": null,
-      "reviewCount": 0,
-      "source": ""
-    },
-    "contact": {
-      "website": "",
-      "phone": "",
-      "instagram": "",
-      "facebook": ""
-    },
-    "upcomingEventsCount": 1,
-    "pastEventsCount": 0,
-    "tags": []
-  },
-  "resorts-world-convention-centre-ballroom": {
-    "id": "resorts-world-convention-centre-ballroom",
-    "name": "Resorts World Convention Centre Ballroom",
+  "moon-star-studio-company-limited": {
+    "id": "moon-star-studio-company-limited",
+    "name": "Moon Star Studio Company Limited",
     "type": "other",
     "address": {
       "street": "",
@@ -3723,9 +3723,9 @@
     "pastEventsCount": 0,
     "tags": []
   },
-  "jungle-space-village-จนครพนม": {
-    "id": "jungle-space-village-จนครพนม",
-    "name": "Jungle Space Village จ.นครพนม",
+  "sabah-international-convention-centre": {
+    "id": "sabah-international-convention-centre",
+    "name": "Sabah International Convention Centre",
     "type": "other",
     "address": {
       "street": "",
