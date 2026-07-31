@@ -1,5 +1,53 @@
 [
   {
+    "id": "6dc505ef4283",
+    "title": "yung kai - stay with the ocean, i’ll find you: asia 2026More Info",
+    "date": {
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/yung-kai-stay-with-the-ocean-i-ll-find-you-asia-2026-bangkok-tickets-edp1688680",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/yung-kai-stay-with-the-ocean-i-ll-find-you-asia-2026-bangkok-tickets-edp1688680"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:47.666125",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "9096e528829f",
     "title": "Young K Solo Tour <YOUNGEST> in BANGKOKMore Info",
     "date": {
@@ -40,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:22.853620",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:47.935593",
       "isInternational": false
     },
     "description": ""
@@ -88,57 +136,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:23.148021",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "7f1ef48d653e",
-    "title": "WESTLIFE 25: THE ANNIVERSARY WORLD TOURMore Info",
-    "date": {
-      "startDate": "2027-01-25",
-      "endDate": "2027-01-25",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/westlife-25-the-anniversary-world-tour-bangkok-tickets-edp1686411",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/westlife-25-the-anniversary-world-tour-bangkok-tickets-edp1686411"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:23.384582",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:47.995919",
       "isInternational": false
     },
     "description": ""
@@ -184,9 +184,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:23.617815",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:48.327478",
       "isInternational": false
     },
     "description": ""
@@ -232,9 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:24.146078",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:48.678757",
       "isInternational": false
     },
     "description": ""
@@ -280,9 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:24.340610",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:48.915141",
       "isInternational": false
     },
     "description": ""
@@ -328,9 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:24.636685",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:49.236995",
       "isInternational": false
     },
     "description": ""
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:24.827175",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:49.471409",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +424,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:25.158809",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:49.799429",
       "isInternational": false
     },
     "description": ""
@@ -472,57 +472,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:25.513509",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "943c25f5f368",
-    "title": "Post Malone Presents The BIG ASS Stadium World Tour22 ก.ย. 2569More Info",
-    "date": {
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/post-malone-presents-the-big-ass-stadium-world-tour-bangkok-tickets-edp1664183",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/post-malone-presents-the-big-ass-stadium-world-tour-bangkok-tickets-edp1664183"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:25.922602",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:50.073278",
       "isInternational": false
     },
     "description": ""
@@ -568,9 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:28.153292",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:52.463383",
       "isInternational": false
     },
     "description": ""
@@ -616,9 +568,57 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-07-29",
-      "updatedAt": "2026-07-29",
-      "scrapedAt": "2026-07-29T04:00:28.476812",
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:52.802015",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "445c5ef72553",
+    "title": "WESTLIFE 25: THE ANNIVERSARY WORLD TOUR25 ม.ค. 2570More Info",
+    "date": {
+      "startDate": "2027-01-25",
+      "endDate": "2027-01-25",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/westlife-25-the-anniversary-world-tour-bangkok-tickets-edp1686411",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/westlife-25-the-anniversary-world-tour-bangkok-tickets-edp1686411"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-07-31",
+      "updatedAt": "2026-07-31",
+      "scrapedAt": "2026-07-31T04:00:53.066601",
       "isInternational": false
     },
     "description": ""
