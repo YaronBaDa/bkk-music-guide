@@ -40,9 +40,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:42.493950",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:52.010064",
       "isInternational": false
     },
     "description": ""
@@ -88,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:42.759358",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:52.209928",
       "isInternational": false
     },
     "description": ""
@@ -136,9 +136,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:43.103308",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:52.574671",
       "isInternational": false
     },
     "description": ""
@@ -184,9 +184,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:43.460826",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:52.864547",
       "isInternational": false
     },
     "description": ""
@@ -232,9 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:43.718669",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:53.087619",
       "isInternational": false
     },
     "description": ""
@@ -280,9 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:43.931309",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:53.402879",
       "isInternational": false
     },
     "description": ""
@@ -328,57 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:44.247024",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "0ca51ae210b8",
-    "title": "F✦FOREVER 1st World TourMore InfoMore Info",
-    "date": {
-      "startDate": "2026-08-01",
-      "endDate": "2026-08-01",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/f-forever-1st-world-tour-bangkok-tickets-edp1678757",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/f-forever-1st-world-tour-bangkok-tickets-edp1678757"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:44.470147",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:53.611680",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:44.801391",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:53.936229",
       "isInternational": false
     },
     "description": ""
@@ -472,9 +424,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:45.144202",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:54.273004",
       "isInternational": false
     },
     "description": ""
@@ -520,9 +472,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:47.385468",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:56.587396",
       "isInternational": false
     },
     "description": ""
@@ -568,9 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:47.675840",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:56.865069",
       "isInternational": false
     },
     "description": ""
@@ -616,9 +568,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-01",
-      "updatedAt": "2026-08-01",
-      "scrapedAt": "2026-08-01T04:00:47.971745",
+      "createdAt": "2026-08-02",
+      "updatedAt": "2026-08-02",
+      "scrapedAt": "2026-08-02T04:00:57.105378",
       "isInternational": false
     },
     "description": ""
