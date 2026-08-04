@@ -1,5 +1,53 @@
 [
   {
+    "id": "f7f5c975516d",
+    "title": "Maroon 5 Asia 2027More Info",
+    "date": {
+      "startDate": "2026-08-04",
+      "endDate": null,
+      "doorTime": null,
+      "dateStatus": "tbc",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/maroon-5-asia-2027-bangkok-tickets-edp1689618",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/maroon-5-asia-2027-bangkok-tickets-edp1689618"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:03.806846",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
     "id": "6dc505ef4283",
     "title": "yung kai - stay with the ocean, i’ll find you: asia 2026More Info",
     "date": {
@@ -40,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:00:59.572994",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:04.239172",
       "isInternational": false
     },
     "description": ""
@@ -88,9 +136,57 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:00:59.836747",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:04.474330",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "bbfd4e6280ed",
+    "title": "ASH DA HERO 1ST SOLO LIVE IN BANGKOKMore Info",
+    "date": {
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:04.828655",
       "isInternational": false
     },
     "description": ""
@@ -136,57 +232,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:00.264901",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "f60fe2a59658",
-    "title": "FKJ – Tyber TourMore Info",
-    "date": {
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/fkj-tyber-tour-bangkok-tickets-edp1685439",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/fkj-tyber-tour-bangkok-tickets-edp1685439"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:00.630099",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:05.210691",
       "isInternational": false
     },
     "description": ""
@@ -232,57 +280,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:00.983268",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "cf0e8b7d4779",
-    "title": "Zara Larsson Midnight Sun TourMore Info",
-    "date": {
-      "startDate": "2026-11-01",
-      "endDate": "2026-11-01",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:01.197240",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:05.410264",
       "isInternational": false
     },
     "description": ""
@@ -328,9 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:01.699797",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:05.698377",
       "isInternational": false
     },
     "description": ""
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:02.189330",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:06.080236",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +424,57 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:02.479293",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:06.372567",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "c8546a4f19d6",
+    "title": "Zara Larsson Midnight Sun Tour1 พ.ย. 2569More Info",
+    "date": {
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/zara-larsson-midnight-sun-tour-bangkok-tickets-edp1684186"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:06.749345",
       "isInternational": false
     },
     "description": ""
@@ -472,9 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:04.502748",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:08.486543",
       "isInternational": false
     },
     "description": ""
@@ -520,9 +568,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:04.823951",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:08.685195",
       "isInternational": false
     },
     "description": ""
@@ -568,9 +616,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-03",
-      "updatedAt": "2026-08-03",
-      "scrapedAt": "2026-08-03T04:01:05.042498",
+      "createdAt": "2026-08-04",
+      "updatedAt": "2026-08-04",
+      "scrapedAt": "2026-08-04T04:01:08.915902",
       "isInternational": false
     },
     "description": ""
