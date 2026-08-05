@@ -3,7 +3,7 @@
     "id": "f7f5c975516d",
     "title": "Maroon 5 Asia 2027More Info",
     "date": {
-      "startDate": "2026-08-04",
+      "startDate": "2026-08-05",
       "endDate": null,
       "doorTime": null,
       "dateStatus": "tbc",
@@ -40,9 +40,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:03.806846",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:17.689866",
       "isInternational": false
     },
     "description": ""
@@ -88,9 +88,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:04.239172",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:18.138819",
       "isInternational": false
     },
     "description": ""
@@ -136,105 +136,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:04.474330",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "bbfd4e6280ed",
-    "title": "ASH DA HERO 1ST SOLO LIVE IN BANGKOKMore Info",
-    "date": {
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "other"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:04.828655",
-      "isInternational": false
-    },
-    "description": ""
-  },
-  {
-    "id": "ae5db4313c74",
-    "title": "FLO - Therapy At The Club TourMore Info",
-    "date": {
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "doorTime": null,
-      "dateStatus": "confirmed",
-      "recurrence": null
-    },
-    "venueId": null,
-    "venueName": "",
-    "artists": [],
-    "lineup": [],
-    "genres": [
-      "hip-hop"
-    ],
-    "sceneTags": [],
-    "pricing": {
-      "currency": "THB",
-      "fromPrice": null,
-      "toPrice": null,
-      "tiers": [],
-      "notes": ""
-    },
-    "ticketUrl": "https://www.livenationtero.co.th/event/flo-therapy-at-the-club-tour-bangkok-tickets-edp1687170",
-    "ticketSource": "livenationtero",
-    "images": {
-      "poster": "",
-      "banner": null,
-      "gallery": [],
-      "dominantColor": null
-    },
-    "status": "upcoming",
-    "sourceIds": [
-      {
-        "source": "livenationtero",
-        "id": "https://www.livenationtero.co.th/event/flo-therapy-at-the-club-tour-bangkok-tickets-edp1687170"
-      }
-    ],
-    "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:05.210691",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:18.329481",
       "isInternational": false
     },
     "description": ""
@@ -280,9 +184,105 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:05.410264",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:18.536756",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "bbfd4e6280ed",
+    "title": "ASH DA HERO 1ST SOLO LIVE IN BANGKOKMore Info",
+    "date": {
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "other"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/ash-da-hero-1st-solo-live-in-bangkok-bangkok-tickets-edp1685450"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:18.718367",
+      "isInternational": false
+    },
+    "description": ""
+  },
+  {
+    "id": "760c27a0b721",
+    "title": "FLO - Therapy At The Club Tour29 ส.ค. 2569More Info",
+    "date": {
+      "startDate": "2026-08-29",
+      "endDate": "2026-08-29",
+      "doorTime": null,
+      "dateStatus": "confirmed",
+      "recurrence": null
+    },
+    "venueId": null,
+    "venueName": "",
+    "artists": [],
+    "lineup": [],
+    "genres": [
+      "hip-hop"
+    ],
+    "sceneTags": [],
+    "pricing": {
+      "currency": "THB",
+      "fromPrice": null,
+      "toPrice": null,
+      "tiers": [],
+      "notes": ""
+    },
+    "ticketUrl": "https://www.livenationtero.co.th/event/flo-therapy-at-the-club-tour-bangkok-tickets-edp1687170",
+    "ticketSource": "livenationtero",
+    "images": {
+      "poster": "",
+      "banner": null,
+      "gallery": [],
+      "dominantColor": null
+    },
+    "status": "upcoming",
+    "sourceIds": [
+      {
+        "source": "livenationtero",
+        "id": "https://www.livenationtero.co.th/event/flo-therapy-at-the-club-tour-bangkok-tickets-edp1687170"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:18.964260",
       "isInternational": false
     },
     "description": ""
@@ -328,9 +328,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:05.698377",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:19.224566",
       "isInternational": false
     },
     "description": ""
@@ -376,9 +376,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:06.080236",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:19.668769",
       "isInternational": false
     },
     "description": ""
@@ -424,9 +424,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:06.372567",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:19.992559",
       "isInternational": false
     },
     "description": ""
@@ -472,9 +472,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:06.749345",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:20.358562",
       "isInternational": false
     },
     "description": ""
@@ -520,9 +520,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:08.486543",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:22.090702",
       "isInternational": false
     },
     "description": ""
@@ -568,9 +568,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:08.685195",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:22.427960",
       "isInternational": false
     },
     "description": ""
@@ -616,9 +616,9 @@
       }
     ],
     "metadata": {
-      "createdAt": "2026-08-04",
-      "updatedAt": "2026-08-04",
-      "scrapedAt": "2026-08-04T04:01:08.915902",
+      "createdAt": "2026-08-05",
+      "updatedAt": "2026-08-05",
+      "scrapedAt": "2026-08-05T04:00:22.635739",
       "isInternational": false
     },
     "description": ""
